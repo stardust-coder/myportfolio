@@ -69,13 +69,14 @@ if (!doNotTrack) {
 					</li>
 					
 					<li>
-						<a href="https://www.c.u-tokyo.ac.jp/info/academics/zenki/tlp/index.html" data-largesrc="images/full/5.png" data-title="TLP" data-description="Trilingual Program @UTokyo" data-buttontext="">
-							<img src="images/thumbs/5.png" alt="TLP"/>
+						<a href="https://www.c.u-tokyo.ac.jp/info/academics/zenki/tlp/index.html" data-largesrc="images/full/tlp.png" data-title="TLP" data-description="Trilingual Program @UTokyo" data-buttontext="">
+							<img src="images/thumbs/tlp.png" alt="TLP"/>
 						</a>
 					</li>
 					
 					<li>
-						<a href="https://www.glp.u-tokyo.ac.jp/" data-largesrc="images/full/3.png" data-title="GLP" data-description="Global Leader Program @UTokyo" data-buttontext="">
+						<a href="https://www.glp.u-tokyo.ac.jp/" data-largesrc="images/full/3.png" data-title="GLP" data-description="Global Leader Program @UTokyo 
+ Measures to Accelerate the shift towards EV society" data-buttontext="">
 							<img src="images/thumbs/3.png" alt="GLP"/>
 						</a>
 					</li>
@@ -87,20 +88,14 @@ if (!doNotTrack) {
 					</li>
 					
 					<li>
-						<a href="https://github.com/aerohub/hugrid" data-largesrc="images/full/1.png" data-title="Hugrid Theme" data-description="A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on." data-buttontext="">
-							<img src="images/thumbs/1.png" alt="Hugrid Theme"/>
+						<a href="https://ignite-your-ambition.com" data-largesrc="images/full/2.png" data-title="IGNT" data-description="Ignite your ambition" data-buttontext="">
+							<img src="images/thumbs/2.png" alt="IGNT"/>
 						</a>
 					</li>
 					
 					<li>
-						<a href="https://github.com/aerohub/hugrid" data-largesrc="images/full/2.png" data-title="Hugrid Theme" data-description="A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on." data-buttontext="">
-							<img src="images/thumbs/2.png" alt="Hugrid Theme"/>
-						</a>
-					</li>
-					
-					<li>
-						<a href="https://github.com/aerohub/hugrid" data-largesrc="images/full/3.png" data-title="Hugrid Theme" data-description="A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on." data-buttontext="">
-							<img src="images/thumbs/3.png" alt="Hugrid Theme"/>
+						<a href="https://hatch-asakusa.themedia.jp" data-largesrc="images/full/hatch.png" data-title="HATCH" data-description="HATCH Asakusa Renovation Project" data-buttontext="">
+							<img src="images/thumbs/hatch.png" alt="HATCH"/>
 						</a>
 					</li>
 					
@@ -411,7 +406,7 @@ if (!doNotTrack) {
 					create : function() {
 						this.$title = $( '<h3></h3>' );
 						this.$description = $( '<p></p>' );
-						this.$href = $( '<a href="#" target="_blank">Get the theme</a>' );
+						this.$href = $( '<a href="#" target="_blank">LINK TO DETAIL</a>' );
 						this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$description, this.$href );
 						this.$loading = $( '<div class="og-loading"></div>' );
 						this.$fullimage = $( '<div class="og-fullimg"></div>' ).append( this.$loading );
@@ -450,7 +445,7 @@ if (!doNotTrack) {
 						this.$title.html( eldata.title );
 						this.$description.html( eldata.description );
 						if(eldata.buttontext) this.$href.text(eldata.buttontext);
-						else this.$href.text("Get the theme")
+						else this.$href.text("LINK TO DETAIL")
 
 						if (eldata.href) {
 							this.$href.attr( 'href', eldata.href );
