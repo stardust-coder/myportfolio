@@ -14,11 +14,11 @@ canonifyurls = true
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
-    subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    author = "Pavel Kanyshev"
+    title = "Stardust's portfolio"
+    subtitle = "subtitle"
+    author = "Stardust"
     description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+    keywords = "Hugo, portfolio"
 
     # Body background color
     bodybgcolor = "#f9f9f9"
