@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "https://stardust-coder.github.io/myportfolio/"
 languageCode = "en-us"
 title = "Stardust's portfolio"
 theme = "hugrid"
@@ -9,7 +9,8 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "docs"
+canonifyurls = true
 
 [params]
     # Meta
