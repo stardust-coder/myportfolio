@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://stardust-coder.github.io/myportfolio/"
 languageCode = "en-us"
-title = "Stardust's portfolio"
+title = "My portfolio"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
@@ -14,11 +14,11 @@ canonifyurls = true
 
 [params]
     # Meta
-    title = "Stardust's portfolio"
-    subtitle = "subtitle"
+    title = "My portfolio"
+    subtitle = "B.S. Mathematical Engineering and Information physics @UTokyo"
     author = "Stardust"
-    description = "Hugrid - grid theme for Hugo with an expanding image preview."
-    keywords = "Hugo, portfolio"
+    description = ""
+    keywords = ""
 
     # Body background color
     bodybgcolor = "#f9f9f9"
