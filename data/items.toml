@@ -42,10 +42,10 @@ description = "Global Leader Program @UTokyo \n Measures to Accelerate the shift
 url = "https://www.glp.u-tokyo.ac.jp/"
 [[items]]
 title = "AI LIGHT"
-image = "images/full/4.png"
-thumb = "images/thumbs/4.png"
+image = "images/full/ailight.png"
+thumb = "images/thumbs/ailight.png"
 alt = "AI LIGHT"
-description = "Ongoing."
+description = "Coming soon. Working on a project with high school classmates."
 url = ""
 # [[items]]
 # title = "Moomin Valley Park"
