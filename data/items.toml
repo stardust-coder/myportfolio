@@ -16,8 +16,8 @@ url = "https://www.instagram.com/stardust13551/"
 
 [[items]]
 title = "Balloon Art"
-image = "images/full/mickey.png"
-thumb = "images/thumbs/mickey.png"
+image = "images/full/mickey.jpeg"
+thumb = "images/thumbs/mickey.jpeg"
 alt = "Balloon Art"
 description = "Balloon Art is fun."
 url = "https://stardust-coder.github.io/balloongallery/portfolio/"
