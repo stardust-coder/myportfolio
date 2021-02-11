@@ -17,8 +17,8 @@ url = "https://www.sonycsl.co.jp/tokyo/10971/"
 
 [[items]]
 title = "MY Github ACCOUNT"
-image = "images/full/Github.jpg"
-thumb = "images/thumbs/Github.jpg"
+image = "images/full/GitHub.jpg"
+thumb = "images/thumbs/GitHub.jpg"
 alt = "github"
 description = ""
 url = "https://github.com/stardust-coder"
