@@ -1,18 +1,18 @@
 [[items]]
 title = "AP BLOG"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
+image = "images/full/blog.png"
+thumb = "images/thumbs/blog.png"
 alt = "AP BLOG"
 description = "My own blog website. Only Japanese supported."
 url = "https://stardust-coder.github.io/apblog/"
 
 [[items]]
 title = "Juggling"
-image = "images/full/jug.png"
-thumb = "images/thumbs/jug.png"
+image = "images/full/jug.jpg"
+thumb = "images/thumbs/jug.jpg"
 alt = "Juggling"
 description = "Juggling is also fun."
-url = "https://www.instagram.com/stardust13551/"
+url = "https://www.youtube.com/watch?v=d9ymiS7msO0"
 
 [[items]]
 title = "Balloon Art"
@@ -32,8 +32,8 @@ url = ""
 
 [[items]]
 title = "GLP"
-image = "images/full/3.png"
-thumb = "images/thumbs/3.png"
+image = "images/full/glp.jpg"
+thumb = "images/thumbs/glp.jpg"
 alt = "GLP"
 description = "Global Leader Program @UTokyo, Phase1:Measures to Accelerate the shift towards EV society, Phase2:Sustainability"
 url = "https://www.glp.u-tokyo.ac.jp/"
