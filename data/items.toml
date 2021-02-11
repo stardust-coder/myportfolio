@@ -1,15 +1,15 @@
 [[items]]
 title = "AP BLOG"
-image = "images/full/blog.png"
-thumb = "images/thumbs/blog.png"
+image = "images/full/blog.jpg"
+thumb = "images/thumbs/blog.jpg"
 alt = "AP BLOG"
 description = "My own blog website. Only Japanese supported."
 url = "https://stardust-coder.github.io/apblog/"
 
 [[items]]
 title = "Juggling"
-image = "images/full/jug.jpg"
-thumb = "images/thumbs/jug.jpg"
+image = "images/full/jug.JPG"
+thumb = "images/thumbs/jug.JPG"
 alt = "Juggling"
 description = "Juggling is also fun."
 url = "https://www.youtube.com/watch?v=d9ymiS7msO0"
