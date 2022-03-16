@@ -1,6 +1,6 @@
 +++
 date = "2022-03-15T21:05:33+05:30"
-title = "About me"
+title = "Publish"
 +++
 
 #### Issey Sukeda
