@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stardust-coder.github.io/myportfolio/japanese/</loc>
+    <lastmod>2022-03-17T15:50:15+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stardust-coder.github.io/myportfolio/about/</loc>
     <lastmod>2022-03-15T21:05:33+05:30</lastmod>
   </url>
@@ -13,12 +18,12 @@
   </url>
   
   <url>
-    <loc>https://stardust-coder.github.io/myportfolio/publish/</loc>
-    <lastmod>2022-03-15T21:05:33+05:30</lastmod>
+    <loc>https://stardust-coder.github.io/myportfolio/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://stardust-coder.github.io/myportfolio/contact/</loc>
+    <loc>https://stardust-coder.github.io/myportfolio/publications/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   

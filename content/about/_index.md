@@ -5,23 +5,18 @@ title = "About me"
 
 #### Issey Sukeda
 
-Co-Founder, [EQUES Inc.]("https://naokikishieques.wixsite.com/website")
+Co-Founder, [EQUES Inc.]("https://naokikishieques.wixsite.com/website")  
+1st year, Graduate School of Infromation Science and Technology
 
-Part-time Researcher, UTokyo Hospital
+#### Hobbies
+Juggling & Balloonart/Chinese/App development/Chess
 
 ![This is me][1]
-
-#### Papers
-* Investigating modularity density maximization: Column generation acceleration and computational complexity analysis (submitting to European Journal of Operation Research)
-* Lessons learned from MOCHA: a mobile check-in application for university campuses (submitted to IEEE Pervasive Computing)
-
-
-
 
 
 #### Current Activities
 * [Entrepreneur Quest](https://weblab.t.u-tokyo.ac.jp/kigyoquest/), UTokyo Matsuo Lab.
-* Research Team, UTokyo [MOCHA](https://mocha.t.u-tokyo.ac.jp) project
+* Research Assistant, UTokyo [MOCHA](https://mocha.t.u-tokyo.ac.jp) project
 * Naminige project, Code for Japan
     - developing a digital hazardmap
 * [For Earth](https://forearthut.com)
@@ -33,20 +28,6 @@ Part-time Researcher, UTokyo Hospital
 * 2019~ UTokyo [Global Leader Program](https://www.glp.u-tokyo.ac.jp)
 * 2018 UTokyo [Trilingual Project](http://www.cgcs.c.u-tokyo.ac.jp/tlp/)
 
-
-#### Awards
-* Finalist, Fin SUM Business Contest 2021
-* Yahoo Prize, Civictech Challenge Cup 2021 U-22
-* First place, AI/SUM Business Contest 2020
-* Second place, UTokyo MDS Data Analysis Contest 2019
-* Third place, All Japan Diabolo Competition
-* Bronze Award, Chemistry Grand Prix
-
-#### Hobbies
-* Juggling & Balloonart
-* Chinese
-* Smartphone App development
-    - 東大生と考えるフェルミ推定 [Lite]() [Pro]()
 
 #### Other Experiences
 * On-Campus Job, UTokyo Information Science and Technology
@@ -60,6 +41,16 @@ Part-time Researcher, UTokyo Hospital
     - Developed a piezoelectrical device.
 * 中華圏留学生交流団体Pandadon
 
+
+#### Awards
+* Finalist, Fin SUM Business Contest 2021
+* Yahoo Prize, Civictech Challenge Cup 2021 U-22
+* First place, AI/SUM Business Contest 2020
+* Second place, UTokyo MDS Data Analysis Contest 2019
+* Third place, All Japan Diabolo Competition
+* Bronze Award, Chemistry Grand Prix
+
+
 #### Job History
 * 2022~ AI Engineer, Collaborative Research Project, UTokyo Matsuo Lab. 
 * 2022~ Part-time AI Reseacher, UTokyo Hospital
@@ -69,13 +60,9 @@ Part-time Researcher, UTokyo Hospital
 
 
 #### Education
-* UTokyo Graduate School of Information Science and Technology
+* UTokyo Graduate School of Information Science and Technology (Proceeding)
+    - 4th Lab. [link]()
 * UTokyo Mathematical Engineering
-    - 数理第５研究室 [link](https://www.or.mist.i.u-tokyo.ac.jp/members/)
+    - 5th Lab. [link](https://www.or.mist.i.u-tokyo.ac.jp/members/)
 
 [1]: /img/about.jpg
-
-
-
-
-* [マスフェスタ](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
