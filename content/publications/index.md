@@ -5,7 +5,7 @@ title = "Publications"
 
 #### Papers
 
-* Investigating modularity density maximization: Column generation acceleration and computational complexity analysis (submitting to European Journal of Operation Research)
+* Bachelor Thesis: Accelerating Column Generation on Modularity Density Maximization 
 * Lessons learned from MOCHA: a mobile check-in application for university campuses (submitted to IEEE Pervasive Computing)
 
 #### Videos

@@ -3,10 +3,12 @@ date = "2022-03-15T21:05:33+05:30"
 title = "About me"
 +++
 
-#### Issey Sukeda
+### Issey Sukeda
 
 Co-Founder, [EQUES Inc.]("https://naokikishieques.wixsite.com/website")  
-1st year, Graduate School of Infromation Science and Technology
+1st year, Graduate School of Information Science and Technology
+
+[link to CV]()
 
 #### Hobbies
 Juggling & Balloonart/Chinese/App development/Chess
@@ -29,9 +31,9 @@ Juggling & Balloonart/Chinese/App development/Chess
 * 2018 UTokyo [Trilingual Project](http://www.cgcs.c.u-tokyo.ac.jp/tlp/)
 
 
+
 #### Other Experiences
 * On-Campus Job, UTokyo Information Science and Technology
-    - Hosted a debate session online.
 * UTokyo Real Data Analysis Competition
     - Time series data analysis.
 * Summer Foundation Program, Hongo Techgarage
@@ -61,8 +63,6 @@ Juggling & Balloonart/Chinese/App development/Chess
 
 #### Education
 * UTokyo Graduate School of Information Science and Technology (Proceeding)
-    - 4th Lab. [link]()
 * UTokyo Mathematical Engineering
-    - 5th Lab. [link](https://www.or.mist.i.u-tokyo.ac.jp/members/)
 
-[1]: /img/about.jpg
+[1]: /img/me.png
