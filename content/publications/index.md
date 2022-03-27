@@ -9,6 +9,7 @@ title = "Publications"
 * Lessons learned from MOCHA: a mobile check-in application for university campuses (submitted to IEEE Pervasive Computing)
 
 #### Videos
+* Malabaristas 27th 卒業記念動画 [link](https://www.youtube.com/watch?v=dTdfhJqUMZ4)
 * 五月祭2021 [link](https://www.youtube.com/watch?v=u07cxDtxN-o)
 * 駒場祭2020 Malabari Express 999 [link](https://www.youtube.com/watch?v=d9ymiS7msO0)
 
