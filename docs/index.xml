@@ -8,6 +8,54 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Mar 2022 21:05:33 +0530</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>フェルミ推定App</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work3/</guid>
+      <description>フェルミ推定とは, 実際に調査するのが難しい値を論理的推論に基づき概算する推定方法のことである.
+エンリコ・フェルミ（Enrico Fermi） イタリアの物理学者. 統計力学や量子力学の分野で多くの著名な業績を残し, 様々な専門用語にその名を残している.</description>
+    </item>
+    
+    <item>
+      <title>DIABOLOS</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLUBS</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work5/</guid>
+      <description>クラブとは, ボウリングのピン🎳のような形をしたジャグリングの道具です. 先端に火をつけたトーチという道具も同様に投げて使います.
+ファイヤージャグリングです🔥
+筑駒文化祭2016 ファイヤートーチ</description>
+    </item>
+    
+    <item>
+      <title>BALLOON ARTS</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work6/</guid>
+      <description>バルーンアートは, 細長い風船を捻ることで作品を創っていくアートです.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://stardust-coder.github.io/myportfolio/japanese/</link>
       <pubDate>Thu, 17 Mar 2022 15:50:15 +0900</pubDate>
@@ -16,7 +64,20 @@
       <description>株式会社EQUES 共同創業者/CTO
 情報理工学系研究科 数理情報学
 お知らせ  2022年6月 プレプリントを投稿しました. arxiv 2022年3月 東京大学工学部計数工学科を卒業しました. 2022年2月 学部の同期と共に, 株式会社EQUESを共同創業しました.  研究内容 コピュラ統計学に興味を持っています. 学部では数理最適化を研究していました. 医療データ解析や待ち行列予想などにも取り組んでいます.
- Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda: A study on modularity density maximization: Column generation acceleration and computational complexity analysis, arXiv:2206.10901.  PJ  なみにげ（デジタルハザードマップ開発プロジェクト）@Code for Japan 東大社会起業コミュニティ For Earth HP 『美×音 うたをみる』運営幹部 HP Twitter 松尾研究所 共同研究プロジェクト 松尾研究所 起業クエスト link 東大 MOCHAプロジェクト link  発表  最適化手法とアルゴリズム ─未来を担う若手研究者の集い 2022─ U-23サミット2020 学生登壇 マスフェスタ（高校）  受賞（個人）  Finalist, Fin SUM Business Contest 2021 link Yahoo Prize, Civictech Challenge Cup 2021 U-22 link First place, AI/SUM Business Contest 2020 link Second place, UTokyo MDS Data Analysis Contest 2019 link Third place, All Japan Diabolo Competition Bronze Award, Chemistry Grand Prix link  その他  東大新聞「学生生活紹介」 link ソニー東大社会連携講座 Ignite Your Ambition, TU Project 修了生 本郷テックガレージ Summer Foundation Program kehai, SHIBUYA QWS 4,5期生 東大GLP-GEfIL 修了生 UTSIP(UTokyo Summer Internship Program) @ 森田研究室 東大トライリンガルプログラム 前期課程修了 中華圏留学生交流団体Pandadon 運営  趣味  ジャグリング🤹‍♀️, バルーンアート🎈,チェス🐴, ギター🎸, など  出演動画  Malabaristas 27th 卒業記念動画 YouTube 五月祭2021 YouTube 駒場祭2020 Malabari Express 999 YouTube  </description>
+ Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda: A study on modularity density maximization: Column generation acceleration and computational complexity analysis, arXiv:2206.10901.  PJ  なみにげ（デジタルハザードマップ開発プロジェクト）@Code for Japan 東大社会起業コミュニティ For Earth HP 『美×音 うたをみる』運営幹部 HP Twitter 松尾研究所 共同研究プロジェクト 松尾研究所 起業クエスト link 東大 MOCHAプロジェクト link  発表  最適化手法とアルゴリズム ─未来を担う若手研究者の集い 2022─ U-23サミット2020 学生登壇 マスフェスタ（高校）  受賞（個人）  Finalist, Fin SUM Business Contest 2021 link Yahoo Prize, Civictech Challenge Cup 2021 U-22 link First place, AI/SUM Business Contest 2020 link Second place, UTokyo MDS Data Analysis Contest 2019 link Third place, All Japan Diabolo Competition Bronze Award, Chemistry Grand Prix link  その他  東大新聞「学生生活紹介」 link ソニー東大社会連携講座 Ignite Your Ambition, TU Project 修了生 本郷テックガレージ Summer Foundation Program kehai, SHIBUYA QWS 4,5期生 東大GLP-GEfIL 修了生 UTSIP(UTokyo Summer Internship Program) @ 森田研究室 東大トライリンガルプログラム 前期課程修了 中華圏留学生交流団体Pandadon 運営  趣味  ジャグリング🤹‍♀️, バルーンアート🎈,チェス🐴, ギター🎸, など  出演動画  Malabaristas 27th 卒業記念動画 YouTube 五月祭2021 YouTube 駒場祭2020 Malabari Express 999 YouTube 筑駒文化祭2015 中夜祭 YouTube  </description>
+    </item>
+    
+    <item>
+      <title>My Pace</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work1/</guid>
+      <description>多様性を保留する画一的な時と離れ、 人と人と間に有機的な”とき”の可能性を探る作品。 いまの時間を尋ねれば、返る答えは同じでしょう。画面はみな同じ時を映し、それを確認する人々は少し寂しげに思われます。
+もしかしたら私たちのもとに流れゆく”とき”は、誰かの緊張と君の瞬きとが交わった、そこにある”とき”ではないでしょうか。
+これはあなたが見ると動きを止める時計。ここでは眼差しがすれ違い、戸惑い、”とき”は降り積もる。
+Freezed flux YouTube
+My Pace YouTube (Coming soon&amp;hellip;)</description>
     </item>
     
   </channel>

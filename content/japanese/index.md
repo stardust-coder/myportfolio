@@ -66,7 +66,7 @@ A study on modularity density maximization: Column generation acceleration and c
 * Malabaristas 27th 卒業記念動画 [YouTube](https://www.youtube.com/watch?v=dTdfhJqUMZ4)
 * 五月祭2021 [YouTube](https://www.youtube.com/watch?v=u07cxDtxN-o)
 * 駒場祭2020 Malabari Express 999 [YouTube](https://www.youtube.com/watch?v=d9ymiS7msO0)
-
+* 筑駒文化祭2015 中夜祭 [YouTube](https://www.youtube.com/watch?v=BbQ4kZXcXEQ)
 
 
 

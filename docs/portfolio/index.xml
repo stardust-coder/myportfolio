@@ -6,59 +6,66 @@
     <description>Recent content in Portfolios on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 19:56:17 +0530</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>App</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/app/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <title></title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/app/</guid>
-      <description>&lt;p&gt;東大生と考えるフェルミ推定&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Discrete Optimization</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/optimization/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <title>フェルミ推定App</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/optimization/</guid>
-      <description>&lt;p&gt;モジュラリティ密度最大化に対する列生成法の高速化&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work3/</guid>
+      <description>フェルミ推定とは, 実際に調査するのが難しい値を論理的推論に基づき概算する推定方法のことである.
+エンリコ・フェルミ（Enrico Fermi） イタリアの物理学者. 統計力学や量子力学の分野で多くの著名な業績を残し, 様々な専門用語にその名を残している.</description>
     </item>
     
     <item>
-      <title>Information Geometry</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/info_geo/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <title>DIABOLOS</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/info_geo/</guid>
-      <description>&lt;p&gt;情報幾何学&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work4/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>juggling</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/juggling/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <title>CLUBS</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/juggling/</guid>
-      <description>&lt;p&gt;ジャグリング&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work5/</guid>
+      <description>クラブとは, ボウリングのピン🎳のような形をしたジャグリングの道具です. 先端に火をつけたトーチという道具も同様に投げて使います.
+ファイヤージャグリングです🔥
+筑駒文化祭2016 ファイヤートーチ</description>
     </item>
     
     <item>
-      <title>Medical AI</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/medical/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <title>BALLOON ARTS</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/medical/</guid>
-      <description>&lt;p&gt;医療AI. 医療画像診断.&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work6/</guid>
+      <description>バルーンアートは, 細長い風船を捻ることで作品を創っていくアートです.</description>
     </item>
     
     <item>
-      <title>株式会社EQUES (EQUES Inc.)</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/eques/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <title>My Pace</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/eques/</guid>
-      <description>&lt;p&gt;EQUES&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work1/</guid>
+      <description>多様性を保留する画一的な時と離れ、 人と人と間に有機的な”とき”の可能性を探る作品。 いまの時間を尋ねれば、返る答えは同じでしょう。画面はみな同じ時を映し、それを確認する人々は少し寂しげに思われます。
+もしかしたら私たちのもとに流れゆく”とき”は、誰かの緊張と君の瞬きとが交わった、そこにある”とき”ではないでしょうか。
+これはあなたが見ると動きを止める時計。ここでは眼差しがすれ違い、戸惑い、”とき”は降り積もる。
+Freezed flux YouTube
+My Pace YouTube (Coming soon&amp;hellip;)</description>
     </item>
     
   </channel>
