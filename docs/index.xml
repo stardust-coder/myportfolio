@@ -13,73 +13,10 @@
       <pubDate>Thu, 17 Mar 2022 15:50:15 +0900</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/japanese/</guid>
-      <description>助田一晟 株式会社EQUES 共同創業者
-情報理工学系研究科 数理情報学 修士1年
-お知らせ  2022年3月 東京大学工学部計数工学科を卒業しました. 2022年2月 学部の同期と共に, 株式会社EQUESを共同創業しました.  研究内容 数理最適化・理論統計
-運営中のプロジェクト  なみにげ（デジタルハザードマップ開発プロジェクト）  Code for Japan にて絶賛新規メンバー募集中！   東大社会起業コミュニティ For Earth link 『美×音 うたをみる』 link  運営幹部, 広報リーダー Twitter    参加中のプロジェクト  松尾研究所 共同研究プロジェクト  AIエンジニア   松尾研究所 起業クエスト link 東大 MOCHAプロジェクト link  リサーチアシスタント    受賞（個人）  Finalist, Fin SUM Business Contest 2021 link Yahoo Prize, Civictech Challenge Cup 2021 U-22 link First place, AI/SUM Business Contest 2020 link Second place, UTokyo MDS Data Analysis Contest 2019 link Third place, All Japan Diabolo Competition Bronze Award, Chemistry Grand Prix  過去の参加プログラム  U-23サミット2020  学生登壇   ソニー東大社会連携講座 Ignite Your Ambition link, TU Project 修了生 本郷テックガレージ Summer Foundation Program採択  筋電を活用したデバイスの開発   kehai, SHIBUYA QWS 4,5期生  気配を起点とするコミュニケーションを生むIoTデバイスの開発   東大GLP-GEfIL 修了生 UTSIP(UTokyo Summer Internship Program) @ 森田研究室  圧電素子を用いたデバイスの開発   東大トライリンガルプログラム 前期過程修了生 中華圏留学生交流団体Pandadon 運営メンバー マスフェスタ（高校）  趣味  ジャグリング, バルーンアート See More スマホアプリ開発  東大生と考えるフェルミ推定 Lite Pro   中国語の勉強, チェス, ギター🎸, など  </description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://stardust-coder.github.io/myportfolio/publications/</link>
-      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/publications/</guid>
-      <description>Papers  Bachelor Thesis: Accelerating Column Generation on Modularity Density Maximization Lessons learned from MOCHA: a mobile check-in application for university campuses (submitted to IEEE Pervasive Computing)  Videos  Malabaristas 27th 卒業記念動画 link 五月祭2021 link 駒場祭2020 Malabari Express 999 link  Interviews  東大新聞 link  Others  マスフェスタ  </description>
-    </item>
-    
-    <item>
-      <title>App</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/app/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/app/</guid>
-      <description>&lt;p&gt;東大生と考えるフェルミ推定&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Discrete Optimization</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/optimization/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/optimization/</guid>
-      <description>&lt;p&gt;モジュラリティ密度最大化に対する列生成法の高速化&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Information Geometry</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/info_geo/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/info_geo/</guid>
-      <description>&lt;p&gt;情報幾何学&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>juggling</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/juggling/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/juggling/</guid>
-      <description>&lt;p&gt;ジャグリング&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Medical AI</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/medical/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/medical/</guid>
-      <description>&lt;p&gt;医療AI. 医療画像診断.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>株式会社EQUES (EQUES Inc.)</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/eques/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/eques/</guid>
-      <description>&lt;p&gt;EQUES&lt;/p&gt;</description>
+      <description>株式会社EQUES 共同創業者/CTO
+情報理工学系研究科 数理情報学
+お知らせ  2022年6月 プレプリントを投稿しました. arxiv 2022年3月 東京大学工学部計数工学科を卒業しました. 2022年2月 学部の同期と共に, 株式会社EQUESを共同創業しました.  研究内容 コピュラ統計学に興味を持っています. 学部では数理最適化を研究していました. 医療データ解析や待ち行列予想などにも取り組んでいます.
+ Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda: A study on modularity density maximization: Column generation acceleration and computational complexity analysis, arXiv:2206.10901.  PJ  なみにげ（デジタルハザードマップ開発プロジェクト）@Code for Japan 東大社会起業コミュニティ For Earth HP 『美×音 うたをみる』運営幹部 HP Twitter 松尾研究所 共同研究プロジェクト 松尾研究所 起業クエスト link 東大 MOCHAプロジェクト link  発表  最適化手法とアルゴリズム ─未来を担う若手研究者の集い 2022─ U-23サミット2020 学生登壇 マスフェスタ（高校）  受賞（個人）  Finalist, Fin SUM Business Contest 2021 link Yahoo Prize, Civictech Challenge Cup 2021 U-22 link First place, AI/SUM Business Contest 2020 link Second place, UTokyo MDS Data Analysis Contest 2019 link Third place, All Japan Diabolo Competition Bronze Award, Chemistry Grand Prix link  その他  東大新聞「学生生活紹介」 link ソニー東大社会連携講座 Ignite Your Ambition, TU Project 修了生 本郷テックガレージ Summer Foundation Program kehai, SHIBUYA QWS 4,5期生 東大GLP-GEfIL 修了生 UTSIP(UTokyo Summer Internship Program) @ 森田研究室 東大トライリンガルプログラム 前期課程修了 中華圏留学生交流団体Pandadon 運営  趣味  ジャグリング🤹‍♀️, バルーンアート🎈,チェス🐴, ギター🎸, など  出演動画  Malabaristas 27th 卒業記念動画 YouTube 五月祭2021 YouTube 駒場祭2020 Malabari Express 999 YouTube  </description>
     </item>
     
   </channel>
