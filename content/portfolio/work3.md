@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/pro-icon.png"
+image = "img/portfolio/pro_icon.png"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "フェルミ推定App"

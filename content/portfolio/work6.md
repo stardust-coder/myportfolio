@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/balloon.jpg"
+image = "img/portfolio/balloon.JPG"
 date = "2016-11-05T19:56:17+05:30"
 title = "BALLOON ARTS"
 showonlyimage = true
