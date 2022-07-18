@@ -1,5 +1,5 @@
 +++
-image = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg"
+image = "img/portfolio/clubs.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
@@ -14,3 +14,5 @@ weight = 5
 
 [筑駒文化祭2016 ファイヤートーチ](https://www.youtube.com/watch?v=moXHALZKg6w)
 
+See more on Instagram  
+instagram: @stardust13551

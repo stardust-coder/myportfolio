@@ -3,11 +3,9 @@ date = "2022-03-15T21:05:33+05:30"
 title = "About me"
 +++
 
-I am a statistics researcher and AI engineer.  
-I love juggling and balloon artist !
 
-Co-Founder / CTO , [EQUES Inc.](https://www.eques.co.jp)  
-Graduate School of Information Science and Technology
+I am a co-founder of [EQUES Inc.](https://www.eques.co.jp) .
+I love juggling and balloon art !
 
 [link to CV (preparing)]()
 

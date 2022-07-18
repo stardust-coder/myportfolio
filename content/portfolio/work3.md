@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/portfolio/pro-icon.png"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "フェルミ推定App"
@@ -7,12 +7,18 @@ draft = false
 weight = 2
 +++
 
+#### フェルミ推定とは
+
 フェルミ推定とは, 実際に調査するのが難しい値を論理的推論に基づき概算する推定方法のことである.
 
 #### エンリコ・フェルミ（Enrico Fermi）
 
 イタリアの物理学者. 統計力学や量子力学の分野で多くの著名な業績を残し, 様々な専門用語にその名を残している.
 
+#### 東大生と考えるフェルミ推定
+
+2021年に作成しApp Storeでリリースしたクイズアプリ.  
+現在は販売停止中.
 
 
 
