@@ -67,7 +67,7 @@ instagram: @stardust13551</description>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/portfolio/bookmark/</guid>
-      <description>機械学習  Unveiling Transformers with LEGO 論文  Transformersの定性的理解をLEGO(方程式(変数&amp;amp;演算子)をテキストとして入力し, 解く)というタスクを通して行う.      理論統計学    気象予測  Nature論文  GANで雲を予想. なぜNature?   FOURCASTNET(NVIDIA) Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers(NVIDIA, ICLR2022) Github MP-PAWR 著者  理研論文    Matlantis  Matlantisに関する論文(PFN, Nature Communications)  第一原理計算をせずに電子状態を予測    </description>
+      <description>コピュラ統計学  Copulas with Maximum Entropy(Piantadosi et al)  チェスコピュラに対するエントロピー最大化   Maximum entropy distribution of order statistics with given marginals (Bernoulli 2018)  周辺分布を固定しエントロピー最大化. multidiagonalsの問題に帰着.   Bivariate distributions with ordered marginals Relationship Between Kendall’s tau Correlation and Mutual Information  Extreme Copula  A New Estimator for the Pickands Dependence Function extreme copulaの密度関数 link Kamnitui et al.  緩和extreme copulaのうちτを固定した下で選べる範囲の解析    Jian Maのコピュラエントロピー   Multivariate Normality Test with Copula Entropy</description>
     </item>
     
     <item>
