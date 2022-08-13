@@ -1,6 +1,6 @@
 +++
 draft = false
-image = ""
+image = "img/portfolio/bookmark.png"
 showonlyimage = true
 date = "2022-4-05T20:23:59+05:30"
 title = "My Bookmark"
