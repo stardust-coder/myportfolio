@@ -1,5 +1,5 @@
 baseurl = "https://stardust-coder.github.io/myportfolio/"
-title = "My Portfolio"
+title = "ISSEY SUKEDA"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 publishDir = "docs"

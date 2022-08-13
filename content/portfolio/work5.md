@@ -1,18 +1,10 @@
 +++
-image = "img/portfolio/clubs.png"
-showonlyimage = true
+image = ""
+showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
-title = "CLUBS"
+title = "BALLOON ARTS"
 weight = 5
 +++
 
-
-クラブとは, ボウリングのピン🎳のような形をしたジャグリングの道具です. 先端に火をつけたトーチという道具も同様に投げて使います.
-
-ファイヤージャグリングです🔥
-
-[筑駒文化祭2016 ファイヤートーチ](https://www.youtube.com/watch?v=moXHALZKg6w)
-
-See more on Instagram  
-instagram: @stardust13551
+preparing...

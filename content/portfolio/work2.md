@@ -7,5 +7,7 @@ showonlyimage = true
 weight = 1
 +++
 
+### Concept
+
 [kehai light]()は光のゆらめきにより, 遠く離れた人にも気配を伝えるライトです.
 
