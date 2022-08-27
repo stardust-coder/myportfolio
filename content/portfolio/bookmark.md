@@ -36,17 +36,27 @@ weight = 11
 * 気象データ
     - Vrac et al. 
 
-
+### マルコフ基底
+* [青木先生&竹村先生のGrobner School 2012](http://www.math.kobe-u.ac.jp/crest-c/cs-2012/2012-02-22-aoki-takemura.pdf)
+    - 相似検定, 対数線形モデル
+* [原先生のIBISML2010](https://ibisml.org/ibis2010/session/ibis2010hara.pdf)
+    - 正確検定, 部分マルコフ基底
+* [分割表の列挙とランダム生成](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1289-6.pdf)
+    - 整数計画問題
+* [分割表の一致率検定とFisher の正確確率法](https://core.ac.uk/download/pdf/228569891.pdf)
 
 ### 最適輸送理論
 * [THE SINKHORN-KNOPP ALGORITHM: CONVERGENCE AND APPLICATIONS](https://strathprints.strath.ac.uk/19685/1/skapp.pdf)
     - 収束性
 
 ### 機械学習
+
+#### Transformer関連
 * [Unveiling Transformers with LEGO](https://www.youtube.com/watch?v=brmidghOP6c) [論文](https://arxiv.org/abs/2206.04301)
     - Transformersの定性的理解をLEGO(方程式(変数&演算子)をテキストとして入力し, 解く)というタスクを通して行う. 
+* [Transformerについてのまとめ論文(DeepMind)](https://arxiv.org/pdf/2207.09238.pdf)
 * 
-* 
+
 
 ### 因果推論・因果探索
 * 因果探索 [電通の人のブログ](https://note.com/dd_techblog/n/nc8302f55c775)
@@ -63,3 +73,5 @@ weight = 11
 - [Matlantisに関する論文(PFN, Nature Communications)](https://matlantis.com/ja/cases#related)
     - 第一原理計算をせずに電子状態を予測するNeuralNetworkを学習
 
+### その他
+-[日本の統計学者](https://sites.google.com/site/shoutoyonekura/国内の統計学者?authuser=0)

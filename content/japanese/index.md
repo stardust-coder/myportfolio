@@ -6,7 +6,9 @@ draft: false
 
 情報理工学系研究科
 数理情報学  
-[株式会社EQUES](https://www.eques.co.jp) 共同創業者/CTO  
+[株式会社EQUES](https://www.eques.co.jp) Co-Founder/CTO  
+
+コピュラ統計学と数理最適化に興味を持っています. 医療AIの研究や待ち行列の研究などにも取り組んでいます.  
 
 趣味はジャグリング, バルーンアート, ギターなどです.
 
@@ -17,28 +19,28 @@ draft: false
 
 ![This is me][1]
 
-#### 研究関連
-コピュラ統計学と数理最適化に興味を持っています.  
-医療AIの研究や待ち行列の研究などにも取り組んでいます.
 
+#### 統計学
+* 
+
+#### 最適化
+* [International Workshop on Continuous Optimization](http://www.opt.c.titech.ac.jp/DecemberWorkshop/#speakers)
+* [オペレーションズリサーチ学会 秋季大会]()
 * Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:
 A study on modularity density maximization: Column generation acceleration and computational complexity analysis,
 [arXiv:2206.10901.](https://arxiv.org/abs/2206.10901)
 * 最適化手法とアルゴリズム ─未来を担う若手研究者の集い 2022─ [HP](http://trout.math.cst.nihon-u.ac.jp/~ito.m/soma/wakate22.html)
 
-##### 助成
+#### AI
 * JEESソフトバンクAI人材育成奨学金(令和4年度)
-
-#### インターンシップ
 * 2022 Preferred Networks
-* 2022~ 松尾研究所 AIエンジニア
-* 2021~2022 ソニーコンピュータサイエンスラボ リサーチアシスタント
-* 2019 UTSIP(UTokyo Summer Internship Program) @ [東大森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html)
+* 2022~ 松尾研究所
+* 2021~2022 ソニーコンピュータサイエンス研究所
+
+
 
 
 #### 学生時代の活動
-
-##### PJ運営
 * なみにげ（デジタルハザードマップ開発プロジェクト）
 * 東大社会起業コミュニティ For Earth 運営幹部[HP](https://forearthut.com)
 * 『美×音 うたをみる』運営幹部 [HP](https://utawomiru.net) [Twitter](https://twitter.com/bion_exibi_conc)
@@ -51,6 +53,7 @@ A study on modularity density maximization: Column generation acceleration and c
 * [ソニー東大社会連携講座 Ignite Your Ambition](https://ignite-your-ambition.com), TU Project 修了生
 * [東大GLP-GEfIL](https://www.glp.u-tokyo.ac.jp) 修了生
 * [東大トライリンガルプログラム](http://www.cgcs.c.u-tokyo.ac.jp/tlp/) 前期課程修了生
+* UTSIP(UTokyo Summer Internship Program) @ [東大森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html)
 
 ##### 受賞
 * Finalist, Fin SUM Business Contest 2021 [link]()
