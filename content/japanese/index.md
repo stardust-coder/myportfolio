@@ -13,8 +13,8 @@ draft: false
 趣味はジャグリング, バルーンアート, ギターなどです.
 
 ##### お知らせ
+* 2022年9月 [日本オペレーションズ・リサーチ学会 秋季研究発表会](https://orsj.org/nc2022f/programpage)にて研究発表を行いました.
 * 2022年6月 プレプリントを投稿しました. [arxiv](https://arxiv.org/abs/2206.10901)
-* 2022年3月 東京大学工学部計数工学科を卒業しました.
 * 2022年2月 学部の同期と, [株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
 
 ![This is me][1]
@@ -25,7 +25,7 @@ draft: false
 
 #### 最適化
 * [International Workshop on Continuous Optimization](http://www.opt.c.titech.ac.jp/DecemberWorkshop/#speakers)
-* [オペレーションズリサーチ学会 秋季大会]()
+* [日本オペレーションズ・リサーチ学会 秋季研究発表会](https://orsj.org/nc2022f/programpage)
 * Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:
 A study on modularity density maximization: Column generation acceleration and computational complexity analysis,
 [arXiv:2206.10901.](https://arxiv.org/abs/2206.10901)
@@ -37,6 +37,8 @@ A study on modularity density maximization: Column generation acceleration and c
 * 2022~ 松尾研究所
 * 2021~2022 ソニーコンピュータサイエンス研究所
 
+#### センシング
+* (共著, MobiCOVID2022)[MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19](https://www.eis-lab.org/mobicovid-2022)
 
 
 
@@ -56,7 +58,7 @@ A study on modularity density maximization: Column generation acceleration and c
 * UTSIP(UTokyo Summer Internship Program) @ [東大森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html)
 
 ##### 受賞
-* Finalist, Fin SUM Business Contest 2021 [link]()
+* Finalist, FinSUM Business Contest 2021 [link]()
 * Yahoo Prize, Civictech Challenge Cup 2021 U-22 [link]()
 * First place, AI/SUM Business Contest 2020 [link]()
 * Second place, UTokyo MDS Data Analysis Contest 2019 [link]()
