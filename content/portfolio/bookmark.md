@@ -8,6 +8,7 @@ weight = 11
 +++
 
 ### コピュラ統計学
+#### コピュラ一般
 * [Copulas with Maximum Entropy(Piantadosi et al.)](https://carma.edu.au/resources/jon/copulas.pdf)
     - チェスコピュラに対するエントロピー最大化
 * [Maximum entropy distribution of order statistics with given marginals (Bernoulli 2018)](https://projecteuclid.org/journals/bernoulli/volume-24/issue-1/Maximum-entropy-distribution-of-order-statistics-with-given-marginals/10.3150/16-BEJ868.full)
@@ -35,6 +36,11 @@ weight = 11
     - [Komatsuda et al. 2016](https://db-event.jpn.org/deim2016/papers/124.pdf)
 * 気象データ
     - Vrac et al. 
+
+#### コピュラとTotal Positivity
+* [TP2 MTP2 提案論文](https://reader.elsevier.com/reader/sd/pii/0047259X80900652?token=90D2635E6FD9DA80EEF977F5C161BAEBA729553C81DB0368B6AB4F405D72F5D9F4F523DDBC111DF55797389E1D759B59&originRegion=us-east-1&originCreation=20220920131057)
+* [TOTAL POSITIVITY IN MARKOV STRUCTURE 2016](https://arxiv.org/pdf/1510.01290.pdf)
+* [Total positivity of copulas from a Markov kernel perspective](https://arxiv.org/pdf/2205.01914.pdf)
 
 ### マルコフ基底
 * [青木先生&竹村先生のGrobner School 2012](http://www.math.kobe-u.ac.jp/crest-c/cs-2012/2012-02-22-aoki-takemura.pdf)
@@ -74,4 +80,10 @@ weight = 11
     - 第一原理計算をせずに電子状態を予測するNeuralNetworkを学習
 
 ### その他
--[日本の統計学者](https://sites.google.com/site/shoutoyonekura/国内の統計学者?authuser=0)
+- [日本の統計学者](https://sites.google.com/site/shoutoyonekura/国内の統計学者リスト)
+- [CMStatistics](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.cmstatistics.org&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ECFECMStatistics&screen_name=CFECMStatistics)
+    - 統計学の国際会議, 12月開催
+- [マスプロ](https://www.springer.com/journal/10107)
+    - IF 3.06-4.26
+- [EJOR](https://www.journals.elsevier.com/european-journal-of-operational-research)
+    - IF 6.36

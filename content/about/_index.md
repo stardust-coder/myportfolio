@@ -9,9 +9,8 @@ I love juggling and balloon art !
 
 [link to CV (preparing)]()
 
-#### Research Areas
-Statistics, Mathematical optimization, Queueing estimation, Medical data analysis  
-I'm currently interested in copula modeling.
+#### Research Interests
+Statistics (Copulas), Mathematical Optimization, Queueing Recognition, Medical AI
 
 ##### Preprint
 * Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:
