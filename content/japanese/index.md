@@ -38,7 +38,8 @@ A study on modularity density maximization: Column generation acceleration and c
 * 2021~2022 ソニーコンピュータサイエンス研究所
 
 #### センシング
-* (共著, MobiCOVID2022)[MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19](https://www.eis-lab.org/mobicovid-2022)
+* (Sensys 2022)[Recursive Queueing Estimation Using Smartphone-based Acoustic Ranging]()
+* (共著, MobiHoc'22)[MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19](https://dl.acm.org/doi/proceedings/10.1145/3492866)
 
 
 
