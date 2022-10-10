@@ -1,20 +1,7 @@
----
-title: "Bookmark"
-date: 2022-10-10T09:39:02+09:00
-categories:
-- category
-- subcategory
-tags:
-- tag1
-- tag2
-keywords:
-- tech
-comments:       false
-showMeta:       false
-showActions:    false
-#thumbnailImage: //example.com/image.jpg
----
-
++++
+date = "2016-11-05T21:05:33+05:30"
+title = "Bookmark"
++++
 
 ### コピュラ統計学
 #### コピュラ一般

@@ -1,19 +1,7 @@
----
-title: "About"
-date: 2022-10-10T09:29:55+09:00
-categories:
-- category
-- subcategory
-tags:
-- tag1
-- tag2
-keywords:
-- tech
-comments:       false
-showMeta:       false
-showActions:    false
-#thumbnailImage: //example.com/image.jpg
----
++++
+date = "2016-11-05T21:05:33+05:30"
+title = "About me"
++++
 
 I am a co-founder of [EQUES Inc.](https://www.eques.co.jp) .
 I love juggling and balloon art !

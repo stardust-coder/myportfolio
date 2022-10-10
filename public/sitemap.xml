@@ -3,62 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stardust-coder.github.io/myportfolio/page/bookmark/</loc>
-    <lastmod>2022-10-10T09:39:02+09:00</lastmod>
+    <loc>https://stardust-coder.github.io/myportfolio/portfolio/work2/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://stardust-coder.github.io/myportfolio/categories/</loc>
-    <lastmod>2022-10-10T09:39:02+09:00</lastmod>
+    <loc>https://stardust-coder.github.io/myportfolio/portfolio/work1/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://stardust-coder.github.io/myportfolio/categories/category/</loc>
-    <lastmod>2022-10-10T09:39:02+09:00</lastmod>
+    <loc>https://stardust-coder.github.io/myportfolio/portfolio/work3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stardust-coder.github.io/myportfolio/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://stardust-coder.github.io/myportfolio/</loc>
-    <lastmod>2022-10-10T09:39:02+09:00</lastmod>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stardust-coder.github.io/myportfolio/about/english/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stardust-coder.github.io/myportfolio/about/japanese/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stardust-coder.github.io/myportfolio/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stardust-coder.github.io/myportfolio/page/bookmark/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://stardust-coder.github.io/myportfolio/page/</loc>
-    <lastmod>2022-10-10T09:39:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stardust-coder.github.io/myportfolio/categories/subcategory/</loc>
-    <lastmod>2022-10-10T09:39:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stardust-coder.github.io/myportfolio/tags/tag1/</loc>
-    <lastmod>2022-10-10T09:39:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stardust-coder.github.io/myportfolio/tags/tag2/</loc>
-    <lastmod>2022-10-10T09:39:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stardust-coder.github.io/myportfolio/tags/</loc>
-    <lastmod>2022-10-10T09:39:02+09:00</lastmod>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://stardust-coder.github.io/myportfolio/page/publication/</loc>
-    <lastmod>2022-10-10T09:31:02+09:00</lastmod>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://stardust-coder.github.io/myportfolio/page/about/</loc>
-    <lastmod>2022-10-10T09:29:55+09:00</lastmod>
+    <loc>https://stardust-coder.github.io/myportfolio/portfolio/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://stardust-coder.github.io/myportfolio/archives/</loc>
+    <loc>https://stardust-coder.github.io/myportfolio/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stardust-coder.github.io/myportfolio/tags/</loc>
   </url>
   
 </urlset>
