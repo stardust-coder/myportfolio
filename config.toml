@@ -11,7 +11,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "sea"
-  description = "Describe your website"
+  description = "Issey's Portfolio site"
   copyright = "&copy;2022 Issey Sukeda"
   sidebarAbout = [
     "I am a AI researcher, and an amateur juggler with more than 10 years of experience.",
