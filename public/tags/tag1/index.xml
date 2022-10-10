@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on Issey Sukeda</title>
+    <link>https://stardust-coder.github.io/myportfolio/tags/tag1/</link>
+    <description>Recent content in tag1 on Issey Sukeda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2022 09:39:02 +0900</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bookmark</title>
+      <link>https://stardust-coder.github.io/myportfolio/page/bookmark/</link>
+      <pubDate>Mon, 10 Oct 2022 09:39:02 +0900</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/page/bookmark/</guid>
+      <description>コピュラ統計学 コピュラ一般  Copulas with Maximum Entropy(Piantadosi et al.)  チェスコピュラに対するエントロピー最大化   Maximum entropy distribution of order statistics with given marginals (Bernoulli 2018)  周辺分布を固定しエントロピー最大化. multidiagonalsの問題に帰着.   Bivariate distributions with ordered marginals Relationship Between Kendall’s tau Correlation and Mutual Information  Extreme Copula  A New Estimator for the Pickands Dependence Function extreme copulaの密度関数 link Kamnitui et al.  緩和extreme copulaのうちτを固定した下で選べる範囲の解析    Jian Maのコピュラエントロピーに関する研究  Multivariate Normality Test with Copula Entropy   copula entropyの推定手法.</description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>https://stardust-coder.github.io/myportfolio/page/publication/</link>
+      <pubDate>Mon, 10 Oct 2022 09:31:02 +0900</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/page/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://stardust-coder.github.io/myportfolio/page/about/</link>
+      <pubDate>Mon, 10 Oct 2022 09:29:55 +0900</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/page/about/</guid>
+      <description>I am a co-founder of EQUES Inc. . I love juggling and balloon art !
+link to CV (preparing)
+Research Interests Statistics (Copulas), Mathematical Optimization, Queueing Recognition, Medical AI
+Preprint  Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda: A study on modularity density maximization: Column generation acceleration and computational complexity analysis, arXiv:2206.10901.  Current Activities  Research Assistant at UTokyo MOCHA project Naminige project, Code for Japan  a digital hazardmap   For Earth  a student association to discuss SDGs   Ignite Your Ambition, Sony × UTokyo  Past Activities  2021 Entrepreneur Quest, UTokyo Matsuo Lab.</description>
+    </item>
+    
+  </channel>
+</rss>
