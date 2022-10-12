@@ -41,7 +41,8 @@ canonifyurls = true
       #  domain = "www.example.com"
       #  # Optional integrity check hash
       #  hash = ""
-
+	 customCSS = ["/css/custom.css"]
+   
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"

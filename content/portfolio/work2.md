@@ -7,7 +7,15 @@ draft = false
 weight = 2
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Balloon art or Twisting balloon.
 <!--more-->
 
-hogehoge
+企画展: バルーンの森
+
+{{<figure src="/img/balloonart/1.png" class="inline" link="" alt="">}}
+{{<figure src="/img/balloonart/2.png" class="inline" link="" alt="">}}
+{{<figure src="/img/balloonart/3.JPG" class="inline" link="" alt="">}}
+{{<figure src="/img/balloonart/4.JPG" class="inline" link="" alt="">}}
+{{<figure src="/img/balloonart/5.JPG" class="inline" link="" alt="">}}
+{{<figure src="/img/balloonart/6.JPG" class="inline" link="" alt="">}}
+{{<figure src="/img/balloonart/7.JPG" class="inline" link="" alt="">}}
