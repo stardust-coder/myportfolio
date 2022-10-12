@@ -5,22 +5,25 @@ title = "Bookmark"
 
 ### コピュラ統計学
 #### コピュラ一般
+* [基本的な内容(IBIS 2009より)](https://ibisml.org/ibis2009/pdf-invited/yoshiba1.pdf)
+* [極値での従属性および非対称性と信用ポートフォリオリスク(吉羽先生,2021)](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_157/_pdf/-char/ja)
 * [Copulas with Maximum Entropy(Piantadosi et al.)](https://carma.edu.au/resources/jon/copulas.pdf)
     - チェスコピュラに対するエントロピー最大化
 * [Maximum entropy distribution of order statistics with given marginals (Bernoulli 2018)](https://projecteuclid.org/journals/bernoulli/volume-24/issue-1/Maximum-entropy-distribution-of-order-statistics-with-given-marginals/10.3150/16-BEJ868.full)
      - 周辺分布を固定しエントロピー最大化. multidiagonalsの問題に帰着.
 * [Bivariate distributions with ordered marginals](https://www.sciencedirect.com/science/article/pii/S0047259X19300831)
 * [Relationship Between Kendall’s tau Correlation and Mutual Information](http://www.scielo.org.co/pdf/rce/v43n1/0120-1751-rce-43-01-3.pdf)
+
 #### Extreme Copula
 * [A New Estimator for the Pickands Dependence Function](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=2108&context=jmasm)
 * extreme copulaの密度関数 [link](https://ethz.ch/content/dam/ethz/special-interest/math/risklab-dam/documents/walter-saxer-preis/ma-doyon.pdf)
 * [Kamnitui et al.](https://www.sciencedirect.com/science/article/pii/S0022247X18310035)
     - 緩和extreme copulaのうちτを固定した下で選べる範囲の解析 
 
-#### [Jian Ma](https://scholar.google.com/citations?hl=en&user=gqCD4kwAAAAJ&view_op=list_works&sortby=pubdate)のコピュラエントロピーに関する研究 
-* [Multivariate Normality Test with Copula Entropy](https://arxiv.org/pdf/2206.05956.pdf)
-* [](https://arxiv.org/pdf/2005.14025.pdf)
-     - copula entropyの推定手法. Transfer entropy.
+#### コピュラエントロピーに関する研究 
+* [Multivariate Normality Test with Copula Entropy](https://arxiv.org/pdf/2206.05956.pdf) 著者:[Jian Ma](https://scholar.google.com/citations?hl=en&user=gqCD4kwAAAAJ&view_op=list_works&sortby=pubdate)
+* [copent: Estimating Copula Entropy and Transfer Entropy in R](https://arxiv.org/pdf/2005.14025.pdf)
+     - copula entropyの推定手法. Transfer entropy. [Github](https://github.com/majianthu/copent)
 * [Causal Domain Adaptation with Copula Entropy based Conditional Independence Test](https://arxiv.org/pdf/2202.13482.pdf)
 
 #### 応用
@@ -57,7 +60,6 @@ title = "Bookmark"
 * [Unveiling Transformers with LEGO](https://www.youtube.com/watch?v=brmidghOP6c) [論文](https://arxiv.org/abs/2206.04301)
     - Transformersの定性的理解をLEGO(方程式(変数&演算子)をテキストとして入力し, 解く)というタスクを通して行う. 
 * [Transformerについてのまとめ論文(DeepMind)](https://arxiv.org/pdf/2207.09238.pdf)
-* 
 
 
 ### 因果推論・因果探索
@@ -79,7 +81,13 @@ title = "Bookmark"
 - [日本の統計学者](https://sites.google.com/site/shoutoyonekura/国内の統計学者リスト)
 - [CMStatistics](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.cmstatistics.org&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ECFECMStatistics&screen_name=CFECMStatistics)
     - 統計学の国際会議, 12月開催
+- [ISI WSC2023](https://www.isi2023.org/conferences/ottawa-2023/contributed-paperposter-sessions/#)
+- [Joint Statistical Meeting](https://ww2.amstat.org/meetings/jsm/2023/)
+    - 統計学の国際会議, 8月開催
+- [WikiCFP](http://www.wikicfp.com/cfp/call?conference=statistics)
 - [マスプロ](https://www.springer.com/journal/10107)
     - IF 3.06-4.26
 - [EJOR](https://www.journals.elsevier.com/european-journal-of-operational-research)
     - IF 6.36
+- [武田先生](https://www.u-tokyo.ac.jp/focus/ja/features/voices036.html)
+- [金融情報学](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol37-no1/)

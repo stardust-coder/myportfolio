@@ -7,22 +7,33 @@ title = "About me"
 数理情報学  
 [株式会社EQUES](https://www.eques.co.jp) Co-Founder/CTO  
 
-コピュラ統計学と数理最適化に興味を持っています. 医療AIの研究や待ち行列の研究などにも取り組んでいます.  
+コピュラ統計学と数理最適化に興味を持っています.   
+医療AIや待ち行列の研究などにも取り組んでいます.  
 
 趣味はジャグリング, バルーンアート, ギターなどです.
 
 ##### お知らせ
-* 2022年10月 [SenSys2022](https://orsj.org/nc2022f/programpage)のPoster and Demoセッションで研究発表を行います.
+* 2022年10月 [SenSys2022](https://orsj.org/nc2022f/programpage)のPoster and Demoセッションで研究発表を行うことになりました.
 * 2022年9月 [日本オペレーションズ・リサーチ学会 秋季研究発表会](https://orsj.org/nc2022f/programpage)にて研究発表を行いました.
 * 2022年2月 学部の同期と, [株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
 
 ![This is me][1]
 
-#### AI
-* JEESソフトバンクAI人材育成奨学生(令和4年度)
-* 2022 Preferred Networks
+##### 経歴
+* 2022 Preferred Networks インターンシップ
 * 2022~ 松尾研究所
 * 2021~2022 ソニーコンピュータサイエンス研究所
+
+##### 受賞
+* JEESソフトバンクAI人材育成奨学生(令和4年度)
+* キーエンス応援給付金 2020年度
+* 公益財団法人ひよこ奨学財団2021年度奨学生
+* ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
+* ヤフー賞, Civictech Challenge Cup (2021) [link]()
+* 最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
+* 優秀賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2019) [link]()
+* 3位, All Japan Diabolo Competition
+* 銅賞, 化学グランプリ [link](http://gp.csj.jp/media/common/gp2016results.pdf)
 
 
 #### 学生時代の活動
@@ -40,13 +51,6 @@ title = "About me"
 * [東大トライリンガルプログラム](http://www.cgcs.c.u-tokyo.ac.jp/tlp/) 前期課程修了生
 * UTSIP(UTokyo Summer Internship Program) @ [東大森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html)
 
-##### 受賞
-* Finalist, FinSUM Business Contest 2021 [link]()
-* Yahoo Prize, Civictech Challenge Cup 2021 U-22 [link]()
-* First place, AI/SUM Business Contest 2020 [link]()
-* Second place, UTokyo MDS Data Analysis Contest 2019 [link]()
-* Third place, All Japan Diabolo Competition
-* Bronze Award, Chemistry Grand Prix [link](http://gp.csj.jp/media/common/gp2016results.pdf)
 
 ##### 出演・掲載
 * Malabaristas 27th 卒業記念動画 [YouTube](https://www.youtube.com/watch?v=dTdfhJqUMZ4)
