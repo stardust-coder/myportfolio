@@ -39,6 +39,7 @@ title = "About me"
 #### 学生時代の活動
 * なみにげ（デジタルハザードマップ開発プロジェクト）
 * 東大社会起業コミュニティ For Earth 運営幹部[HP](https://forearthut.com)
+    - （東京大学教養学部と共催）[SDGsビジネスアイデア学生発表会：社会を変えるために東大生ができること](http://presentation.sdgs.c.u-tokyo.ac.jp/poster2022.html)
 * 『美×音 うたをみる』運営幹部 [HP](https://utawomiru.net) [Twitter](https://twitter.com/bion_exibi_conc)
 
 

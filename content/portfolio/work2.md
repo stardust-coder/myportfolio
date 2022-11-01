@@ -10,7 +10,7 @@ weight = 2
 Balloon art or Twisting balloon.
 <!--more-->
 
-企画展: バルーンの森
+### 企画展: バルーンの森 (2022.5)
 
 {{<figure src="/img/balloonart/1.png" class="inline" link="" alt="">}}
 {{<figure src="/img/balloonart/2.png" class="inline" link="" alt="">}}
