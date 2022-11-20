@@ -6,7 +6,9 @@ title = "Bookmark"
 ### TO READ
 * [Copula shrinkage and portfolio allocation in ultra-high dimensions](https://www.sciencedirect.com/science/article/abs/pii/S0165188922002123)
 * [ダイナミック非対称t コピュラを用いた 新興国国債市場の相互依存構造に関する研究](https://www.jstage.jst.go.jp/article/jafee/17/0/17_45/_pdf)
-
+- [Semiparametric copula-based analysis for treatment effects in the presence of treatment switching](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.8585)
+* [Yang and Barron, 1999](http://www.stat.yale.edu/~arb4/publications_files/Information-TheoreticDeterminationOfMinimaxRatesOfConvergenceAnnalsStatistics.pdf)
+    - ノンパラ推定のminimaxレート導出
 
 
 ### コピュラ統計学
@@ -67,6 +69,8 @@ title = "Bookmark"
     - [Komatsuda et al. 2016](https://db-event.jpn.org/deim2016/papers/124.pdf)
 * 気象データ
     - Vrac et al. 
+* 処置効果(Treatment effects)
+    
 
 #### コピュラとTotal Positivity
 * [TP2 MTP2 提案論文](https://reader.elsevier.com/reader/sd/pii/0047259X80900652?token=90D2635E6FD9DA80EEF977F5C161BAEBA729553C81DB0368B6AB4F405D72F5D9F4F523DDBC111DF55797389E1D759B59&originRegion=us-east-1&originCreation=20220920131057)
@@ -129,3 +133,4 @@ title = "Bookmark"
 - [武田先生](https://www.u-tokyo.ac.jp/focus/ja/features/voices036.html)
 - [金融情報学](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol37-no1/)
 - [データサイエンスの魅力](https://engineer-lab.findy-code.io/jobs-in-statistics)
+- [結局、統計学と機械学習は何が違うのか？](https://exploratory.io/note/kanaugust/2200910721280297)
