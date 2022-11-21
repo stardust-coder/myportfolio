@@ -3,54 +3,56 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-情報理工学系研究科
-数理情報学  
-[株式会社EQUES](https://www.eques.co.jp) Co-Founder/CTO  
+##### 東京大学 大学院情報理工学系研究科 数理情報学  
+##### [株式会社EQUES](https://www.eques.co.jp) Co-Founder/CTO  
 
-コピュラ統計学と数理最適化に興味を持っています.   
-医療AIや待ち行列の研究などにも取り組んでいます.  
-
-趣味はジャグリング, バルーンアート, ギターなどです.
-
-##### お知らせ
-* 2022年10月 [SenSys2022](https://orsj.org/nc2022f/programpage)のPoster and Demoセッションで研究発表を行うことになりました.
-* 2022年9月 [日本オペレーションズ・リサーチ学会 秋季研究発表会](https://orsj.org/nc2022f/programpage)にて研究発表を行いました.
-* 2022年2月 学部の同期と, [株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
 
 ![This is me][1]
 
+
+##### お知らせ
+* 2022年11月 ボストンで開催された[ACM SenSys2022](https://orsj.org/nc2022f/programpage)のPoster and Demoセッションで研究発表を行いました.
+* 2022年9月 [日本オペレーションズ・リサーチ学会 秋季研究発表会](https://orsj.org/nc2022f/programpage)にて研究発表を行いました.
+* 2022年2月 学部同期と, [株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
+
+
+
+##### 研究内容
+コピュラ統計学と数理最適化に興味を持っています.   
+医療AIや待ち行列の研究などにも取り組んでいます. 
+
 ##### 経歴
-* 2022 Preferred Networks インターンシップ
-* 2022~ 松尾研究所
-* 2021~2022 ソニーコンピュータサイエンス研究所
+* 2022~現在 　**東京大学医学部附属病院** 循環器内科 学術支援職員
+* 2022~現在 　**株式会社松尾研究所** プリセールスチーム
+* 2022　　　　**Preferred Networks** インターンシップ
+* 2021~2022 　**ソニーコンピュータサイエンス研究所**
+* 2019　　　　[東京大学 森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html) UTSIP(UTokyo Summer Internship Program)生
 
 ##### 受賞
-* JEESソフトバンクAI人材育成奨学生(令和4年度)
-* キーエンス応援給付金 2020年度
-* 公益財団法人ひよこ奨学財団2021年度奨学生
+* ソフトバンクAI人材育成スカラーシップ
 * ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
-* ヤフー賞, Civictech Challenge Cup (2021) [link]()
-* 最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
-* 優秀賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2019) [link]()
+* ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
+* 最優秀賞, AI SUM 全国ビジネスコンテスト(2020) [link]()
+* 優秀賞&学生投票賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2019) [link]()
 * 3位, All Japan Diabolo Competition
 * 銅賞, 化学グランプリ [link](http://gp.csj.jp/media/common/gp2016results.pdf)
 
 
 #### 学生時代の活動
+##### プロジェクト
 * なみにげ（デジタルハザードマップ開発プロジェクト）
 * 東大社会起業コミュニティ For Earth 運営幹部[HP](https://forearthut.com)
     - （東京大学教養学部と共催）[SDGsビジネスアイデア学生発表会：社会を変えるために東大生ができること](http://presentation.sdgs.c.u-tokyo.ac.jp/poster2022.html)
 * 『美×音 うたをみる』運営幹部 [HP](https://utawomiru.net) [Twitter](https://twitter.com/bion_exibi_conc)
-
+* SHIBUYA QWS 4期生&5期生 [kehai](https://shibuya-qws.com/project/kehai)〜「気配」を起点にしたコミュニケーション〜
 
 ##### 修了プログラム
 * [松尾研究所起業クエスト](https://weblab.t.u-tokyo.ac.jp/kigyoquest/) 参加生
-* SHIBUYA QWS 4期生&5期生 チーム[kehai](https://shibuya-qws.com/project/kehai)
 * 本郷テックガレージ Summer Foundation Program
 * [ソニー東大社会連携講座 Ignite Your Ambition](https://ignite-your-ambition.com), TU Project 修了生
 * [東大GLP-GEfIL](https://www.glp.u-tokyo.ac.jp) 修了生
 * [東大トライリンガルプログラム](http://www.cgcs.c.u-tokyo.ac.jp/tlp/) 前期課程修了生
-* UTSIP(UTokyo Summer Internship Program) @ [東大森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html)
+
 
 
 ##### 出演・掲載

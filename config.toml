@@ -16,7 +16,7 @@ canonifyurls = true
   description = "Issey's Portfolio site"
   copyright = "&copy;2022 Issey Sukeda"
   sidebarAbout = [
-    "I am a AI researcher, and an amateur juggler with more than 10 years of experience.",
+    "I am an applied mathematics researcher and an amateur juggler with more than 10 years of experience.",
     "Originally from Singapore, currently based in Tokyo."
   ]
   # Contact page
@@ -53,9 +53,7 @@ canonifyurls = true
   name = "Profile"
   url = "about/english"
 
-  [[params.navlinks]]
-  name = "プロフィール"
-  url = "about/japanese"
+ 
 
   [[params.navlinks]]
   name = "Publication"
@@ -65,9 +63,9 @@ canonifyurls = true
   name = "Bookmark"
   url = "page/bookmark"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+   [[params.navlinks]]
+  name = "Japanese"
+  url = "about/japanese"
 
   [params.social]
   #facebook      = "full page or profile url in facebook"

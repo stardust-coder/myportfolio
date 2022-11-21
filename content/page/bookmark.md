@@ -134,3 +134,4 @@ title = "Bookmark"
 - [金融情報学](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol37-no1/)
 - [データサイエンスの魅力](https://engineer-lab.findy-code.io/jobs-in-statistics)
 - [結局、統計学と機械学習は何が違うのか？](https://exploratory.io/note/kanaugust/2200910721280297)
+- [CWTS Journal Indicators](https://www.journalindicators.com/indicators)

@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>My Portfolio</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work4/</guid>
+      <description>&lt;p&gt;Hugo and Github Pages.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Competition</title>
       <link>https://stardust-coder.github.io/myportfolio/page/competition/</link>
       <pubDate>Tue, 11 Oct 2022 13:54:18 +0900</pubDate>
@@ -51,8 +60,8 @@
       <guid>https://stardust-coder.github.io/myportfolio/about/english/</guid>
       <description>I am a co-founder of EQUES Inc. . I love juggling and balloon art !
 link to CV (preparing)
-Research Interests Statistics (Copulas), Mathematical Optimization, Queueing Recognition, Medical AI
-Preprint  Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda: A study on modularity density maximization: Column generation acceleration and computational complexity analysis, arXiv:2206.10901.  Current Activities  Research Assistant at UTokyo MOCHA project Naminige project, Code for Japan  a digital hazardmap   For Earth  a student association to discuss SDGs   Ignite Your Ambition, Sony × UTokyo  Past Activities  2021 Entrepreneur Quest, UTokyo Matsuo Lab.</description>
+News  Nov 2022 ACM SenSys 2022 Feb 2022 Founded EQUES Inc.  Research Interests Statistics (Copulas), Mathematical Optimization, Queueing Detection, Medical AI
+Current Activities  Research Assistant at UTokyo MOCHA project Naminige project, Code for Japan  a digital hazardmap   For Earth  a student association to discuss SDGs   Ignite Your Ambition, Sony × UTokyo  Past Activities  2021 Entrepreneur Quest, UTokyo Matsuo Lab.</description>
     </item>
     
     <item>
@@ -61,12 +70,9 @@ Preprint  Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda: A study on modularit
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/about/japanese/</guid>
-      <description>情報理工学系研究科 数理情報学
-株式会社EQUES Co-Founder/CTO
-コピュラ統計学と数理最適化に興味を持っています.
+      <description>東京大学 大学院情報理工学系研究科 数理情報学 株式会社EQUES Co-Founder/CTO お知らせ  2022年11月 ボストンで開催されたACM SenSys2022のPoster and Demoセッションで研究発表を行いました. 2022年9月 日本オペレーションズ・リサーチ学会 秋季研究発表会にて研究発表を行いました. 2022年2月 学部同期と, 株式会社EQUESを共同創業しました.  研究内容 コピュラ統計学と数理最適化に興味を持っています.
 医療AIや待ち行列の研究などにも取り組んでいます.
-趣味はジャグリング, バルーンアート, ギターなどです.
-お知らせ  2022年10月 SenSys2022のPoster and Demoセッションで研究発表を行うことになりました. 2022年9月 日本オペレーションズ・リサーチ学会 秋季研究発表会にて研究発表を行いました. 2022年2月 学部の同期と, 株式会社EQUESを共同創業しました.  経歴  2022 Preferred Networks インターンシップ 2022~ 松尾研究所 2021~2022 ソニーコンピュータサイエンス研究所  受賞  JEESソフトバンクAI人材育成奨学生(令和4年度) キーエンス応援給付金 2020年度 公益財団法人ひよこ奨学財団2021年度奨学生 ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) link ヤフー賞, Civictech Challenge Cup (2021) link 最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) link 優秀賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2019) link 3位, All Japan Diabolo Competition 銅賞, 化学グランプリ link  学生時代の活動  なみにげ（デジタルハザードマップ開発プロジェクト） 東大社会起業コミュニティ For Earth 運営幹部HP  （東京大学教養学部と共催）SDGsビジネスアイデア学生発表会：社会を変えるために東大生ができること   『美×音 うたをみる』運営幹部 HP Twitter  修了プログラム  松尾研究所起業クエスト 参加生 SHIBUYA QWS 4期生&amp;amp;5期生 チームkehai 本郷テックガレージ Summer Foundation Program ソニー東大社会連携講座 Ignite Your Ambition, TU Project 修了生 東大GLP-GEfIL 修了生 東大トライリンガルプログラム 前期課程修了生 UTSIP(UTokyo Summer Internship Program) @ 東大森田研究室  出演・掲載  Malabaristas 27th 卒業記念動画 YouTube 五月祭2021 YouTube 駒場祭2020 Malabari Express 999 YouTube 文化祭2016 YouTube 文化祭2015 中夜祭 YouTube U-23サミット2020 学生登壇 東大新聞「学生生活紹介」 link マスフェスタ（高校）  </description>
+経歴  2022~現在 東京大学医学部附属病院 循環器内科 学術支援職員 2022~現在 株式会社松尾研究所 プリセールスチーム 2022　Preferred Networks インターンシップ 2021~2022 ソニーコンピュータサイエンス研究所 2019　東京大学 森田研究室 UTSIP(UTokyo Summer Internship Program)生  受賞  ソフトバンクAI人材育成スカラーシップ ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) link ヤフー賞, CivicTech Challenge Cup (2021) link 最優秀賞, AI SUM 全国ビジネスコンテスト(2020) link 優秀賞&amp;amp;学生投票賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2019) link 3位, All Japan Diabolo Competition 銅賞, 化学グランプリ link  学生時代の活動 プロジェクト  なみにげ（デジタルハザードマップ開発プロジェクト） 東大社会起業コミュニティ For Earth 運営幹部HP  （東京大学教養学部と共催）SDGsビジネスアイデア学生発表会：社会を変えるために東大生ができること   『美×音 うたをみる』運営幹部 HP Twitter SHIBUYA QWS 4期生&amp;amp;5期生 kehai〜「気配」を起点にしたコミュニケーション〜  修了プログラム  松尾研究所起業クエスト 参加生 本郷テックガレージ Summer Foundation Program ソニー東大社会連携講座 Ignite Your Ambition, TU Project 修了生 東大GLP-GEfIL 修了生 東大トライリンガルプログラム 前期課程修了生  出演・掲載  Malabaristas 27th 卒業記念動画 YouTube 五月祭2021 YouTube 駒場祭2020 Malabari Express 999 YouTube 文化祭2016 YouTube 文化祭2015 中夜祭 YouTube U-23サミット2020 学生登壇 東大新聞「学生生活紹介」 link マスフェスタ（高校）  </description>
     </item>
     
     <item>
@@ -84,7 +90,7 @@ Preprint  Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda: A study on modularit
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/page/publication/</guid>
-      <description>論文  (共著, PLOS ONE) Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features (共著, MobiHoc&#39;22) MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19 A study on modularity density maximization: Column generation acceleration and computational complexity analysis arXiv  学会発表  ACM SenSys2022, Poster and Demo Session International Workshop on Continuous Optimization 日本オペレーションズ・リサーチ学会 秋季研究発表会 アブストラクト 最適化手法とアルゴリズム ─未来を担う若手研究者の集い 2022─ HP  その他  Preferred Networks テックブログ寄稿  </description>
+      <description>Journal Articles  (Co-author, PLOS ONE) Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features  Conference Proceedings  (Co-author, MobiHoc&#39;22) MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19  Preprints  A study on modularity density maximization: Column generation acceleration and computational complexity analysis arXiv  Conference Presentations  統計科学の開拓（科研費シンポジウム）  科学研究費・基盤研究（A) 「大規模複雑データの理論と方法論の革新的展開」 （研究代表者：青嶋 誠（筑波大学）, 課題番号：20H00576）   ACM SenSys2022, Poster and Demo Session International Workshop on Continuous Optimization 日本オペレーションズ・リサーチ学会 秋季研究発表会 Abstract 最適化手法とアルゴリズム ─未来を担う若手研究者の集い 2022─ Website  Others  Preferred Networks Tech Blog  </description>
     </item>
     
   </channel>

@@ -8,17 +8,15 @@ I love juggling and balloon art !
 
 [link to CV (preparing)]()
 
-#### Research Interests
-Statistics (Copulas), Mathematical Optimization, Queueing Recognition, Medical AI
-
-##### Preprint
-* Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:
-A study on modularity density maximization: Column generation acceleration and computational complexity analysis,
-[arXiv:2206.10901.](https://arxiv.org/abs/2206.10901)
-
 
 ![This is me][1]
 
+#### News
+* Nov 2022 ACM SenSys 2022
+* Feb 2022 Founded EQUES Inc.
+
+#### Research Interests
+Statistics (Copulas), Mathematical Optimization, Queueing Detection, Medical AI
 
 #### Current Activities
 
