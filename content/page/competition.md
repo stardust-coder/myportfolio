@@ -12,6 +12,8 @@ draft: false
 - UGIPハッカソン
 - [NRI マーケティング分析コンテスト](https://www.is.nri.co.jp/contest/2022/index.html)
 - 9月-1月 [エビデンス駆動型教育研究協議会 教育データ分析コンテスト](https://www.ederc.jp/events)
+- 不定期 [NTTデータ open innovation](https://oi.nttdata.com/en/contest/)
+
 
 ### 常時開催
 - Kaggle

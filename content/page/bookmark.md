@@ -9,6 +9,9 @@ title = "Bookmark"
 - [Semiparametric copula-based analysis for treatment effects in the presence of treatment switching](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.8585)
 * [Yang and Barron, 1999](http://www.stat.yale.edu/~arb4/publications_files/Information-TheoreticDeterminationOfMinimaxRatesOfConvergenceAnnalsStatistics.pdf)
     - ノンパラ推定のminimaxレート導出
+* [確率的依存構造をもつコピュラモデル](https://www.ism.ac.jp/editsec/toukei/pdf/68-1-087.pdf)
+    - 応用おもしろそう
+* [exchange algorithm sampling](https://statweb.stanford.edu/~cgates/PERSI/papers/sturm98.pdf)
 
 
 ### コピュラ統計学
@@ -29,6 +32,8 @@ title = "Bookmark"
 * Portfolio optimization for inventory financing: Copula-based approaches, Computers & Operational Research (2021)
 * COPOD: Copula-Based Outlier Detection, ICDM(2020)
 * Computational Optimal Transport, Foundations and Trends in Machine Learning, 2019
+* [オックスフォード大学の関連組織](https://www.oxford-man.ox.ac.uk/research-overview/)
+
 
 #### 幾何
 * [Permutation inference とbirkhoff polytope]()
@@ -77,6 +82,15 @@ title = "Bookmark"
 * [TOTAL POSITIVITY IN MARKOV STRUCTURE 2016](https://arxiv.org/pdf/1510.01290.pdf)
 * [Total positivity of copulas from a Markov kernel perspective](https://arxiv.org/pdf/2205.01914.pdf)
     - d-TP2 => MK-TP2 => TP2
+##### 行列のTotal Positivity一般
+* [Total positivity of recursive matrices](https://arxiv.org/pdf/1601.05645.pdf)
+* [The logarithmic method and the solution to the TP2-completion problem](https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=3357&context=etd)
+* [Some properties of TP matrices](https://reader.elsevier.com/reader/sd/pii/0024379576900768?token=84BA6EE2C3FA46FD3D07418AB4C032CC21FDBF005A0D4E4B7E9792913BB69541FE9ECEB5C20CBE243C436609CB2E71DE&originRegion=us-east-1&originCreation=20221128121736)
+    - TP行列はTPとTPへのLU分解可能.
+* [On totally positive matrices and geometric incidences](https://www.cs.bgu.ac.il/~shakhar/my_papers/TP.pdf)
+    - repeated 2 × 2 minors in a special class of n × n TP-matrices
+
+
 
 ### マルコフ基底・代数統計
 * [青木先生&竹村先生のGrobner School 2012](http://www.math.kobe-u.ac.jp/crest-c/cs-2012/2012-02-22-aoki-takemura.pdf)

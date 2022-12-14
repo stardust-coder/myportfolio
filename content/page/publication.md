@@ -7,6 +7,7 @@ title = "Publication"
 * (Co-author, PLOS ONE) [Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276928)
 
 ##### Conference Proceedings
+* (Co-author, Neurips Workshop 2022)[Masked Autoencoder-Based Self-Supervised Learning for Electrocardiograms to Detect Left Ventricular Systolic Dysfunction](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=50017#wse-detail-60064) [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60064.png?t=1669681561.7912426) [openreview](https://openreview.net/forum?id=gz7c2HIcub7)
 * (Co-author, MobiHoc'22) [MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19](https://dl.acm.org/doi/proceedings/10.1145/3492866)
 
 ##### Preprints
