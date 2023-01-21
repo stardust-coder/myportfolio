@@ -68,10 +68,9 @@ title = "Bookmark"
 
 #### 応用
 * 金融
-    * [ダイナミック非対称$t$コピュラを用いた 新興国国債市場の相互依存構造に関する研究](https://www.jstage.jst.go.jp/article/jafee/17/0/17_45/_pdf)
-    * [確率的依存構造をもつコピュラモデル](https://www.ism.ac.jp/editsec/toukei/pdf/68-1-087.pdf)
-    * [極値での従属性および非対称性と信用ポートフォリオリスク(吉羽先生,2021)](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_157/_pdf/-char/ja)
-
+    - [ダイナミック非対称$t$コピュラを用いた 新興国国債市場の相互依存構造に関する研究](https://www.jstage.jst.go.jp/article/jafee/17/0/17_45/_pdf)
+    - [確率的依存構造をもつコピュラモデル](https://www.ism.ac.jp/editsec/toukei/pdf/68-1-087.pdf)
+    - [極値での従属性および非対称性と信用ポートフォリオリスク(吉羽先生,2021)](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_157/_pdf/-char/ja)
 
 * 情報検索
     - [Eickhoff et al. (ACM SIGIR 2013)](http://www-personal.umich.edu/~kevynct/pubs/sigir2013-eickhoff-copulas.pdf)
@@ -79,12 +78,13 @@ title = "Bookmark"
     - [Eickhoff et al. 2015](https://www.researchgate.net/publication/277940908_Modelling_Term_Dependence_with_Copulas)
         - コピュラを用いた検索モデルが高精度
     - [Komatsuda et al. 2016](https://db-event.jpn.org/deim2016/papers/124.pdf)
+
 * 気象データ
     - Vrac et al. 
 * 処置効果(Treatment effects)
-* Stable feature selection using copula based mutual information, Pattern Recognition(2021)
-* Portfolio optimization for inventory financing: Copula-based approaches, Computers & Operational Research (2021)
-* COPOD: Copula-Based Outlier Detection, ICDM(2020)
+* Stable feature selection using copula based mutual information (Pattern Recognition 2021)
+* Portfolio optimization for inventory financing: Copula-based approaches, (Computers & Operational Research 2021)
+* COPOD: Copula-Based Outlier Detection, (ICDM 2020)
 
 #### コピュラとTotal Positivity
 * [TP2 MTP2 提案論文](https://reader.elsevier.com/reader/sd/pii/0047259X80900652?token=90D2635E6FD9DA80EEF977F5C161BAEBA729553C81DB0368B6AB4F405D72F5D9F4F523DDBC111DF55797389E1D759B59&originRegion=us-east-1&originCreation=20220920131057)
@@ -100,11 +100,17 @@ title = "Bookmark"
 * [On totally positive matrices and geometric incidences](https://www.cs.bgu.ac.il/~shakhar/my_papers/TP.pdf)
     - repeated 2 × 2 minors in a special class of n × n TP-matrices
 
-#### コピュラと相互情報量
-- (https://arxiv.org/pdf/cond-mat/0305641.pdf)
-- (https://github.com/karlstratos/doe)
-- [A-MIND]
-- [On Variational Bounds of Mutual Information]
+#### コピュラと順位相関と相互情報量
+- [On the size of the class of bivariate extreme-value copulas with a fixed value of Spearman's rho or Kendall's tau](https://www.sciencedirect.com/science/article/pii/S0022247X18310035)
+    - pickand functionが取れる形の広さを評価.
+- [On the exact region determined by Kendall’s tau and Spearman’s rho](https://arxiv.org/pdf/1502.04620.pdf)
+    - 従来知られていたtau vs rhoの可動域をstrictに評価.
+- [Estimating Mutual Information](https://arxiv.org/pdf/cond-mat/0305641.pdf)
+    - 相互情報量推定の一般的な話.
+- [上記相互情報量推定に使われたライブラリ](https://github.com/karlstratos/doe)
+- [Inductive Mutual Information Estimation](https://arxiv.org/pdf/2102.13182.pdf)
+    - 最大エントロピー原理に基づいて相互情報量推定. 
+- [On Variational Bounds of Mutual Information](https://arxiv.org/pdf/1905.06922.pdf)
 * [Relationship Between Kendall’s tau Correlation and Mutual Information](http://www.scielo.org.co/pdf/rce/v43n1/0120-1751-rce-43-01-3.pdf)
 
 #### コピュラの実装
@@ -151,12 +157,12 @@ title = "Bookmark"
 - Gibbs with Gradient (ICML2021)
 - Path Auxiliary Sampler (ICLR2022)
 - [Langevin Monte Carloの実装](https://github.com/abdulfatir/langevin-monte-carlo)
-* [exchange algorithm sampling](https://statweb.stanford.edu/~cgates/PERSI/papers/sturm98.pdf)
+- [exchange algorithm sampling](https://statweb.stanford.edu/~cgates/PERSI/papers/sturm98.pdf)
 
 
 ### 学会・雑誌・研究者
 - [日本の統計学者](https://sites.google.com/site/shoutoyonekura/国内の統計学者リスト)
-* [オックスフォード大学の関連組織](https://www.oxford-man.ox.ac.uk/research-overview/)
+- [オックスフォード大学の関連組織](https://www.oxford-man.ox.ac.uk/research-overview/)
 - [CMStatistics](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.cmstatistics.org&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ECFECMStatistics&screen_name=CFECMStatistics)
     - 統計学の国際会議, 12月開催
 - [ISI WSC2023](https://www.isi2023.org/conferences/ottawa-2023/contributed-paperposter-sessions/#)
