@@ -11,11 +11,9 @@ title = "About me"
 
 
 ##### お知らせ
-* 2022年11月 ボストンで開催された[ACM SenSys2022](https://orsj.org/nc2022f/programpage)のPoster and Demoセッションで研究発表を行いました.
+* 2022年11月 ボストンで開催された国際会議[ACM Sensys2022](https://orsj.org/nc2022f/programpage)で研究発表を行いました.
 * 2022年9月 [日本オペレーションズ・リサーチ学会 秋季研究発表会](https://orsj.org/nc2022f/programpage)にて研究発表を行いました.
 * 2022年2月 学部同期と, [株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
-
-
 
 ##### 研究内容
 コピュラ統計学と数理最適化に興味を持っています.   
@@ -23,24 +21,30 @@ title = "About me"
 最近は計算統計にも興味があります.
 
 ##### 経歴
-* 2022~現在 　**東京大学医学部附属病院** 循環器内科 学術支援職員
+* 2022~現在 　**東京大学医学部附属病院** 循環器内科 学術専門職員
 * 2022~現在 　**株式会社松尾研究所** 金融チーム→プリセールスチーム
 * 2022　　　　**Preferred Networks** インターンシップ
-* 2021~2022 　**ソニーコンピュータサイエンス研究所**
+* 2021~　　　**東京大学EEIC川原研究室** リサーチアシスタント
+* 2021~2022 　**ソニーコンピュータサイエンス研究所** リサーチアシスタント
 * 2019　　　　[東京大学 森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html) UTSIP(UTokyo Summer Internship Program)生
+* その他、東大エクステンション TA, 東京大学データサイエンスコモンズ TA
+
 
 ##### 受賞
 * ソフトバンクAI人材育成スカラーシップ
+* 3位, 松尾研究所内部AIコンペティション
 * ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
 * ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
 * 最優秀賞, AI SUM 全国ビジネスコンテスト(2020) [link]()
 * 優秀賞&学生投票賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2019) [link]()
-* 3位, All Japan Diabolo Competition
 * 銅賞, 化学グランプリ [link](http://gp.csj.jp/media/common/gp2016results.pdf)
+* 3位, All Japan Diabolo Competition
 
 
 #### 学生時代の活動
 ##### プロジェクト
+* 東大MOCHA
+    - 東大工学部長賞受賞プロジェクト
 * なみにげ（デジタルハザードマップ開発プロジェクト）
 * 東大社会起業コミュニティ For Earth 運営幹部[HP](https://forearthut.com)
     - （東京大学教養学部と共催）[SDGsビジネスアイデア学生発表会：社会を変えるために東大生ができること](http://presentation.sdgs.c.u-tokyo.ac.jp/poster2022.html)

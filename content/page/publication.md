@@ -7,11 +7,11 @@ title = "Publication"
 * Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features, PLOSONE  [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276928)
 
 ##### Preprints
-* **(First)** A study on modularity density maximization: Column generation acceleration and computational complexity analysis [arXiv](https://arxiv.org/abs/2206.10901)
+* [**(First)**]() A study on modularity density maximization: Column generation acceleration and computational complexity analysis [arXiv](https://arxiv.org/abs/2206.10901)
     - with Prof. Takeda
 
 ##### Conference Proceedings
-* **(First)** Recursive Queueing Estimation Using Smartphone-based Acoustic Ranging, Proc. of ACM SenSys 2022, To Appear.
+* [**(First)**]() Recursive Queueing Estimation Using Smartphone-based Acoustic Ranging, Proc. of ACM SenSys 2022, To Appear.
     - with Lecturer Nishiyama, Prof. Kawahara
 * Masked Autoencoder-Based Self-Supervised Learning for Electrocardiograms to Detect Left Ventricular Systolic Dysfunction, NeurIPS Workshop 2022.  [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60064.png?t=1669681561.7912426) [openreview](https://openreview.net/forum?id=gz7c2HIcub7) [conference](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=50017#wse-detail-60064)
 * MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19, MobiHoc'22. [paper](https://dl.acm.org/doi/proceedings/10.1145/3492866)
@@ -32,3 +32,5 @@ title = "Publication"
 ##### Misc.
 * [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)
     - Title: 数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習
+* [App 東大生と考えるフェルミ推定]()
+    - released on Apple Store, currently closed.

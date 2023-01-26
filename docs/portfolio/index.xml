@@ -8,12 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>App</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work5/</guid>
+      <description>&lt;p&gt;東大生と考えるフェルミ推定&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Balloon Arts</title>
       <link>https://stardust-coder.github.io/myportfolio/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/portfolio/work2/</guid>
-      <description>&lt;p&gt;Balloon art or Twisting balloon.&lt;/p&gt;</description>
+      <description>&lt;p&gt;風船をねじる、バルーンアート&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,7 +31,7 @@
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/portfolio/work1/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;ジャグリング、大道芸、コマ回し&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,7 +40,7 @@
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;自分だけの時の流れ&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,7 +49,7 @@
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/portfolio/work4/</guid>
-      <description>&lt;p&gt;Hugo and Github Pages.&lt;/p&gt;</description>
+      <description>&lt;p&gt;このポートフォリオ&lt;/p&gt;</description>
     </item>
     
   </channel>

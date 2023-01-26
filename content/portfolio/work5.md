@@ -2,10 +2,12 @@
 image = "img/portfolio/gravity-paper.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Juggling"
+title = "App"
 draft = false
 weight = 2
 +++
 
-ジャグリング、大道芸、コマ回し
+東大生と考えるフェルミ推定
 <!--more-->
+
+現在はリリースしていません.

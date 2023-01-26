@@ -7,7 +7,6 @@ draft = false
 weight = 2
 +++
 
-Hugo and Github Pages.
+このポートフォリオ
 <!--more-->
-
-hogehoge
+Tool : Hugo and Github Pages.
