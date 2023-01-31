@@ -12,7 +12,7 @@ I love juggling and balloon art !
 ![This is me][1]
 
 #### News
-* Nov 2022. Participated ACM Sensys 2022 ! 
+* Nov 2022. Participated ACM SenSys 2022 ! 
 * Feb 2022. Founded EQUES Inc., an AI startup ! 
 
 #### Research Interests

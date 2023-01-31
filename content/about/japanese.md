@@ -11,8 +11,8 @@ title = "About me"
 
 
 ##### お知らせ
-* 2022年11月 ボストンで開催された国際会議[ACM Sensys2022](https://orsj.org/nc2022f/programpage)で研究発表を行いました.
-* 2022年9月 [日本オペレーションズ・リサーチ学会 秋季研究発表会](https://orsj.org/nc2022f/programpage)にて研究発表を行いました.
+* 2023年1月 主著論文がEuropean Journal of Operational Researchにacceptされました！
+* 2022年11月 ボストンで開催された国際会議[ACM SenSys2022](https://orsj.org/nc2022f/programpage)で研究発表を行いました.
 * 2022年2月 学部同期と, [株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
 
 ##### 研究内容
