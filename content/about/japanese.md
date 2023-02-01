@@ -21,10 +21,10 @@ title = "About me"
 最近は計算統計にも興味があります.
 
 ##### 経歴
-* 2022~現在 　**東京大学医学部附属病院** 循環器内科 学術専門職員
-* 2022~現在 　**株式会社松尾研究所** 金融チーム→プリセールスチーム
+* 2022~現在 　**東京大学医学部附属病院** 学術専門職員
+* 2022~現在 　**株式会社松尾研究所** 金融チーム・PoC/プリセールスチーム
 * 2022　　　　**Preferred Networks** インターンシップ
-* 2021~　　　**東京大学EEIC川原研究室** リサーチアシスタント
+* 2021~現在　　　**東京大学EEIC川原研究室** リサーチアシスタント
 * 2021~2022 　**ソニーコンピュータサイエンス研究所** リサーチアシスタント
 * 2019　　　　[東京大学 森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html) UTSIP(UTokyo Summer Internship Program)生
 * その他、東大エクステンション TA, 東京大学データサイエンスコモンズ TA
@@ -43,17 +43,21 @@ title = "About me"
 
 #### 学生時代の活動
 ##### プロジェクト
-* 東大MOCHA
+* [東大MOCHA]() 
+    - リサーチ
     - 東大工学部長賞受賞プロジェクト
 * なみにげ（デジタルハザードマップ開発プロジェクト）
-* 東大社会起業コミュニティ For Earth 運営幹部[HP](https://forearthut.com)
+* [東大社会起業コミュニティ For Earth](https://forearthut.com)
+    -  運営幹部
     - （東京大学教養学部と共催）[SDGsビジネスアイデア学生発表会：社会を変えるために東大生ができること](http://presentation.sdgs.c.u-tokyo.ac.jp/poster2022.html)
-* 『美×音 うたをみる』運営幹部 [HP](https://utawomiru.net) [Twitter](https://twitter.com/bion_exibi_conc)
-* SHIBUYA QWS 4期生&5期生 [kehai](https://shibuya-qws.com/project/kehai)〜「気配」を起点にしたコミュニケーション〜
+* 『美×音 うたをみる』 [HP](https://utawomiru.net) [Twitter](https://twitter.com/bion_exibi_conc)
+    - 運営幹部・広報
+* [kehai 〜「気配」を起点にしたコミュニケーション〜](https://shibuya-qws.com/project/kehai)
+    - SHIBUYA QWS 4期生&5期生 
 
 ##### 修了プログラム
 * [松尾研究所起業クエスト](https://weblab.t.u-tokyo.ac.jp/kigyoquest/) 参加生
-* 本郷テックガレージ Summer Foundation Program
+* [本郷テックガレージ Summer Foundation Program]() 採択
 * [ソニー東大社会連携講座 Ignite Your Ambition](https://ignite-your-ambition.com), TU Project 修了生
 * [東大GLP-GEfIL](https://www.glp.u-tokyo.ac.jp) 修了生
 * [東大トライリンガルプログラム](http://www.cgcs.c.u-tokyo.ac.jp/tlp/) 前期課程修了生
@@ -68,7 +72,7 @@ title = "About me"
 * 文化祭2015 中夜祭 [YouTube](https://www.youtube.com/watch?v=BbQ4kZXcXEQ)
 * U-23サミット2020 学生登壇
 * 東大新聞「学生生活紹介」 [link](https://www.todaishimbun.org/koukigakuseiseikatsu20210619/)
-* [マスフェスタ（高校）](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
+* マスフェスタ（高校）[link](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
 
 
 [1]: /img/me.png

@@ -1,13 +1,20 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/mypace.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "My Pace"
 draft = false
-weight = 2
+weight = 3
 +++
 
 自分だけの時の流れ
 <!--more-->
 
-hogehoge
+
+### 東京大学駒場キャンパス構内
+
+(2022.4)
+
+{{<figure src="/img/mypace2.png" class="inline" link="" alt="">}}
+
+[link](https://mypaceproject.weebly.com/)

@@ -1,10 +1,10 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/juggling.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Juggling"
 draft = false
-weight = 2
+weight = 1
 +++
 
 ジャグリング、大道芸、コマ回し
