@@ -1,5 +1,5 @@
 +++
-image = "img/mypace.png"
+image = "img/mypace.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "My Pace"
@@ -15,6 +15,6 @@ weight = 3
 
 (2022.4)
 
-{{<figure src="/img/mypace2.png" class="inline" link="" alt="">}}
+{{<figure src="/img/mypace2.jpg" class="inline" link="" alt="">}}
 
 [link](https://mypaceproject.weebly.com/)

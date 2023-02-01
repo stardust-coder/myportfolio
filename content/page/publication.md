@@ -3,10 +3,10 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Publication"
 +++
 
+
 ##### Journal Articles
 * [**(First)**]() A study on modularity density maximization: Column generation acceleration and computational complexity analysis, European Journal of Operational Research. [✔︎journal]() [✔︎arXiv](https://arxiv.org/abs/2206.10901)
     - with Asst. Miyauchi and Prof. Takeda.
-
 * Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features, PLoSONE.  [✔︎paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276928)
     - with Mr. Sawano, Prof. Kodera, etc.
 
