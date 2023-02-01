@@ -2,7 +2,7 @@
 image = "img/kehailogo.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "App"
+title = "kehai"
 draft = false
 weight = 4
 +++
@@ -10,3 +10,4 @@ weight = 4
 「気配」を起点にしたコミュニケーションとは
 <!--more-->
 
+QWS SHIBUYA プロジェクト
