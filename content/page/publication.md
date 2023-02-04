@@ -3,6 +3,7 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Publication"
 +++
 
+[✔︎ Google Scholar](https://scholar.google.co.jp/citations?user=Dc_v0BsAAAAJ&hl=ja&oi=ao)
 
 ##### Journal Articles
 * [**(First)**]() A study on modularity density maximization: Column generation acceleration and computational complexity analysis, European Journal of Operational Research. [✔︎journal]() [✔︎arXiv](https://arxiv.org/abs/2206.10901)
