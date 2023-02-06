@@ -67,18 +67,17 @@ title = "Bookmark"
     - 続編 Inference and sampling for Archimax copulas
 
 #### 応用
+
 * 金融
     - [ダイナミック非対称$t$コピュラを用いた 新興国国債市場の相互依存構造に関する研究](https://www.jstage.jst.go.jp/article/jafee/17/0/17_45/_pdf)
     - [確率的依存構造をもつコピュラモデル](https://www.ism.ac.jp/editsec/toukei/pdf/68-1-087.pdf)
     - [極値での従属性および非対称性と信用ポートフォリオリスク(吉羽先生,2021)](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_157/_pdf/-char/ja)
-
 * 情報検索
     - [Eickhoff et al. (ACM SIGIR 2013)](http://www-personal.umich.edu/~kevynct/pubs/sigir2013-eickhoff-copulas.pdf)
         - 軸の統合は線形結合よりコピュラの方が優秀
     - [Eickhoff et al. 2015](https://www.researchgate.net/publication/277940908_Modelling_Term_Dependence_with_Copulas)
         - コピュラを用いた検索モデルが高精度
     - [Komatsuda et al. 2016](https://db-event.jpn.org/deim2016/papers/124.pdf)
-
 * 気象データ
     - Vrac et al. 
 * 処置効果(Treatment effects)
