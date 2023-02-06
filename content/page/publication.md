@@ -5,13 +5,13 @@ title = "Publication"
 
 [✔︎ Google Scholar](https://scholar.google.co.jp/citations?user=Dc_v0BsAAAAJ&hl=ja&oi=ao)
 
-##### Journal Articles
-* [**(First)**]() A study on modularity density maximization: Column generation acceleration and computational complexity analysis, European Journal of Operational Research. [✔︎journal]() [✔︎arXiv](https://arxiv.org/abs/2206.10901)
+##### International Journal Articles (Reviewed)
+* [**(First)**]() A study on modularity density maximization: Column generation acceleration and computational complexity analysis, European Journal of Operational Research. [✔︎paper](https://www.sciencedirect.com/science/article/pii/S037722172300111X) [✔︎arXiv](https://arxiv.org/abs/2206.10901)
     - with Asst. Miyauchi and Prof. Takeda.
 * Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features, PLoSONE.  [✔︎paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276928)
     - with Mr. Sawano, Prof. Kodera, etc.
 
-##### Conference Proceedings
+##### International Conference Proceedings (Reviewed)
 * [**(First)**]() Recursive Queueing Estimation Using Smartphone-based Acoustic Ranging, Proc. of ACM SenSys 2022, SenSys '22: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems.[✔︎abstract](https://dl.acm.org/doi/10.1145/3560905.3568097) [✔︎conference](http://sensys.acm.org/2022/)
     - with Mr. Murakami, Lecturer Nishiyama, and Prof. Kawahara.
 * Masked Autoencoder-Based Self-Supervised Learning for Electrocardiograms to Detect Left Ventricular Systolic Dysfunction, NeurIPS Workshop 2022.  [✔︎poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60064.png?t=1669681561.7912426) [✔︎openreview](https://openreview.net/forum?id=gz7c2HIcub7) [✔︎conference](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=50017#wse-detail-60064)
