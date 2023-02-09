@@ -30,4 +30,3 @@
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}
 {{ template "_internal/google_analytics.html" . }}
-{{ template "partials/head/custom-head.html" . }}
