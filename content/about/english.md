@@ -12,6 +12,7 @@ I love juggling and balloon art !
 ![This is me][1]
 
 #### News
+* Feb 2023. Got promoted to a Chief AI Engineer at Matsuo Institute !
 * Nov 2022. Participated ACM SenSys 2022 ! 
 * Feb 2022. Founded EQUES Inc., an AI startup ! 
 

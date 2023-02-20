@@ -5,12 +5,13 @@ title = "About me"
 
 ##### 東京大学 大学院情報理工学系研究科
 ##### [株式会社EQUES](https://www.eques.co.jp) Co-Founder/CTO  
-
+##### [松尾研究所]() Chief AI Engineer
 
 ![This is me][1]
 
 
 ##### お知らせ
+* 2023年2月 松尾研究所のChief AI Engineerに採用されました.
 * 2023年1月 主著論文がEuropean Journal of Operational Researchにacceptされました！
 * 2022年11月 ボストンで開催された国際会議[ACM SenSys2022](https://orsj.org/nc2022f/programpage)で研究発表を行いました.
 * 2022年2月 学部同期と, [株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
