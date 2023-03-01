@@ -132,30 +132,43 @@ if (!doNotTrack) {
 <li>列生成の</li>
 </ul>
 </li>
-<li>Copula-Based Markov Models for Time Series: Parametric Inference and Process Control</li>
 </ul>
-<h3 id="コピュラ統計学">コピュラ統計学</h3>
+<h3 id="コピュラ統計学の概要">コピュラ統計学の概要</h3>
+<p>モチベーション：各変量の1次元周辺分布については詳しいが, 依存関係はモデリングしたい.<br>
+新しいコピュラの提案<br>
+コピュラの推定（パラメトリック、セミパラ、ノンパラ）<br>
+コピュラをベースにしたその他統計手法の開発<br>
+コピュラを用いたデータ分析</p>
 <h4 id="コピュラ一般">コピュラ一般</h4>
 <ul>
-<li><a href="https://ibisml.org/ibis2009/pdf-invited/yoshiba1.pdf">基本的な内容(IBIS 2009より)</a></li>
-<li><a href="https://www.jstage.jst.go.jp/article/jjssj/51/1/51_101/_pdf">塚原先生</a>
+<li><a href="https://ibisml.org/ibis2009/pdf-invited/yoshiba1.pdf">吉羽先生(IBIS 2009)</a></li>
+<li><a href="https://www.jstage.jst.go.jp/article/jjssj/51/1/51_101/_pdf">塚原先生</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0047259X19300831">Bivariate distributions with ordered marginals</a></li>
+</ul>
+<h4 id="コピュラクラスを拡張する研究">コピュラクラスを拡張する研究</h4>
 <ul>
-<li>おすすめ.</li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0047259X15001128">Copulae on products of compact Riemannian manifolds</a></li>
+</ul>
+<h4 id="推定">推定</h4>
+<ul>
+<li><a href="https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-2/Parametric-copula-adjusted-for-non--and-semiparametric-regression/10.1214/21-AOS2126.short">Parametric copula adjusted for non- and semiparametric regression</a>, The Annals of Statistics(2022)</li>
+</ul>
+<h4 id="従属性裾従属性">従属性・裾従属性</h4>
+<ul>
+<li><a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Measuring-dependence-in-the-Wasserstein-distance-for-Bayesian-nonparametric-models/10.1214/21-AOS2065.short">Measuring dependence in the Wasserstein distance for Bayesian nonparametric models</a>, The Annals of Statistics(2021)</li>
+<li>Vine copula approximation: a generic method for coping with conditional dependence, Stat Comput (2018) 28:219–237
+<ul>
+<li>ヴァイン</li>
 </ul>
 </li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0047259X19300831">Bivariate distributions with ordered marginals</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0047259X15001128">Copulae on products of compact Riemannian manifolds</a></li>
-<li><a href="https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-2/Parametric-copula-adjusted-for-non--and-semiparametric-regression/10.1214/21-AOS2126.short">Parametric copula adjusted for non- and semiparametric regression</a>, The Annals of Statistics(2022)</li>
-<li><a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Measuring-dependence-in-the-Wasserstein-distance-for-Bayesian-nonparametric-models/10.1214/21-AOS2065.short">Measuring dependence in the Wasserstein distance for Bayesian nonparametric models</a>, The Annals of Statistics(2021)</li>
-<li>Vine copula approximation: a generic method for coping with conditional dependence, Stat Comput (2018) 28:219–237</li>
+<li><a href="https://arxiv.org/pdf/1502.04620.pdf">On the exact region determined by Kendall’s tau and Spearman’s rho</a>
+<ul>
+<li>従来知られていたtau vs rhoの可動域をstrictに評価.</li>
+</ul>
+</li>
 </ul>
 <h4 id="コピュラの幾何学">コピュラの幾何学</h4>
 <ul>
-<li><a href="">Permutation inference とbirkhoff polytope</a>
-<ul>
-<li>バーコフ多面体 = チェス盤コピュラ全体</li>
-</ul>
-</li>
 <li><a href="https://arxiv.org/abs/1802.06969">Geometry of Discrete Copula, Perrone 2019</a>
 <ul>
 <li>ウルトラモジュラコピュラ</li>
@@ -176,9 +189,18 @@ if (!doNotTrack) {
 <li>緩和extreme copulaのうちτを固定した下で選べる範囲の解析</li>
 </ul>
 </li>
-<li>On weak conditional convergence of bivariate Archimedean and Extreme Value copulas, and consequences to nonparametric estimation, Bernoulli(2021)</li>
+<li>On weak conditional convergence of bivariate Archimedean and Extreme Value copulas, and consequences to nonparametric estimation, Bernoulli(2021)
+<ul>
+<li>弱収束を定義.</li>
 </ul>
-<h4 id="コピュラエントロピーに関する研究">コピュラエントロピーに関する研究</h4>
+</li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0022247X18310035">On the size of the class of bivariate extreme-value copulas with a fixed value of Spearman&rsquo;s rho or Kendall&rsquo;s tau</a>
+<ul>
+<li>pickand functionが取れる形の広さを評価.</li>
+</ul>
+</li>
+</ul>
+<h4 id="コピュラエントロピー理論">コピュラエントロピー理論</h4>
 <ul>
 <li><a href="https://arxiv.org/pdf/2206.05956.pdf">Multivariate Normality Test with Copula Entropy</a> 著者:<a href="https://scholar.google.com/citations?hl=en&amp;user=gqCD4kwAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Jian Ma</a></li>
 <li><a href="https://arxiv.org/pdf/2005.14025.pdf">copent: Estimating Copula Entropy and Transfer Entropy in R</a>
@@ -188,6 +210,7 @@ if (!doNotTrack) {
 </li>
 <li><a href="https://arxiv.org/pdf/2202.13482.pdf">Causal Domain Adaptation with Copula Entropy based Conditional Independence Test</a></li>
 <li>Maximum entropy distribution of order statistics with given marginals, Bernoulli(2018)</li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320320305008">Stable feature selection using copula based mutual information</a> (Pattern Recognition 2021)</li>
 </ul>
 <h4 id="最小情報コピュラ関連">最小情報コピュラ関連</h4>
 <ul>
@@ -220,40 +243,14 @@ if (!doNotTrack) {
 <li>続編 Inference and sampling for Archimax copulas</li>
 </ul>
 </li>
+<li>COPOD: Copula-Based Outlier Detection, (ICDM 2020)</li>
 </ul>
-<h4 id="応用">応用</h4>
-<ul>
-<li>金融
+<h4 id="金融応用">金融応用</h4>
 <ul>
 <li><a href="https://www.jstage.jst.go.jp/article/jafee/17/0/17_45/_pdf">ダイナミック非対称$t$コピュラを用いた 新興国国債市場の相互依存構造に関する研究</a></li>
 <li><a href="https://www.ism.ac.jp/editsec/toukei/pdf/68-1-087.pdf">確率的依存構造をもつコピュラモデル</a></li>
 <li><a href="https://www.jstage.jst.go.jp/article/jjssj/51/1/51_157/_pdf/-char/ja">極値での従属性および非対称性と信用ポートフォリオリスク(吉羽先生,2021)</a></li>
-</ul>
-</li>
-<li>情報検索
-<ul>
-<li><a href="http://www-personal.umich.edu/~kevynct/pubs/sigir2013-eickhoff-copulas.pdf">Eickhoff et al. (ACM SIGIR 2013)</a>
-<ul>
-<li>軸の統合は線形結合よりコピュラの方が優秀</li>
-</ul>
-</li>
-<li><a href="https://www.researchgate.net/publication/277940908_Modelling_Term_Dependence_with_Copulas">Eickhoff et al. 2015</a>
-<ul>
-<li>コピュラを用いた検索モデルが高精度</li>
-</ul>
-</li>
-<li><a href="https://db-event.jpn.org/deim2016/papers/124.pdf">Komatsuda et al. 2016</a></li>
-</ul>
-</li>
-<li>気象データ
-<ul>
-<li>Vrac et al.</li>
-</ul>
-</li>
-<li>処置効果(Treatment effects)</li>
-<li>Stable feature selection using copula based mutual information (Pattern Recognition 2021)</li>
 <li>Portfolio optimization for inventory financing: Copula-based approaches, (Computers &amp; Operational Research 2021)</li>
-<li>COPOD: Copula-Based Outlier Detection, (ICDM 2020)</li>
 </ul>
 <h4 id="コピュラとtotal-positivity">コピュラとTotal Positivity</h4>
 <ul>
@@ -265,33 +262,8 @@ if (!doNotTrack) {
 </ul>
 </li>
 </ul>
-<h5 id="行列のtotal-positivity一般">行列のTotal Positivity一般</h5>
+<h4 id="コピュラと相互情報量">コピュラと相互情報量</h4>
 <ul>
-<li><a href="https://arxiv.org/pdf/1601.05645.pdf">Total positivity of recursive matrices</a></li>
-<li><a href="https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=3357&amp;context=etd">The logarithmic method and the solution to the TP2-completion problem</a></li>
-<li><a href="https://reader.elsevier.com/reader/sd/pii/0024379576900768?token=84BA6EE2C3FA46FD3D07418AB4C032CC21FDBF005A0D4E4B7E9792913BB69541FE9ECEB5C20CBE243C436609CB2E71DE&amp;originRegion=us-east-1&amp;originCreation=20221128121736">Some properties of TP matrices</a>
-<ul>
-<li>TP行列はTPとTPへのLU分解可能.</li>
-</ul>
-</li>
-<li><a href="https://www.cs.bgu.ac.il/~shakhar/my_papers/TP.pdf">On totally positive matrices and geometric incidences</a>
-<ul>
-<li>repeated 2 × 2 minors in a special class of n × n TP-matrices</li>
-</ul>
-</li>
-</ul>
-<h4 id="コピュラと順位相関と相互情報量">コピュラと順位相関と相互情報量</h4>
-<ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0022247X18310035">On the size of the class of bivariate extreme-value copulas with a fixed value of Spearman&rsquo;s rho or Kendall&rsquo;s tau</a>
-<ul>
-<li>pickand functionが取れる形の広さを評価.</li>
-</ul>
-</li>
-<li><a href="https://arxiv.org/pdf/1502.04620.pdf">On the exact region determined by Kendall’s tau and Spearman’s rho</a>
-<ul>
-<li>従来知られていたtau vs rhoの可動域をstrictに評価.</li>
-</ul>
-</li>
 <li><a href="https://arxiv.org/pdf/cond-mat/0305641.pdf">Estimating Mutual Information</a>
 <ul>
 <li>相互情報量推定の一般的な話.</li>
@@ -412,6 +384,7 @@ if (!doNotTrack) {
 </ul>
 <h3 id="その他">その他</h3>
 <ul>
+<li><a href="https://www.risk.net">RISK.net</a></li>
 <li><a href="https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol37-no1/">金融情報学ブックマーク（和泉先生）</a></li>
 <li><a href="https://engineer-lab.findy-code.io/jobs-in-statistics">データサイエンスの魅力</a></li>
 <li><a href="https://exploratory.io/note/kanaugust/2200910721280297">結局、統計学と機械学習は何が違うのか？</a></li>

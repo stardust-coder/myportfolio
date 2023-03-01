@@ -10,23 +10,34 @@ title = "Bookmark"
     - ノンパラ推定のminimaxレート導出
 * [column generation](https://arxiv.org/pdf/2103.12624.pdf)
     - 列生成の
-* Copula-Based Markov Models for Time Series: Parametric Inference and Process Control
 
-### コピュラ統計学
+### コピュラ統計学の概要
+モチベーション：各変量の1次元周辺分布については詳しいが, 依存関係はモデリングしたい.  
+新しいコピュラの提案  
+コピュラの推定（パラメトリック、セミパラ、ノンパラ）  
+コピュラをベースにしたその他統計手法の開発  
+コピュラを用いたデータ分析 
+
 #### コピュラ一般
-* [基本的な内容(IBIS 2009より)](https://ibisml.org/ibis2009/pdf-invited/yoshiba1.pdf)
+* [吉羽先生(IBIS 2009)](https://ibisml.org/ibis2009/pdf-invited/yoshiba1.pdf)
 * [塚原先生](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_101/_pdf)
-    - おすすめ.
 * [Bivariate distributions with ordered marginals](https://www.sciencedirect.com/science/article/pii/S0047259X19300831)
+
+#### コピュラクラスを拡張する研究
 * [Copulae on products of compact Riemannian manifolds](https://www.sciencedirect.com/science/article/pii/S0047259X15001128)
+
+
+#### 推定
 * [Parametric copula adjusted for non- and semiparametric regression](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-2/Parametric-copula-adjusted-for-non--and-semiparametric-regression/10.1214/21-AOS2126.short), The Annals of Statistics(2022)
+
+#### 従属性・裾従属性
 * [Measuring dependence in the Wasserstein distance for Bayesian nonparametric models](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Measuring-dependence-in-the-Wasserstein-distance-for-Bayesian-nonparametric-models/10.1214/21-AOS2065.short), The Annals of Statistics(2021)
 * Vine copula approximation: a generic method for coping with conditional dependence, Stat Comput (2018) 28:219–237
-
+    - ヴァイン
+* [On the exact region determined by Kendall’s tau and Spearman’s rho](https://arxiv.org/pdf/1502.04620.pdf)
+    - 従来知られていたtau vs rhoの可動域をstrictに評価.
 
 #### コピュラの幾何学
-* [Permutation inference とbirkhoff polytope]()
-    - バーコフ多面体 = チェス盤コピュラ全体
 * [Geometry of Discrete Copula, Perrone 2019](https://arxiv.org/abs/1802.06969)
     - ウルトラモジュラコピュラ
 
@@ -40,15 +51,17 @@ title = "Bookmark"
 * [Kamnitui et al.](https://www.sciencedirect.com/science/article/pii/S0022247X18310035)
     - 緩和extreme copulaのうちτを固定した下で選べる範囲の解析 
 * On weak conditional convergence of bivariate Archimedean and Extreme Value copulas, and consequences to nonparametric estimation, Bernoulli(2021)
+    - 弱収束を定義.
+* [On the size of the class of bivariate extreme-value copulas with a fixed value of Spearman's rho or Kendall's tau](https://www.sciencedirect.com/science/article/pii/S0022247X18310035)
+    - pickand functionが取れる形の広さを評価.
 
-
-#### コピュラエントロピーに関する研究 
+#### コピュラエントロピー理論
 * [Multivariate Normality Test with Copula Entropy](https://arxiv.org/pdf/2206.05956.pdf) 著者:[Jian Ma](https://scholar.google.com/citations?hl=en&user=gqCD4kwAAAAJ&view_op=list_works&sortby=pubdate)
 * [copent: Estimating Copula Entropy and Transfer Entropy in R](https://arxiv.org/pdf/2005.14025.pdf)
      - copula entropyの推定手法. Transfer entropy. [Github](https://github.com/majianthu/copent)
 * [Causal Domain Adaptation with Copula Entropy based Conditional Independence Test](https://arxiv.org/pdf/2202.13482.pdf)
 * Maximum entropy distribution of order statistics with given marginals, Bernoulli(2018)
-
+* [Stable feature selection using copula based mutual information](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305008) (Pattern Recognition 2021)
 
 #### 最小情報コピュラ関連
 * [Copulas with Maximum Entropy(Piantadosi et al.)](https://carma.edu.au/resources/jon/copulas.pdf)
@@ -65,25 +78,13 @@ title = "Bookmark"
     - まとまっていて理解しやすい
 * Inference for Archimax copulas, The Annals of Statistics(2020)
     - 続編 Inference and sampling for Archimax copulas
-
-#### 応用
-
-* 金融
-    - [ダイナミック非対称$t$コピュラを用いた 新興国国債市場の相互依存構造に関する研究](https://www.jstage.jst.go.jp/article/jafee/17/0/17_45/_pdf)
-    - [確率的依存構造をもつコピュラモデル](https://www.ism.ac.jp/editsec/toukei/pdf/68-1-087.pdf)
-    - [極値での従属性および非対称性と信用ポートフォリオリスク(吉羽先生,2021)](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_157/_pdf/-char/ja)
-* 情報検索
-    - [Eickhoff et al. (ACM SIGIR 2013)](http://www-personal.umich.edu/~kevynct/pubs/sigir2013-eickhoff-copulas.pdf)
-        - 軸の統合は線形結合よりコピュラの方が優秀
-    - [Eickhoff et al. 2015](https://www.researchgate.net/publication/277940908_Modelling_Term_Dependence_with_Copulas)
-        - コピュラを用いた検索モデルが高精度
-    - [Komatsuda et al. 2016](https://db-event.jpn.org/deim2016/papers/124.pdf)
-* 気象データ
-    - Vrac et al. 
-* 処置効果(Treatment effects)
-* Stable feature selection using copula based mutual information (Pattern Recognition 2021)
-* Portfolio optimization for inventory financing: Copula-based approaches, (Computers & Operational Research 2021)
 * COPOD: Copula-Based Outlier Detection, (ICDM 2020)
+
+#### 金融応用
+- [ダイナミック非対称$t$コピュラを用いた 新興国国債市場の相互依存構造に関する研究](https://www.jstage.jst.go.jp/article/jafee/17/0/17_45/_pdf)
+- [確率的依存構造をもつコピュラモデル](https://www.ism.ac.jp/editsec/toukei/pdf/68-1-087.pdf)
+- [極値での従属性および非対称性と信用ポートフォリオリスク(吉羽先生,2021)](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_157/_pdf/-char/ja)
+- Portfolio optimization for inventory financing: Copula-based approaches, (Computers & Operational Research 2021)
 
 #### コピュラとTotal Positivity
 * [TP2 MTP2 提案論文](https://reader.elsevier.com/reader/sd/pii/0047259X80900652?token=90D2635E6FD9DA80EEF977F5C161BAEBA729553C81DB0368B6AB4F405D72F5D9F4F523DDBC111DF55797389E1D759B59&originRegion=us-east-1&originCreation=20220920131057)
@@ -91,19 +92,7 @@ title = "Bookmark"
 * [Total positivity of copulas from a Markov kernel perspective](https://arxiv.org/pdf/2205.01914.pdf)
     - d-TP2 => MK-TP2 => TP2
 
-##### 行列のTotal Positivity一般
-* [Total positivity of recursive matrices](https://arxiv.org/pdf/1601.05645.pdf)
-* [The logarithmic method and the solution to the TP2-completion problem](https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=3357&context=etd)
-* [Some properties of TP matrices](https://reader.elsevier.com/reader/sd/pii/0024379576900768?token=84BA6EE2C3FA46FD3D07418AB4C032CC21FDBF005A0D4E4B7E9792913BB69541FE9ECEB5C20CBE243C436609CB2E71DE&originRegion=us-east-1&originCreation=20221128121736)
-    - TP行列はTPとTPへのLU分解可能.
-* [On totally positive matrices and geometric incidences](https://www.cs.bgu.ac.il/~shakhar/my_papers/TP.pdf)
-    - repeated 2 × 2 minors in a special class of n × n TP-matrices
-
-#### コピュラと順位相関と相互情報量
-- [On the size of the class of bivariate extreme-value copulas with a fixed value of Spearman's rho or Kendall's tau](https://www.sciencedirect.com/science/article/pii/S0022247X18310035)
-    - pickand functionが取れる形の広さを評価.
-- [On the exact region determined by Kendall’s tau and Spearman’s rho](https://arxiv.org/pdf/1502.04620.pdf)
-    - 従来知られていたtau vs rhoの可動域をstrictに評価.
+#### コピュラと相互情報量
 - [Estimating Mutual Information](https://arxiv.org/pdf/cond-mat/0305641.pdf)
     - 相互情報量推定の一般的な話.
 - [上記相互情報量推定に使われたライブラリ](https://github.com/karlstratos/doe)
@@ -177,6 +166,7 @@ title = "Bookmark"
 - [CWTS Journal Indicators](https://www.journalindicators.com/indicators)
 
 ### その他
+- [RISK.net](https://www.risk.net)
 - [金融情報学ブックマーク（和泉先生）](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol37-no1/)
 - [データサイエンスの魅力](https://engineer-lab.findy-code.io/jobs-in-statistics)
 - [結局、統計学と機械学習は何が違うのか？](https://exploratory.io/note/kanaugust/2200910721280297)
