@@ -27,6 +27,7 @@ copula statistics, MCMC, optimization, acoustic sensing, Medical AI
 
 
 #### Awards(personal)
+* Japan Society of Statistics, Student Best Presentation Award.
 * JEES Sofbank AI scholarship
 * Finalist, Fin SUM Business Contest 2021
 * Yahoo Prize, Civictech Challenge Cup 2021 U-22

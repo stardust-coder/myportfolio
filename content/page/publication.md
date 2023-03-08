@@ -20,6 +20,11 @@ title = "Publication"
     - with Lecturer Nishiyama, Prof. Kawahara, etc.
 
 ##### Talks
+* [日本応用数理学会第19回研究部会連合発表会 第8回学生研究発表](https://jsiam.org/union2023), Okayama, Japan, March 2023.
+    - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ
+* [第17回 日本統計学会春季集会](https://jss2023spring.ywstat.jp), Tokyo, Japan,  March 2023.
+    - 学生優秀発表賞受賞 [link](http://www.stat.t.u-tokyo.ac.jp/~sei/)
+    - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ
 * [統計科学の開拓（科研費シンポジウム）](http://stat.w3.kanazawa-u.ac.jp/ksympo22.html), Kanazawa, Japan, Dec. 2022.
     - 科学研究費・基盤研究（A) 「大規模複雑データの理論と方法論の革新的展開」 （研究代表者：青嶋 誠（筑波大学）, 課題番号：20H00576）
     - Title: Kendallの順位相関係数を固定した下での最小情報コピュラ [Abstract](http://stat.w3.kanazawa-u.ac.jp/sympo22/sukeda_y.pdf)
