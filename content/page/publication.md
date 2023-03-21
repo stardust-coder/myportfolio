@@ -20,7 +20,7 @@ title = "Publication"
     - with Lecturer Nishiyama, Prof. Kawahara, etc.
 
 ##### Talks
-* [日本応用数理学会第19回研究部会連合発表会 第8回学生研究発表](https://jsiam.org/union2023), Okayama, Japan, March 2023.
+* [日本応用数理学会第19回研究部会連合発表会 第8回学生研究発表](http://wakate.jsiam.org/?p=128), Okayama, Japan, March 2023.
     - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ
 * [第17回 日本統計学会春季集会](https://jss2023spring.ywstat.jp), Tokyo, Japan,  March 2023.
     - 学生優秀発表賞受賞 [link](http://www.stat.t.u-tokyo.ac.jp/~sei/)

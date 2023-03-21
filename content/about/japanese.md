@@ -37,7 +37,8 @@ title = "About me"
 * その他、東大エクステンション TA, 東京大学データサイエンスコモンズ TA
 
 ##### 受賞
-* 日本統計学会 学生優秀発表賞（第17回春季集会）
+* 統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会）
+* 日本統計学会 ポスターセッション審査委員会 学生優秀発表賞（第17回日本統計学会春季集会）
 * ソフトバンクAI人材育成スカラーシップ
 * 3位, 松尾研究所内部AIコンペティション
 * ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
@@ -80,7 +81,12 @@ title = "About me"
 * 文化祭2015 中夜祭 [YouTube](https://www.youtube.com/watch?v=BbQ4kZXcXEQ)
 * U-23サミット2020 学生登壇
 * 東大新聞「学生生活紹介」 [link](https://www.todaishimbun.org/koukigakuseiseikatsu20210619/)
-* マスフェスタ（高校）[link](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
+
+##### Misc.
+* 科学の甲子園 [link](https://www.gakko.otsuka.tsukuba.ac.jp/wp/wp-content/uploads/2017/02/ff28f9fc78e86512869a2242bff5376c.pdf)
+* アジアサイエンスキャンプ [link](https://www.jst.go.jp/cpse/risushien/asc/pdf/report_asc2017.pdf)
+* 化学グランプリ [link1](http://gp.csj.jp/results/gp2016.html) [link2](https://www.gakko.otsuka.tsukuba.ac.jp/wp/wp-content/uploads/2015/04/2c39a0e414cf58ff3186e3c67899feb7.pdf)
+* マスフェスタ[link](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
 
 
 [1]: /img/me.png
