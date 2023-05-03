@@ -20,15 +20,22 @@ title = "Publication"
     - with Lecturer Nishiyama, Prof. Kawahara, etc.
 
 ##### Talks
+* [ISI World Statistics Congress 2023](https://www.isi2023.org/conferences/session/543/details/), Ottawa, Canada, July 2023.
+    - Contributed Paper Session
+    - Title: Minimum information copula under fixed Kendall’s rank correlation [Abstract](https://www.isi2023.org/printing/abstracts/submission/737/details/)
+* [２０２３年度人工知能学会全国大会（第３７回）](https://confit.atlas.jp/guide/event/jsai2023/session/1N01-05/detail?lang=ja), Kumamoto, Japan, June 2023.
+    - 一般セッション
+    - Title: 周波数領域での最適輸送による心電図データ拡張
 * [日本応用数理学会第19回研究部会連合発表会 第8回学生研究発表](http://wakate.jsiam.org/?p=128), Okayama, Japan, March 2023.
     - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ
 * [第17回 日本統計学会春季集会](https://jss2023spring.ywstat.jp), Tokyo, Japan,  March 2023.
-    - 学生優秀発表賞受賞 [link](http://www.stat.t.u-tokyo.ac.jp/~sei/)
+    - 学生優秀発表賞受賞 [会報](https://www.jss.gr.jp/wp-content/uploads/K195.pdf) [報告書](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
     - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ
 * [統計科学の開拓（科研費シンポジウム）](http://stat.w3.kanazawa-u.ac.jp/ksympo22.html), Kanazawa, Japan, Dec. 2022.
-    - 科学研究費・基盤研究（A) 「大規模複雑データの理論と方法論の革新的展開」 （研究代表者：青嶋 誠（筑波大学）, 課題番号：20H00576）
-    - Title: Kendallの順位相関係数を固定した下での最小情報コピュラ [Abstract](http://stat.w3.kanazawa-u.ac.jp/sympo22/sukeda_y.pdf)
+    - 科学研究費・基盤研究（A） 「大規模複雑データの理論と方法論の革新的展開」 （研究代表者：青嶋 誠（筑波大学）, 課題番号：20H00576）[報告書](https://www.math.tsukuba.ac.jp/~aoshima-lab/jp/report_kanazawa22.pdf)
+    - Title: Kendallの順位相関係数を固定した下での最小情報コピュラ [Abstract](http://stat.w3.kanazawa-u.ac.jp/sympo22/sukeda_y.pdf) 
 * [ACM SenSys2022](http://sensys.acm.org/2022/), Boston, MA, USA, Nov. 2022.
+    - Poster Session
     - Title: Recursive Queueing Estimation Using Smartphone-based Acoustic Ranging
 * [International Workshop on Continuous Optimization](http://www.opt.c.titech.ac.jp/DecemberWorkshop/#speakers), online.
     - Title: A study on modularity density maximization: Column generation acceleration and computational complexity analysis [arXiv](https://arxiv.org/abs/2206.10901)
