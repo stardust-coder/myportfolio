@@ -22,7 +22,7 @@ title = "Publication"
 ##### Talks
 * [ISI World Statistics Congress 2023](https://www.isi2023.org/conferences/session/543/details/), Ottawa, Canada, July 2023.
     - Contributed Paper Session
-    - Title: Minimum information copula under fixed Kendall’s rank correlation [Abstract](https://www.isi2023.org/printing/abstracts/submission/737/details/)
+    - Title: Minimum information copula under fixed Kendall’s rank correlation [Abstract](https://www.isi2023.org/media/abstracts/ottawa-2023_dda16125a1b0f0819b3a2b3531b4a631.pdf)
 * [２０２３年度人工知能学会全国大会（第３７回）](https://confit.atlas.jp/guide/event/jsai2023/session/1N01-05/detail?lang=ja), Kumamoto, Japan, June 2023.
     - 一般セッション
     - Title: 周波数領域での最適輸送による心電図データ拡張

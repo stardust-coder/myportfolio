@@ -19,14 +19,14 @@ title = "About me"
 
 
 ##### 経歴
-* 2022~ **東京大学医学部附属病院** 
-    - 学術専門職員
 * 2022~ **株式会社松尾研究所**
     - チーフAIエンジニア
     - 金融チーム・PoC/プリセールスチーム
+* 2022~ **東京大学医学部附属病院** 
+    - 学術専門職員
 * 2022 **Preferred Networks**
     - 研究インターンシップ
-* 2021~ **東京大学EEIC川原研究室** 
+* 2021~ **東京大学工学系研究科EEIC川原研究室** 
     - リサーチアシスタント
 * 2021~2022 **ソニーコンピュータサイエンス研究所** 
     - リサーチアシスタント
@@ -61,6 +61,8 @@ title = "About me"
     - 運営幹部・広報担当
 * [kehai 〜「気配」を起点にしたコミュニケーション〜](https://shibuya-qws.com/project/kehai)
     - SHIBUYA QWS 4期生&5期生 
+* 学園祭での有志展示団体「バルーンアートの森」[第１弾](https://gogatsusai.jp/95/visitor/campus/kikaku/398) [第２弾](https://www.komabasai.net/73/visitor/project/427) [第３弾](https://gogatsusai.jp/96/visitor/kikaku/560/)
+    - 第１回正責任者
 
 ##### 修了プログラム
 * [松尾研究所起業クエスト](https://weblab.t.u-tokyo.ac.jp/kigyoquest/) 参加生
@@ -71,10 +73,12 @@ title = "About me"
 
 
 
-##### 出演・掲載
+##### 出演・掲載など
 * Malabaristas 27th 卒業記念動画 [YouTube](https://www.youtube.com/watch?v=dTdfhJqUMZ4)
 * 五月祭2021 [YouTube](https://www.youtube.com/watch?v=u07cxDtxN-o)
 * 駒場祭2020 Malabari Express 999 [YouTube](https://www.youtube.com/watch?v=d9ymiS7msO0)
+* 駒場祭2019 フィナーレ
+* 五月祭2019 フィナーレ [YouTube](https://www.youtube.com/watch?v=wtmxxMY3ju8)
 * 文化祭2016 [YouTube](https://www.youtube.com/watch?v=moXHALZKg6w)
 * 文化祭2015 中夜祭 [YouTube](https://www.youtube.com/watch?v=BbQ4kZXcXEQ)
 * U-23サミット2020 学生登壇
