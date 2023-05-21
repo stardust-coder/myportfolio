@@ -6,20 +6,44 @@ title = "Publication"
 [✔︎ Google Scholar](https://scholar.google.co.jp/citations?user=Dc_v0BsAAAAJ&hl=ja&oi=ao)
 
 ##### International Journal Articles (Reviewed)
-* [**(First)**]() A study on modularity density maximization: Column generation acceleration and computational complexity analysis, European Journal of Operational Research. [✔︎paper](https://www.sciencedirect.com/science/article/pii/S037722172300111X) [✔︎arXiv](https://arxiv.org/abs/2206.10901)
-    - with Asst. Miyauchi and Prof. Takeda.
-* Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features, PLoSONE.  [✔︎paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276928)
-    - with Mr. Sawano, Lect. Kodera, etc.
+<br />
+
+* Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:  
+<u>**A study on modularity density maximization: Column generation acceleration and computational complexity analysis**</u> 
+    - European Journal of Operational Research 309, pp. 516–528, 2023. [✔︎paper](https://www.sciencedirect.com/science/article/pii/S037722172300111X) [✔︎arXiv](https://arxiv.org/abs/2206.10901)
+
+<br />
+
+* Shinnosuke Sawano, Satoshi Kodera, Masataka Sato, Susumu Katsushika, Issei Sukeda, ... , Issei Komuro:  
+<u>**Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features**</u>
+    - Plos one 17(10), e0276928, 2022. [✔︎paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276928)
+
 
 ##### International Conference Proceedings (Reviewed)
-* [**(First)**]() Recursive Queueing Estimation Using Smartphone-based Acoustic Ranging, Proc. of ACM SenSys 2022, SenSys '22: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems.[✔︎abstract](https://dl.acm.org/doi/10.1145/3560905.3568097) [✔︎conference](http://sensys.acm.org/2022/)
-    - with Mr. Murakami, Lect. Nishiyama, and Prof. Kawahara.
-* Masked Autoencoder-Based Self-Supervised Learning for Electrocardiograms to Detect Left Ventricular Systolic Dysfunction, NeurIPS Workshop 2022.  [✔︎poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60064.png?t=1669681561.7912426) [✔︎openreview](https://openreview.net/forum?id=gz7c2HIcub7) [✔︎conference](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=50017#wse-detail-60064)
-    - with Mr. Sawano, Lect. Kodera, etc.
-* MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19, MobiHoc'22. [✔︎paper](https://dl.acm.org/doi/proceedings/10.1145/3492866)
-    - with Lecturer Nishiyama, Prof. Kawahara, etc.
+<br />
+
+* Issey Sukeda, Hiroaki Murakami, Yuki Nishiyama, and Yoshihiro Kawahara:   
+<u>**Recursive Queueing Estimation Using Smartphone-based Acoustic Ranging**</u>  
+    - Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems, 2022. [✔︎paper](https://dl.acm.org/doi/10.1145/3560905.3568097) [✔︎conference](http://sensys.acm.org/2022/)
+    - SenSys'22
+
+<br />
+
+* Shinnosuke Sawano, Satoshi Kodera, Hirotoshi Takeuchi, Issei Sukeda, Susumu Katsushika, and Issei Komuro :  
+<u>**Masked Autoencoder-Based Self-Supervised Learning for Electrocardiograms to Detect Left Ventricular Systolic Dysfunction**</u>
+    -  NeurIPS 2022 Workshop on Learning from Time Series for Health. [✔︎poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60064.png?t=1669681561.7912426) [✔︎openreview](https://openreview.net/forum?id=gz7c2HIcub7) [✔︎conference](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=50017#wse-detail-60064)
+
+<br />
+
+* Yuuki Nishiyama, Hiroaki Murakami, Ryoto Suzuki, Kazusato Oko, Issey Sukeda, Kaoru Sezaki, and Yoshihiro Kawahara:    
+<u>**MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19**</u>
+    -  Proceedings of the Twenty-Third International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 253-258, 2022. [✔︎paper](https://dl.acm.org/doi/proceedings/10.1145/3492866)
+    - MobiHoc'22
+    
 
 ##### Talks
+<br />
+
 * [ISI World Statistics Congress 2023](https://www.isi2023.org/conferences/session/543/details/), Ottawa, Canada, July 2023.
     - Contributed Paper Session
     - Title: Minimum information copula under fixed Kendall’s rank correlation [Abstract](https://www.isi2023.org/media/abstracts/ottawa-2023_dda16125a1b0f0819b3a2b3531b4a631.pdf)
@@ -44,6 +68,8 @@ title = "Publication"
 * [最適化手法とアルゴリズム ─未来を担う若手研究者の集い 2022─](http://trout.math.cst.nihon-u.ac.jp/~ito.m/soma/wakate22.html) 
 
 ##### Misc.
+<br />
+
 * [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)
     - Title: 数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習
 * [App 東大生と考えるフェルミ推定]()
