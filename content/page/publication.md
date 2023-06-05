@@ -39,7 +39,14 @@ title = "Publication"
 <u>**MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19**</u>
     -  Proceedings of the Twenty-Third International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 253-258, 2022. [✔︎paper](https://dl.acm.org/doi/proceedings/10.1145/3492866)
     - MobiHoc'22
-    
+
+##### Preprints
+
+* Issey Sukeda, Tomonari Sei:
+<u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
+    - [✔︎arxiv](https://arxiv.org/abs/2306.01604)
+
+
 
 ##### Talks
 <br />
