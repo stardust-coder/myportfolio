@@ -42,7 +42,7 @@ title = "Publication"
 
 ##### Preprints
 
-* Issey Sukeda, Tomonari Sei:
+* Issey Sukeda, Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
     - [✔︎arxiv](https://arxiv.org/abs/2306.01604)
 
@@ -54,6 +54,9 @@ title = "Publication"
 * [ISI World Statistics Congress 2023](https://www.isi2023.org/conferences/session/543/details/), Ottawa, Canada, July 2023.
     - Contributed Paper Session
     - Title: Minimum information copula under fixed Kendall’s rank correlation [Abstract](https://www.isi2023.org/media/abstracts/ottawa-2023_dda16125a1b0f0819b3a2b3531b4a631.pdf)
+* [日本品質学会第118回テクノメトリックス研究会](), Tokyo, Japan, June 2023.
+    - オンラインで発表.
+    - Title: 周波数領域での最適輸送による心電図データ拡張
 * [２０２３年度人工知能学会全国大会（第３７回）](https://confit.atlas.jp/guide/event/jsai2023/session/1N01-05/detail?lang=ja), Kumamoto, Japan, June 2023.
     - 一般セッション
     - Title: 周波数領域での最適輸送による心電図データ拡張
@@ -74,10 +77,17 @@ title = "Publication"
     - Title: モジュラリティ密度最大化に対する高速な列生成法の設計と計算困難性の解析 [Abstract](https://orsj.org/wp-content/nc-abstract/nc2022f/2022f-1-A-2.pdf)
 * [最適化手法とアルゴリズム ─未来を担う若手研究者の集い 2022─](http://trout.math.cst.nihon-u.ac.jp/~ito.m/soma/wakate22.html) 
 
-##### Misc.
+##### Others.
 <br />
 
 * [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)
     - Title: 数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習
 * [App 東大生と考えるフェルミ推定]()
     - released on Apple Store, currently closed.
+
+* 輪講発表
+    - 2023.7.11 統計輪講 最小情報コピュラとしてのFrankコピュラ 
+    - 2023.5.26 数理輪講 On the Archimedean Copulas and Minimum Information Copula
+    - 2023.5.15 研究室輪講 On the Archimedean Copulas and Minimum Information Copula
+    - 2022. 統計輪講
+
