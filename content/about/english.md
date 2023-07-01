@@ -3,32 +3,39 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-I am a co-founder of [EQUES Inc.](https://www.eques.co.jp) .
+I am a co-founde / CTO of [EQUES Inc.](https://www.eques.co.jp) .
 I love juggling and balloon art !
 
-[link to CV (preparing)]()
+[link to resume (coming soon...)]()
 
+
+#### News
+* Jun. 2023 Our new [preprint](https://arxiv.org/abs/2306.01604) available.
+* Feb. 2023 Got promoted to a Chief AI Engineer at Matsuo Institute !
+* Nov. 2022 Presented in ACM SenSys 2022 ! 
+* Feb. 2022 Founded EQUES Inc., an AI startup ! 
 
 ![This is me][1]
 
-#### News
-* Feb 2023. Got promoted to a Chief AI Engineer at Matsuo Institute !
-* Nov 2022. Participated ACM SenSys 2022 ! 
-* Feb 2022. Founded EQUES Inc., an AI startup ! 
-
 #### Research Interests
-copula statistics, MCMC, optimization, acoustic sensing, Medical AI
 
-- UTokyo Hospital, AI Researcher
-- Matsuo Institute, Project Manager (heading)
-- UTokyo Kawahara Lab., Research Assistant
-- Preferred Networks Inc., Internship
-- Sony Computer Science Lab., Research Internship
+My interest covers statistics (especially copula modeling) and operational research. Recently, also interested in acoustic sensing an medical AI.
+
+
+#### Careers
+
+- AI Researcher at UTokyo Hospital.
+- Project Manager at Matsuo Institute Inc.
+- Research Assistant at UTokyo EEIC Kawahara Lab.
+- Reseathc Internship at Preferred Networks Inc.
+- Research Internship at Sony Computer Science Lab.(Tokyo).
 
 
 #### Awards(personal)
-* Japan Society of Statistics, Student Best Presentation Award.
-* JEES Sofbank AI scholarship
+
+* Japan Society of Statistics, 第3回ISI東京大会記念奨励賞, nominated (2023)
+* Japan Society of Statistics, Student Best Presentation Award (2023)
+* JEES Sofbank AI scholarship(2022)
 * Finalist, Fin SUM Business Contest 2021
 * Yahoo Prize, Civictech Challenge Cup 2021 U-22
 * First place, AI/SUM Business Contest 2020
@@ -37,7 +44,7 @@ copula statistics, MCMC, optimization, acoustic sensing, Medical AI
 * Third place, All Japan Diabolo Competition
 
 
-#### Activities
+#### Other Activities
 * [UTokyo MOCHA](https://mocha.t.u-tokyo.ac.jp) project
 * Naminige project @Code for Japan
     - a digital hazardmap

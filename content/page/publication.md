@@ -85,9 +85,4 @@ title = "Publication"
 * [App 東大生と考えるフェルミ推定]()
     - released on Apple Store, currently closed.
 
-* 輪講発表
-    - 2023.7.11 統計輪講 最小情報コピュラとしてのFrankコピュラ 
-    - 2023.5.26 数理輪講 On the Archimedean Copulas and Minimum Information Copula
-    - 2023.5.15 研究室輪講 On the Archimedean Copulas and Minimum Information Copula
-    - 2022. 統計輪講
 
