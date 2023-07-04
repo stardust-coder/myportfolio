@@ -51,6 +51,9 @@ title = "Publication"
 ##### Talks
 <br />
 
+* [2023年度 統計関連学会連合大会](https://confit.atlas.jp/guide/event/jfssa2023/top), Kyoto, Japan, September 2023.
+    - セッション：[一般講演 多変量解析(3)](https://confit.atlas.jp/guide/event/jfssa2023/session/4E13-17/tables?ZrzOORZGUO)
+    - Title: 最小情報コピュラとしてのFrankコピュラ [Abstract]()
 * [ISI World Statistics Congress 2023](https://www.isi2023.org/conferences/session/543/details/), Ottawa, Canada, July 2023.
     - Contributed Paper Session
     - Title: Minimum information copula under fixed Kendall’s rank correlation [Abstract](https://www.isi2023.org/media/abstracts/ottawa-2023_dda16125a1b0f0819b3a2b3531b4a631.pdf)
