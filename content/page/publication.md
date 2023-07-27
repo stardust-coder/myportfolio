@@ -54,7 +54,10 @@ title = "Publication"
 * [2023年度 統計関連学会連合大会](https://confit.atlas.jp/guide/event/jfssa2023/top), Kyoto, Japan, September 2023.
     - セッション：[一般講演 多変量解析(3)](https://confit.atlas.jp/guide/event/jfssa2023/session/4E13-17/tables?ZrzOORZGUO)
     - Title: 最小情報コピュラとしてのFrankコピュラ [Abstract]()
-* [ISI World Statistics Congress 2023](https://www.isi2023.org/conferences/session/543/details/), Ottawa, Canada, July 2023.
+* [内部セミナー](), Tokyo, Japan, August 2023.
+    - with Dr. James Ng
+    - Title: Minimum information copula under fixed Kendall’s rank correlation
+* [64th ISI World Statistics Congress 2023](https://www.isi2023.org/conferences/session/543/details/), Ottawa, Canada, July 2023.
     - Contributed Paper Session
     - Title: Minimum information copula under fixed Kendall’s rank correlation [Abstract](https://www.isi2023.org/media/abstracts/ottawa-2023_dda16125a1b0f0819b3a2b3531b4a631.pdf)
 * [日本品質学会第118回テクノメトリックス研究会](), Tokyo, Japan, June 2023.
@@ -62,7 +65,7 @@ title = "Publication"
     - Title: 周波数領域での最適輸送による心電図データ拡張
 * [２０２３年度人工知能学会全国大会（第３７回）](https://confit.atlas.jp/guide/event/jsai2023/session/1N01-05/detail?lang=ja), Kumamoto, Japan, June 2023.
     - 一般セッション
-    - Title: 周波数領域での最適輸送による心電図データ拡張
+    - Title: 周波数領域での最適輸送による心電図データ拡張 [paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1N3GS1004/_pdf)
 * [日本応用数理学会第19回研究部会連合発表会 第8回学生研究発表](http://wakate.jsiam.org/?p=128), Okayama, Japan, March 2023.
     - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ
 * [第17回 日本統計学会春季集会](https://jss2023spring.ywstat.jp), Tokyo, Japan,  March 2023.

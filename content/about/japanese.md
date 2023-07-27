@@ -28,11 +28,11 @@ title = "About me"
     - 学術専門職員
 * 2022 **Preferred Networks**
     - 研究インターンシップ
-* 2021~ **東京大学工学系研究科EEIC川原研究室** 
+* 2021~ **東京大学工学系研究科EEIC川原研究室**
     - リサーチアシスタント
 * 2021~2022 **ソニーコンピュータサイエンス研究所** 
     - リサーチアシスタント
-* 2019 [**東京大学 森田研究室**](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html) 
+* 2019 **東京大学 森田研究室**
     - UTSIP(UTokyo Summer Internship Program)生
 * その他、東大エクステンション TA, 東京大学データサイエンスコモンズ TA
 
@@ -73,8 +73,6 @@ title = "About me"
 * [東大GLP-GEfIL](https://www.glp.u-tokyo.ac.jp) 修了生
 * [東大トライリンガルプログラム](http://www.cgcs.c.u-tokyo.ac.jp/tlp/) 前期課程修了生
 
-
-
 ##### 出演動画・掲載など
 * 五月祭2023 [YouTube](https://m.youtube.com/watch?v=VMTi41X5jqM&pp=ygUNVFMgcmV2b2x1dGlvbg%3D%3D)
 * Malabaristas 27th 卒業記念動画 [YouTube](https://www.youtube.com/watch?v=dTdfhJqUMZ4)
@@ -92,6 +90,15 @@ title = "About me"
 * 化学グランプリ [link1](http://gp.csj.jp/results/gp2016.html) [link2](https://www.gakko.otsuka.tsukuba.ac.jp/wp/wp-content/uploads/2015/04/2c39a0e414cf58ff3186e3c67899feb7.pdf)
 * マスフェスタ[link](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
 
+##### リンク
+[東京大学 計数数理５研](https://www.or.mist.i.u-tokyo.ac.jp)  
+[東京大学 計数数理４研](http://www.stat.t.u-tokyo.ac.jp/index-j.html)    
+[東京大学 数理データ科学研究室](https://www.keisu.t.u-tokyo.ac.jp/lab/mist/data_lab_page/)    
+[東京大学 森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html)   
+[東京大学 川原研究室](https://www.akg.t.u-tokyo.ac.jp)   
+[東大病院 循環器内科 AIグループ](https://cardiovasc.m.u-tokyo.ac.jp/study/ai)    
+[Preferred Networks](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)  
+[株式会社 松尾研究所](https://matsuo-institute.com)  
 
 [1]: /img/me.png
 
