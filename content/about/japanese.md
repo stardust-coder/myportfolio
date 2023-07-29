@@ -10,6 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
+* 2023年7月 世界最大級の統計の国際会議**ISIWSC**にて研究発表を行いました.
 * 2023年6月 [プレプリント](https://arxiv.org/abs/2306.01604)を公開しました.
 * 2023年3月 日本統計学会春季集会にて研究発表を行い, 学生優秀発表賞を受賞しました！
 * 2023年1月 [主著論文](https://www.sciencedirect.com/science/article/pii/S037722172300111X)がEuropean Journal of Operational Researchにacceptされました！
@@ -17,22 +18,22 @@ title = "About me"
 
 ##### 研究内容
 コピュラ統計学と数理最適化に興味を持っています.   
-最近はLLMとを音響センシングを少し。
+最近はLLMと音響センシングもやっています.  
 
 ##### 経歴
-* 2022~ **株式会社松尾研究所**
+* **株式会社松尾研究所**
     - プロジェクトマネジャー
     - チーフAIエンジニア
     - 金融チーム・PoC/プリセールスチーム
-* 2022~ **東京大学医学部附属病院** 
+* **東京大学医学部附属病院** 
     - 学術専門職員
-* 2022 **Preferred Networks**
+* **Preferred Networks**
     - 研究インターンシップ
-* 2021~ **東京大学工学系研究科EEIC川原研究室**
+* **東京大学工学系研究科EEIC川原研究室**
     - リサーチアシスタント
-* 2021~2022 **ソニーコンピュータサイエンス研究所** 
+* **ソニーコンピュータサイエンス研究所** 
     - リサーチアシスタント
-* 2019 **東京大学 森田研究室**
+* **東京大学 森田研究室**
     - UTSIP(UTokyo Summer Internship Program)生
 * その他、東大エクステンション TA, 東京大学データサイエンスコモンズ TA
 
@@ -44,9 +45,9 @@ title = "About me"
 * ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
 * ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
 * 最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
-* 優秀賞&学生投票賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2019) [link]()
-* 銅賞, 化学グランプリ [link](http://gp.csj.jp/media/common/gp2016results.pdf)
-* 3位, All Japan Diabolo Competition
+* 優秀賞&学生投票賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2020) [link](http://www.mi.u-tokyo.ac.jp/contest2020.html)
+* 銅賞, 化学グランプリ(2016) [link](http://gp.csj.jp/media/common/gp2016results.pdf)
+* 3位, All Japan Diabolo Competition(2015)
 
 
 #### 学生時代の活動
@@ -97,8 +98,10 @@ title = "About me"
 [東京大学 森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html)   
 [東京大学 川原研究室](https://www.akg.t.u-tokyo.ac.jp)   
 [東大病院 循環器内科 AIグループ](https://cardiovasc.m.u-tokyo.ac.jp/study/ai)    
-[Preferred Networks](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)  
 [株式会社 松尾研究所](https://matsuo-institute.com)  
+[Preferred Networks](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)    
+[東京大学エクステンション](https://www.utokyo-ext.co.jp)  
+[東京大学　データサイエンスコモンズ](http://www.mi.u-tokyo.ac.jp/dscommons/index.html)  
 
 [1]: /img/me.png
 
