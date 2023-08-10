@@ -51,10 +51,12 @@ title = "Publication"
 ##### Talks
 <br />
 
+* [接合関数（コピュラ）理論の新展開](https://sites.google.com/view/copulaws2023/), Tokyo, Japan, September 2023.
+    - Title: 「最小情報コピュラとしてのFrankコピュラ」
 * [2023年度 統計関連学会連合大会](https://confit.atlas.jp/guide/event/jfssa2023/top), Kyoto, Japan, September 2023.
     - セッション：[一般講演 多変量解析(3)](https://confit.atlas.jp/guide/event/jfssa2023/session/4E13-17/tables?ZrzOORZGUO)
     - Title: 最小情報コピュラとしてのFrankコピュラ [Abstract]()
-* [内部セミナー](), Tokyo, Japan, August 2023.
+* [研究室内部セミナー](), Tokyo, Japan, August 2023.
     - with Dr. James Ng
     - Title: Minimum information copula under fixed Kendall’s rank correlation
 * [64th ISI World Statistics Congress 2023](https://www.isi2023.org/conferences/session/543/details/), Ottawa, Canada, July 2023.
@@ -85,6 +87,8 @@ title = "Publication"
 
 ##### Others.
 <br />
+
+* [LLama2-70Bの日本語インストラクションチューニングモデル](https://huggingface.co/AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese)
 
 * [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)
     - Title: 数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習

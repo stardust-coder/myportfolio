@@ -16,6 +16,17 @@ title = "Bookmark"
 - [Copulas for finance(Durrleman, Roncalli)](http://www.thierry-roncalli.com/download/copula-survey.pdf)
 
 
+#### コピュラをPythonで扱う
+- [copulas](https://sdv.dev/Copulas/) 最も有名なライブラリ
+- [copulae](https://github.com/DanielBok/copulae) 次に有名なライブラリ
+- [コピュラ入門 Tensorflowによる解説](https://www.tensorflow.org/probability/examples/Gaussian_Copula?hl=ja)
+
+#### 金融データソース
+- [【Python】 経済指標・財務諸表データ取得完全攻略](https://oeconomicus.jp/2021/05/python-economicdata/)
+- 
+
+
+
 ### 学会・雑誌・研究者
 - [日本の統計学者](https://sites.google.com/site/shoutoyonekura/国内の統計学者リスト)
 - [恩師](https://www.u-tokyo.ac.jp/focus/ja/features/voices036.html)
