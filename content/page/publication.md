@@ -41,11 +41,13 @@ title = "Publication"
     - MobiHoc'22
 
 ##### Preprints
+<br />
 
 * Issey Sukeda, Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
     - [✔︎arxiv](https://arxiv.org/abs/2306.01604)
 
+<br />
 
 
 ##### Talks
