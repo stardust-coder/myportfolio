@@ -40,6 +40,8 @@ title = "Publication"
     -  Proceedings of the Twenty-Third International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 253-258, 2022. [✔︎paper](https://dl.acm.org/doi/proceedings/10.1145/3492866)
     - MobiHoc'22
 
+<br />
+
 ##### Preprints
 <br />
 
@@ -87,11 +89,12 @@ title = "Publication"
     - Title: モジュラリティ密度最大化に対する高速な列生成法の設計と計算困難性の解析 [Abstract](https://orsj.org/wp-content/nc-abstract/nc2022f/2022f-1-A-2.pdf)
 * [最適化手法とアルゴリズム ─未来を担う若手研究者の集い 2022─](http://trout.math.cst.nihon-u.ac.jp/~ito.m/soma/wakate22.html) 
 
+<br />
+
 ##### Others.
 <br />
 
 * [LLama2-70Bの日本語インストラクションチューニングモデル](https://huggingface.co/AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese)
-
 * [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)
     - Title: 数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習
 * [App 東大生と考えるフェルミ推定]()
