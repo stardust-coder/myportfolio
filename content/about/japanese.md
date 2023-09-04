@@ -10,8 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
-* 2023年7月 世界最大級の統計の国際会議**ISIWSC**にて研究発表を行いました.
-* 2023年6月 [プレプリント](https://arxiv.org/abs/2306.01604)を公開しました.
+* 2023年9月 ISI東京大会記念奨励賞を受賞しました！
 * 2023年3月 日本統計学会春季集会にて研究発表を行い, 学生優秀発表賞を受賞しました！
 * 2023年1月 [主著論文](https://www.sciencedirect.com/science/article/pii/S037722172300111X)がEuropean Journal of Operational Researchにacceptされました！
 * 2022年2月 学部同期と, [株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
