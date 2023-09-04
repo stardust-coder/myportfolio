@@ -37,10 +37,11 @@ title = "About me"
 * その他、東大エクステンション TA, 東京大学データサイエンスコモンズ TA
 
 ##### 受賞
-* 統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会）
-* 日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会） [link](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
-* ソフトバンクAI人材育成スカラーシップ
-* 3位, 松尾研究所内部AIコンペティション
+* ISI東京大会記念奨励賞(2023)
+* 統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
+* 日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） [link](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
+* ソフトバンクAI人材育成スカラーシップ(2022)
+* 3位, 松尾研究所内部AIコンペティション(2022)
 * ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
 * ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
 * 最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
