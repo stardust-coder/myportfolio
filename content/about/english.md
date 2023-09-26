@@ -10,9 +10,9 @@ I love juggling and balloon art !
 
 
 #### News
+* Jul. 2023 Talked in ISIWSC 2023 ! Awarded 3rd ISI Tokyo Memorial Award !
 * Jun. 2023 Our new [preprint](https://arxiv.org/abs/2306.01604) available.
-* Feb. 2023 Got promoted to a Chief AI Engineer at Matsuo Institute !
-* Nov. 2022 Presented in ACM SenSys 2022 ! 
+* Nov. 2022 Accepted in ACM SenSys 2022 ! 
 * Feb. 2022 Founded EQUES Inc., an AI startup ! 
 
 ![This is me][1]
@@ -24,16 +24,17 @@ My interest covers statistics (especially copula modeling) and operational resea
 
 #### Careers
 
+- Part-time researcher at RIKEN Center of Brain Science.
 - AI Researcher at UTokyo Hospital.
-- Project Manager at Matsuo Institute Inc.
+- Chief AI Engineer & Project Manager at Matsuo Institute Inc.
 - Research Assistant at UTokyo EEIC Kawahara Lab.
-- Reseathc Internship at Preferred Networks Inc.
-- Research Internship at Sony Computer Science Lab.(Tokyo).
+- Summer Research Internship at Preferred Networks Inc.
+- Research Internship at Sony Computer Science Lab. Tokyo.
 
 
 #### Awards(personal)
 
-* Japan Society of Statistics, 第3回ISI東京大会記念奨励賞, nominated (2023)
+* 3rd ISI Tokyo Memorial Award (2023)
 * Japan Society of Statistics, Student Best Presentation Award (2023)
 * JEES Sofbank AI scholarship(2022)
 * Finalist, Fin SUM Business Contest 2021
