@@ -10,6 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
+* 2023年10月 [プレプリント](https://arxiv.org/abs/2310.10083)を公開しました.
 * 2023年9月 **ISI東京大会記念奨励賞**を受賞しました！
 * 2023年3月 日本統計学会春季集会にて研究発表を行い, **学生優秀発表賞**を受賞しました！
 * 2023年1月 [主著論文](https://www.sciencedirect.com/science/article/pii/S037722172300111X)が**European Journal of Operational Research**にacceptされました！
