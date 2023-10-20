@@ -5,6 +5,8 @@ title = "Publication"
 
 [✔︎ Google Scholar](https://scholar.google.co.jp/citations?user=Dc_v0BsAAAAJ&hl=ja&oi=ao)
 
+[✔︎ arXiv](https://arxiv.org/search/?query=Issey+Sukeda&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
+
 ##### International Journal Articles (Reviewed)
 <br />
 
@@ -44,6 +46,11 @@ title = "Publication"
 
 ##### Preprints
 <br />
+
+* Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:  
+
+<u>**JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**</u>
+    - [✔︎arxiv](https://arxiv.org/abs/2310.10083)
 
 * Issey Sukeda, Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
