@@ -10,7 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
-* 2023年10月 [プレプリント](https://arxiv.org/abs/2310.10083)を公開しました.
+* 2023年10月 [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home)にアクセプトされました！ニューオーリーンズで発表予定.
 * 2023年9月 **ISI東京大会記念奨励賞**を受賞しました！
 * 2023年3月 日本統計学会春季集会にて研究発表を行い, **学生優秀発表賞**を受賞しました！
 * 2023年1月 [主著論文](https://www.sciencedirect.com/science/article/pii/S037722172300111X)が**European Journal of Operational Research**にacceptされました！
@@ -46,7 +46,7 @@ title = "About me"
 * その他、東大エクステンション TA, 東京大学データサイエンスコモンズ TA
 
 ##### 受賞
-* ISI東京大会記念奨励賞(2023)
+* ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
 * 統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
 * 日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） [link](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
 * ソフトバンクAI人材育成スカラーシップ(2022)
