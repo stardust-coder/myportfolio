@@ -32,18 +32,24 @@ title = "About me"
 
 ##### インターンシップ等
 * **理化学研究所**
-    - 脳神経センター統計数理連携ユニット
+    - 脳神経センター統計数理連携ユニット [link](https://www.riken.jp/research/labs/cbs/integr_comput_brainsci_collab/stat_math_collab/index.html)
+* **インクルーシブ工学連携機構（RIISE）**
+    - 研究協力員 [link](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members)
 * **株式会社松尾研究所**
     - チーフAIエンジニア・プロジェクトマネジャー
+* **東大エクステンション**
+    - Teaching Assistant（機械学習・最適化）
+* **東京大学データサイエンスコモンズ**
+    - 相談員
 * **Preferred Networks**
     - 研究インターンシップ
-* **東京大学工学系研究科EEIC川原研究室**
+* **東京大学工学系研究科川原研究室**
     - リサーチアシスタント
 * **ソニーコンピュータサイエンス研究所** 
     - リサーチアシスタント
 * **東京大学 森田研究室**
     - UTSIP(UTokyo Summer Internship Program)生
-* その他、東大エクステンション TA, 東京大学データサイエンスコモンズ TA
+
 
 ##### 受賞
 * ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
