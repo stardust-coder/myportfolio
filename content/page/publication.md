@@ -63,6 +63,8 @@ title = "Publication"
 
 * [NeurIPS Workshop Deep Generative Models for Health](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home), New Orleans, USA, December 2023.
     - Title: JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning
+* [数理科学者と解く！神経科学のオープンプロブレム](https://sites.google.com/view/neuro-mathematics2023/講演一覧), Nagano, Japan, November 2023.
+    - Title: 「最小情報コピュラとしてのFrankコピュラ」
 * [接合関数（コピュラ）理論の新展開](https://sites.google.com/view/copulaws2023/), Tokyo, Japan, September 2023.
     - Title: 「最小情報コピュラとしてのFrankコピュラ」
 * [2023年度 統計関連学会連合大会](https://confit.atlas.jp/guide/event/jfssa2023/top), Kyoto, Japan, September 2023.

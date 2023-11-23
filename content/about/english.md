@@ -10,7 +10,7 @@ I love juggling and balloon art !
 
 
 #### News
-* Oct. 2023 Accepted in NeurIPS DGM4H ! See you in New Orleans !
+* Oct. 2023 Accepted in [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home) ! See you in New Orleans !
 * Jul. 2023 Talked in ISIWSC 2023 ! Awarded 3rd ISI Tokyo Memorial Award !
 * Jun. 2023 Our new [preprint](https://arxiv.org/abs/2306.01604) available.
 * Nov. 2022 Accepted in ACM SenSys 2022 ! 
