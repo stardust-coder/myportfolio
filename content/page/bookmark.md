@@ -29,12 +29,19 @@ title = "Bookmark"
 - Kent and Tyler(1988) [巻き込みコーシー分布の最尤推定](https://www.tandfonline.com/doi/abs/10.1080/02664768800000029)
 - 
 
+
+### その他統計関連
+- [第 3 章「確 率 過 程 の 分 布 収 束」](https://www-cc.gakushuin.ac.jp/~20130021/ecmr/chap3-2013.pdf)
+- []()
+
+
 ### 学会・雑誌・研究者
 - [日本の統計学者](https://sites.google.com/site/shoutoyonekura/国内の統計学者リスト)
 - [恩師の記事](https://www.u-tokyo.ac.jp/focus/ja/features/voices036.html)
 - [オックスフォード大学の関連組織](https://www.oxford-man.ox.ac.uk/research-overview/)
 - [WikiCFP](http://www.wikicfp.com/cfp/call?conference=statistics)
 - [CWTS Journal Indicators](https://www.journalindicators.com/indicators)
+
 
 ### その他
 - [RISK.net](https://www.risk.net)

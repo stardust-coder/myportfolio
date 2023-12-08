@@ -10,6 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
+* 2023年12月 [産総研の覚醒プロジェクト](https://www.aist.go.jp/aist_j/news/au20231208.html)に研究課題が採択されました.
 * 2023年10月 [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home)にアクセプトされました！ニューオーリーンズで発表予定.
 * 2023年9月 **ISI東京大会記念奨励賞**を受賞しました！
 * 2023年3月 日本統計学会春季集会にて研究発表を行い, **学生優秀発表賞**を受賞しました！
@@ -63,6 +64,10 @@ title = "About me"
 * 優秀賞&学生投票賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2020) [link](http://www.mi.u-tokyo.ac.jp/contest2020.html)
 * 銅賞, 化学グランプリ(2016) [link](http://gp.csj.jp/media/common/gp2016results.pdf)
 * 3位, All Japan Diabolo Competition(2015)
+
+##### 研究費
+* 国立研究開発法人産業技術総合研究所 若手人材によるディープテック研究開発「覚醒プロジェクト」 [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html)
+
 
 
 #### 学生時代の活動
