@@ -4,7 +4,7 @@ title = "About me"
 +++
 
 ##### 東京大学 大学院情報理工学系研究科
-##### [株式会社EQUES](https://www.eques.co.jp) Co-Founder/CTO  
+##### [株式会社EQUES](https://www.eques.co.jp) Co-Founder&CTO  
 
 ![This is me][1]
 
@@ -13,68 +13,72 @@ title = "About me"
 * 2023年12月 [産総研の覚醒プロジェクト](https://www.aist.go.jp/aist_j/news/au20231208.html)に研究課題が採択されました.
 * 2023年10月 [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home)にアクセプトされました！ニューオーリーンズで発表予定.
 * 2023年9月 **ISI東京大会記念奨励賞**を受賞しました！
-* 2023年3月 日本統計学会春季集会にて研究発表を行い, **学生優秀発表賞**を受賞しました！
-* 2023年1月 [主著論文](https://www.sciencedirect.com/science/article/pii/S037722172300111X)が**European Journal of Operational Research**にacceptされました！
 * 2022年2月 学部同期と[株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
+
+##### 略歴
+
+東京大学工学部計数工学科出身, 株式会社EQUESを共同創業. CTO.
+
+ソニーCSLやPFNを始めとする複数の企業でインターン, 東大松尾研でのプロジェクトマネージャーの経験を経て, 現在は東大病院と理化学研究所で研究員を務める.
+
+ソフトバンクAI人材奨学生. 産総研「覚醒」1期生.
+
 
 ##### 研究内容
 
 コピュラ統計学およびその生体時系列（心電図や脳波など）への応用に興味を持っています.
 
-最近は他に, 医療AIや音響センシング分野にも取り組んでいます.
+最近は他に, 医療LLMや音響センシング分野にも取り組んでいます.
 
-これまでの研究のトピック：最小情報コピュラ, モジュラリティ密度最大化, 待ち行列, 大規模言語モデルなど
+キーワード：最小情報コピュラ, モジュラリティ密度最大化, 待ち行列, 大規模言語モデル, 医療AIなど
 
-##### 経歴
-* **株式会社EQUES**
-    - 取締役・CTO
-* **東京大学医学部附属病院** 
-    - 学術専門職員
+---
 
-##### インターンシップ等
-* **理化学研究所**
-    - 脳神経センター統計数理連携ユニット [link](https://www.riken.jp/research/labs/cbs/integr_comput_brainsci_collab/stat_math_collab/index.html)
-* **インクルーシブ工学連携機構（RIISE）**
-    - 研究協力員 [link](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members)
-* **株式会社松尾研究所**
-    - チーフAIエンジニア・プロジェクトマネジャー
-* **東大エクステンション**
-    - Teaching Assistant（機械学習・最適化）
-* **東京大学データサイエンスコモンズ**
-    - 相談員
-* **Preferred Networks**
-    - 研究インターンシップ
-* **東京大学工学系研究科川原研究室**
-    - リサーチアシスタント
-* **ソニーコンピュータサイエンス研究所** 
-    - リサーチアシスタント
-* **東京大学 森田研究室**
-    - UTSIP(UTokyo Summer Internship Program)生
-
-
-##### 受賞
+##### 受賞（個人）
 * ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
 * 統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
 * 日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） [link](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
 * ソフトバンクAI人材育成スカラーシップ(2022)
-* 3位, 松尾研究所内部AIコンペティション(2022)
-* ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
-* ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
-* 最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
 * 優秀賞&学生投票賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2020) [link](http://www.mi.u-tokyo.ac.jp/contest2020.html)
 * 銅賞, 化学グランプリ(2016) [link](http://gp.csj.jp/media/common/gp2016results.pdf)
 * 3位, All Japan Diabolo Competition(2015)
 
-##### 研究費
-* 国立研究開発法人産業技術総合研究所 若手人材によるディープテック研究開発「覚醒プロジェクト」 [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html)
+##### 受賞（チーム）
+* 3位, 松尾研究所内部AIコンペティション(2022)
+* ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
+* ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
+* 最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
 
 
+##### 獲得研究費
+* 国立研究開発法人産業技術総合研究所 若手人材によるディープテック研究開発「覚醒プロジェクト」第１回（2023）
+    * [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html)
+
+##### 経歴
+
+| HP | 所属 | 役職 | 内容 |
+| ---- | ---- | ---- | ---- |
+| [✔︎](https://www.eques.co.jp) | **株式会社EQUES** | Co-Founder・取締役・CTO | AIソリューション事業 |
+|  | **東京大学医学部附属病院**  | 学術専門職員 | 医療AI・医療LLMの研究開発 |
+| [✔︎](https://www.aist.go.jp/aist_j/news/au20231208.html) | 産総研 **「覚醒プロジェクト」** | 研究代表者 | 医療分野における大規模マルチモーダルモデル |
+| [✔︎](https://www.riken.jp/research/labs/cbs/integr_comput_brainsci_collab/stat_math_collab/index.html) | **理化学研究所** | 研究パートタイマー→Junior Research Associate | 脳神経データの統計モデリング |
+| [✔︎](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) | **インクルーシブ工学連携機構（RIISE）** | 研究協力員 |  |
+|  | **東大エクステンション** | TA | 機械学習・最適化 | 
+|  | 株式会社松尾研究所 | AIエンジニア→プロジェクトマネジャー | 財務予測・PoC・インフラ業界 | 
+|  | 東京大学データサイエンスコモンズ | 相談員 | 学内のデータ分析相談対応 | 
+| [✔︎](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/) | Preferred Networks | 研究インターンシップ | 気象予測 | 
+|  | 東京大学工学系研究科川原研究室 | RA | 音響センシング | 
+|  | ソニーコンピュータサイエンス研究所 | RA | 自然言語処理 | 
+|  | 東京大学 森田研究室 | UTSIP生 | 圧電素子によるエネルギーハーベスト | 
+
+
+---
 
 #### 学生時代の活動
 ##### プロジェクト
 * [東大MOCHA](https://mocha.t.u-tokyo.ac.jp) 
     - リサーチチーム
-    - 東大工学部長賞受賞プロジェクト
+    - **東大工学部長賞受賞プロジェクト**
 * [なみ逃げ](https://www.komazawa-u.ac.jp/news/extracurricular/2021/1215-10942.html)（デジタルハザードマップ開発プロジェクト）
     - 駒澤大学学園通信に[掲載](https://www.komazawa-u.ac.jp/topics/files/gakuen_tsushin352.pdf)
 * [東大社会起業コミュニティ For Earth](https://forearthut.com)

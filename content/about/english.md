@@ -3,7 +3,7 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-I am a co-founde / CTO of [EQUES Inc.](https://www.eques.co.jp) .
+I am a co-founder / CTO of [EQUES Inc.](https://www.eques.co.jp) .
 I love juggling and balloon art !
 
 [link to resume (coming soon...)]()
@@ -21,7 +21,7 @@ I love juggling and balloon art !
 
 #### Research Interests
 
-My interest covers statistics (especially copula modeling) and operational research. Recently, also interested in acoustic sensing and medical AI.
+My interest covers statistics (especially copula modelling) and operational research. Recently, also interested in acoustic sensing, neuroscience and medical AI.
 
 
 #### Careers
@@ -45,6 +45,11 @@ My interest covers statistics (especially copula modeling) and operational resea
 * Second place, UTokyo MDS Data Analysis Contest 2019
 * Bronze Award, Chemistry Grand Prix
 * Third place, All Japan Diabolo Competition
+
+#### Grants
+
+* 2023.12 KAKUSEI, funded by AIST.
+
 
 
 #### Other Activities
