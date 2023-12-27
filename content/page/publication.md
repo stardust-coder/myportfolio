@@ -104,6 +104,7 @@ title = "Publication"
 ##### Others.
 <br />
 
+* 最速！最新！有力なLLMモデルまとめ [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM)
 * [LLama2-70Bの日本語インストラクションチューニングモデル](https://huggingface.co/AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese)
 * [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)
     - Title: 数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習
