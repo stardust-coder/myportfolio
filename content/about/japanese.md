@@ -56,6 +56,7 @@ title = "About me"
 
 ##### 経歴
 
+{{< table class="table table-hover table-condensed" >}}
 | HP | 所属 | 役職 | 内容 |
 | ---- | ---- | ---- | ---- |
 | [✔︎](https://www.eques.co.jp) | **株式会社EQUES** | Co-Founder・取締役・CTO | AIソリューション事業 |
@@ -70,7 +71,7 @@ title = "About me"
 |  | 東京大学工学系研究科川原研究室 | RA | 音響センシング | 
 |  | ソニーコンピュータサイエンス研究所 | RA | 自然言語処理 | 
 |  | 東京大学 森田研究室 | UTSIP生 | 圧電素子によるエネルギーハーベスト | 
-
+{{</ table >}}
 
 ---
 

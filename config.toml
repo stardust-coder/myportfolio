@@ -12,7 +12,7 @@ canonifyurls = true
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "sea"
+  style = "green"
   description = "Issey's Portfolio site"
   copyright = "&copy;2022 Issey Sukeda"
   sidebarAbout = [
@@ -52,8 +52,6 @@ canonifyurls = true
   [[params.navlinks]]
   name = "Profile"
   url = "about/english"
-
- 
 
   [[params.navlinks]]
   name = "Publication"
