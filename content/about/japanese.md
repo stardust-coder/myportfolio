@@ -17,9 +17,9 @@ title = "About me"
 
 ##### 略歴
 
-東京大学工学部計数工学科出身, 株式会社EQUESを共同創業. CTO.
+東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTO.
 
-ソニーCSLやPFNを始めとする複数の企業でインターン, 東大松尾研でのプロジェクトマネージャーの経験を経て, 現在は東大病院と理化学研究所で研究員を務める.
+ソニーCSLやPFNのインターン, 東大松尾研プロジェクトマネージャーの経験を経て, 現在は東大病院や理化学研究所と共に数理統計やLLMの研究を行う.
 
 ソフトバンクAI人材奨学生. 産総研「覚醒」1期生.
 
@@ -62,9 +62,10 @@ title = "About me"
 | [✔︎](https://www.eques.co.jp) | **株式会社EQUES** | Co-Founder・取締役・CTO | AIソリューション事業 |
 |  | **東京大学医学部附属病院**  | 学術専門職員 | 医療AI・医療LLMの研究開発 |
 | [✔︎](https://www.aist.go.jp/aist_j/news/au20231208.html) | 産総研 **「覚醒プロジェクト」** | 研究代表者 | 医療分野における大規模マルチモーダルモデル |
-| [✔︎](https://www.riken.jp/research/labs/cbs/integr_comput_brainsci_collab/stat_math_collab/index.html) | **理化学研究所** | 研究パートタイマー→Junior Research Associate | 脳神経データの統計モデリング |
+| [✔︎](https://www.riken.jp/research/labs/cbs/integr_comput_brainsci_collab/stat_math_collab/index.html) | **理化学研究所** | 研究パートタイマー | 脳神経データの統計モデリング |
 | [✔︎](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) | **インクルーシブ工学連携機構（RIISE）** | 研究協力員 |  |
 |  | **東大エクステンション** | TA | 機械学習・最適化 | 
+| ---- | ---- | ---- | ---- |
 |  | 株式会社松尾研究所 | AIエンジニア→プロジェクトマネジャー | 財務予測・PoC・インフラ業界 | 
 |  | 東京大学データサイエンスコモンズ | 相談員 | 学内のデータ分析相談対応 | 
 | [✔︎](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/) | Preferred Networks | 研究インターンシップ | 気象予測 | 
