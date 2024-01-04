@@ -7,55 +7,63 @@ title = "Publication"
 
 [✔︎ arXiv](https://arxiv.org/search/?query=Issey+Sukeda&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 
-##### International Journal Articles (Reviewed)
+##### International Journal Articles
 <br />
 
-* Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:  
+1. Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:  
 <u>**A study on modularity density maximization: Column generation acceleration and computational complexity analysis**</u> 
     - European Journal of Operational Research 309, pp. 516–528, 2023. [✔︎paper](https://www.sciencedirect.com/science/article/pii/S037722172300111X) [✔︎arXiv](https://arxiv.org/abs/2206.10901)
 
 <br />
 
-* Shinnosuke Sawano, Satoshi Kodera, Masataka Sato, Susumu Katsushika, Issei Sukeda, ... , Issei Komuro:  
+1. Shinnosuke Sawano, Satoshi Kodera, Masataka Sato, Susumu Katsushika, Issei Sukeda, ... , Issei Komuro:  
 <u>**Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features**</u>
     - Plos one 17(10), e0276928, 2022. [✔︎paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276928)
 
 
-##### International Conference Proceedings (Reviewed)
+##### International Conference Proceedings
 <br />
 
-* Issey Sukeda, Hiroaki Murakami, Yuki Nishiyama, and Yoshihiro Kawahara:   
+
+1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:  
+<u>**JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**</u>
+    - NeurIPS Workshop Deep Generative Models for Health
+    - [✔︎arxiv](https://arxiv.org/abs/2310.10083) [✔︎openreview](https://openreview.net/forum?id=BfHX0hKRSe) [✔︎conference](https://sites.google.com/ethz.ch/dgm4h-neurips2023) 
+
+
+1. Issey Sukeda, Hiroaki Murakami, Yuki Nishiyama, and Yoshihiro Kawahara:   
 <u>**Recursive Queueing Estimation Using Smartphone-based Acoustic Ranging**</u>  
     - Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems, 2022. [✔︎paper](https://dl.acm.org/doi/10.1145/3560905.3568097) [✔︎conference](http://sensys.acm.org/2022/)
     - SenSys'22
 
 <br />
 
-* Shinnosuke Sawano, Satoshi Kodera, Hirotoshi Takeuchi, Issei Sukeda, Susumu Katsushika, and Issei Komuro :  
+1. Shinnosuke Sawano, Satoshi Kodera, Hirotoshi Takeuchi, Issei Sukeda, Susumu Katsushika, and Issei Komuro :  
 <u>**Masked Autoencoder-Based Self-Supervised Learning for Electrocardiograms to Detect Left Ventricular Systolic Dysfunction**</u>
     -  NeurIPS 2022 Workshop on Learning from Time Series for Health. [✔︎poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60064.png?t=1669681561.7912426) [✔︎openreview](https://openreview.net/forum?id=gz7c2HIcub7) [✔︎conference](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=50017#wse-detail-60064)
 
 <br />
 
-* Yuuki Nishiyama, Hiroaki Murakami, Ryoto Suzuki, Kazusato Oko, Issey Sukeda, Kaoru Sezaki, and Yoshihiro Kawahara:    
+1. Yuuki Nishiyama, Hiroaki Murakami, Ryoto Suzuki, Kazusato Oko, Issey Sukeda, Kaoru Sezaki, and Yoshihiro Kawahara:    
 <u>**MOCHA: Mobile Check-in Application for University Campuses Beyond COVID-19**</u>
     -  Proceedings of the Twenty-Third International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 253-258, 2022. [✔︎paper](https://dl.acm.org/doi/proceedings/10.1145/3492866)
     - MobiHoc'22
 
-<br />
 
 ##### Preprints
 <br />
 
-* Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:  
+1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:  
 <u>**JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**</u>
     - [✔︎arxiv](https://arxiv.org/abs/2310.10083)
 
-* Issey Sukeda, Tomonari Sei:  
+<br />
+
+1. Issey Sukeda, Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
     - [✔︎arxiv](https://arxiv.org/abs/2306.01604)
 
-<br />
+
 
 
 ##### Talks
