@@ -10,6 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
+* 2024年1月 [スポーツデータサイエンスコンテスト](https://sports.ywebsys.net/news/archives/0024/)で優秀賞をいただきました.
 * 2023年12月 [産総研の覚醒プロジェクト](https://www.aist.go.jp/aist_j/news/au20231208.html)に研究課題が採択されました.
 * 2023年10月 [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home)にアクセプトされました！ニューオーリーンズで発表予定.
 * 2023年9月 **ISI東京大会記念奨励賞**を受賞しました！
@@ -35,6 +36,7 @@ title = "About me"
 ---
 
 ##### 受賞（個人）
+* 2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
 * ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
 * 統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
 * 日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） [link](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
