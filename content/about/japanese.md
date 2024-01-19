@@ -118,6 +118,7 @@ title = "About me"
 * アジアサイエンスキャンプ [link](https://www.jst.go.jp/cpse/risushien/asc/pdf/report_asc2017.pdf)
 * 化学グランプリ [link1](http://gp.csj.jp/results/gp2016.html) [link2](https://www.gakko.otsuka.tsukuba.ac.jp/wp/wp-content/uploads/2015/04/2c39a0e414cf58ff3186e3c67899feb7.pdf)
 * マスフェスタ[link](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
+* (毎日パソコン入力コンクール 第１５回６月大会 第II類英単語高校生 ２位)[link](https://maipaso.net/past_ranking/)
 
 ##### リンク
 [東京大学 計数数理５研](https://www.or.mist.i.u-tokyo.ac.jp)  

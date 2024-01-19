@@ -26,8 +26,7 @@ title = "Publication"
 1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, and Satoshi Kodera:  
 <u>**JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**</u>
     , NeurIPS Workshop Deep Generative Models for Health, 2023.
-    [✔︎arxiv](https://arxiv.org/abs/2310.10083) [✔︎openreview](https://openreview.net/forum?id=BfHX0hKRSe) [✔︎conference](https://sites.google.com/ethz.ch/dgm4h-neurips2023) 
-
+    [✔︎arxiv](https://arxiv.org/abs/2310.10083) [✔︎openreview](https://openreview.net/forum?id=BfHX0hKRSe) [✔︎conference](https://sites.google.com/ethz.ch/dgm4h-neurips2023) [✔︎poster](https://nips.cc/virtual/2023/75422)
 
 1. Issey Sukeda, Hiroaki Murakami, Yuki Nishiyama, and Yoshihiro Kawahara:   
 <u>**Recursive Queueing Estimation Using Smartphone-based Acoustic Ranging**</u>
@@ -45,15 +44,9 @@ title = "Publication"
 ##### Preprints　（紀要）
 <br />
 
-1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, and Satoshi Kodera:  
-<u>**JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**</u>
-    [✔︎arxiv](https://arxiv.org/abs/2310.10083)
-
 1. Issey Sukeda and Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
     [✔︎arxiv](https://arxiv.org/abs/2306.01604)
-
-
 
 
 ##### Talks（学会発表）
