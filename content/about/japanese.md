@@ -24,6 +24,7 @@ title = "About me"
 
 ソフトバンクAI人材奨学生. 産総研「覚醒」1期生.
 
+[Wantedlyプロフィール](https://www.wantedly.com/id/issey_sukeda)
 
 ##### 研究内容
 
@@ -59,21 +60,21 @@ title = "About me"
 ##### 経歴
 
 {{< table class="table table-hover table-condensed" >}}
-| HP | 所属 | 役職 | 内容 |
-| ---- | ---- | ---- | ---- |
-| [✔︎](https://www.eques.co.jp) | **株式会社EQUES** | Co-Founder・取締役・CTO | AIソリューション事業 |
-|  | **東京大学医学部附属病院**  | 学術専門職員 | 医療AI・医療LLMの研究開発 |
-| [✔︎](https://www.aist.go.jp/aist_j/news/au20231208.html) | 産総研 **「覚醒プロジェクト」** | 研究代表者 | 医療分野における大規模マルチモーダルモデル |
-| [✔︎](https://www.riken.jp/research/labs/cbs/integr_comput_brainsci_collab/stat_math_collab/index.html) | **理化学研究所** | 研究パートタイマー | 脳神経データの統計モデリング |
-| [✔︎](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) | **インクルーシブ工学連携機構（RIISE）** | 研究協力員 |  |
-|  | **東大エクステンション** | TA | 機械学習・最適化 | 
-| ---- | ---- | ---- | ---- |
-|  | 株式会社松尾研究所 | AIエンジニア→プロジェクトマネジャー | 財務予測・PoC・インフラ業界 | 
-|  | 東京大学データサイエンスコモンズ | 相談員 | 学内のデータ分析相談対応 | 
-| [✔︎](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/) | Preferred Networks | 研究インターンシップ | 気象予測 | 
-|  | 東京大学工学系研究科川原研究室 | RA | 音響センシング | 
-|  | ソニーコンピュータサイエンス研究所 | RA | 自然言語処理 | 
-|  | 東京大学 森田研究室 | UTSIP生 | 圧電素子によるエネルギーハーベスト | 
+| 所属 | 役職 | 内容 |
+| ---- | ---- | ---- |
+|[株式会社EQUES](https://www.eques.co.jp) | Co-Founder・取締役・CTO | AIソリューション事業 |
+|[産総研「覚醒プロジェクト」](https://www.aist.go.jp/aist_j/news/au20231208.html) | 研究代表者 | 医療分野における大規模マルチモーダルモデル |
+|[理化学研究所](https://www.riken.jp/research/labs/cbs/integr_comput_brainsci_collab/stat_math_collab/index.html)| | 脳神経データの統計モデリング |
+|[東京大学医学部附属病院](https://cardiovasc.m.u-tokyo.ac.jp/study/ai)| 学術専門職員 | 医療AI・医療LLMの研究開発 |
+|[インクルーシブ工学連携機構（RIISE）](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) | 研究協力員 |  |
+|[東大エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) | TA | 機械学習・最適化 | 
+| ---- | ---- | ---- |
+|[株式会社松尾研究所](https://matsuo-institute.com) | AIエンジニア→プロジェクトマネジャー | 財務予測・PoC・インフラ業界のAI | 
+|東京大学データサイエンスコモンズ | 相談員 | 学内のデータ分析相談対応 | 
+|[Preferred Networks](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/) | 研究インターンシップ | 気象予測 | 
+|[東京大学工学系研究科川原研究室]() | RA | 音響センシング | 
+|[ソニーコンピュータサイエンス研究所]() | RA | 自然言語処理 | 
+|[東京大学 森田研究室](https://usdev.t.u-tokyo.ac.jp/contents/member.html) | UTSIP生 | 圧電素子によるエネルギーハーベスト | 
 {{</ table >}}
 
 ---
