@@ -22,10 +22,34 @@ weight = 1
 * 五月祭2019 フィナーレ [YouTube](https://www.youtube.com/watch?v=wtmxxMY3ju8) 22:52〜
     * ディアボロ, 使用曲: Love Yourself / Justin Bieber
 * 駒場祭2018 フィナーレ
-    * クラブパッシング, 使用曲: LaVoceによるアカペラ
+    * ディアボロチーム, 使用曲: LaVoceによるアカペラ
 * 駒場祭2018
     * ディアボロ, 使用曲: LOSER / 米津玄師
 * 文化祭2016 [YouTube](https://www.youtube.com/watch?v=moXHALZKg6w)
     * ファイヤートーチ, 使用曲: Calling / 嵐
 * 文化祭2015 中夜祭 [YouTube](https://www.youtube.com/watch?v=BbQ4kZXcXEQ) [YouTube2](https://www.youtube.com/watch?v=BdOk4H1Ib8s&t=0s)
     * クラブパッシング, 使用曲: ?
+
+
+{{< youtube VMTi41X5jqMD >}}
+
+{{< youtube dTdfhJqUMZ4 >}}
+
+{{< rawhtml >}} 
+
+<video width=100% controls>
+    <source src="/video/chuyasai.mp4" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
+
+<!-- <video width=100% controls>
+    <source src="/video/komabasai1-1.mov" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
+
+<video width=100% controls>
+    <source src="/video/komabasai1-2.mov" type="video/mp4">
+    Your browser does not support the video tag.  
+</video> -->
+
+{{< /rawhtml >}}
