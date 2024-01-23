@@ -34,22 +34,3 @@ weight = 1
 {{< youtube VMTi41X5jqMD >}}
 
 {{< youtube dTdfhJqUMZ4 >}}
-
-{{< rawhtml >}} 
-
-<video width=100% controls>
-    <source src="/video/chuyasai.mp4" type="video/mp4">
-    Your browser does not support the video tag.  
-</video>
-
-<!-- <video width=100% controls>
-    <source src="/video/komabasai1-1.mov" type="video/mp4">
-    Your browser does not support the video tag.  
-</video>
-
-<video width=100% controls>
-    <source src="/video/komabasai1-2.mov" type="video/mp4">
-    Your browser does not support the video tag.  
-</video> -->
-
-{{< /rawhtml >}}
