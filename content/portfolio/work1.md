@@ -31,6 +31,6 @@ weight = 1
     * クラブパッシング, 使用曲: ?
 
 
-{{< youtube VMTi41X5jqMD >}}
+{{< youtube VMTi41X5jqM >}}
 
 {{< youtube dTdfhJqUMZ4 >}}
