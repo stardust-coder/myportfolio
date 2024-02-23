@@ -21,9 +21,9 @@ weight = 1
     * ディアボロ・クラブパッシング, 使用曲: LaVoceによるアカペラ
 * 五月祭2019 フィナーレ [YouTube](https://www.youtube.com/watch?v=wtmxxMY3ju8) 22:52〜
     * ディアボロ, 使用曲: Love Yourself / Justin Bieber
-* 駒場祭2018 フィナーレ
+* 駒場祭2018 フィナーレ [動画](https://drive.google.com/file/d/1s2TyDXlIU5Qbtc-ZscEYxBwxk2O174Pl/view?usp=share_link)
     * ディアボロチーム, 使用曲: LaVoceによるアカペラ
-* 駒場祭2018
+* 駒場祭2018 [動画1](https://drive.google.com/file/d/1u3V1a7EIOoIRXuxf04xjnM6geXROWtBf/view?usp=share_link) [動画2](https://drive.google.com/file/d/1RFy0_bgyAx-bP7i-D_Dw2v49TCEp5dIQ/view?usp=share_link)
     * ディアボロ, 使用曲: LOSER / 米津玄師
 * 文化祭2016 [YouTube](https://www.youtube.com/watch?v=moXHALZKg6w)
     * ファイヤートーチ, 使用曲: Calling / 嵐
