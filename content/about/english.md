@@ -3,54 +3,102 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-I am a co-founder / CTO of [EQUES Inc.](https://www.eques.co.jp) .
+**Co-founder, CTO**
+
+[EQUES Inc.](https://www.eques.co.jp)  
+Business area : Creative Generative AI, Pharma, Construction and Demolition
+
+
+**Ph.D. student**
+
+Department of Mathematical Informatics  
+Graduate School of Information Science and Technology  
+The University of Tokyo  
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan  
+Research interest: Copula and dependence modelling, Optimization, Large language model
+
 I love juggling and balloon art !
-
-[link to resume (coming soon...)]()
-
 
 #### News
 * Dec. 2023 Accepted in [KAKUSEI Project](https://www.aist.go.jp/aist_j/news/au20231208.html).
 * Oct. 2023 Accepted in [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home) ! See you in New Orleans !
-* Jul. 2023 Talked in ISIWSC 2023 ! Awarded 3rd ISI Tokyo Memorial Award !
-* Jun. 2023 Our new [preprint](https://arxiv.org/abs/2306.01604) available.
 * Nov. 2022 Accepted in ACM SenSys 2022 ! 
 * Feb. 2022 Founded EQUES Inc., an AI startup ! 
 
 ![This is me][1]
 
-#### Research Interests
 
-My interest covers statistics (especially copula modelling) and operational research. Recently, also interested in acoustic sensing, neuroscience and medical AI.
+#### Experiences
 
+##### Business
 
-#### Careers
+2022 - Current
+- Director & CTO at EQUES Inc.
 
-- Part-time researcher at RIKEN Center of Brain Science.
-- AI Researcher at UTokyo Hospital.
+2022 - 2024
 - Chief AI Engineer & Project Manager at Matsuo Institute Inc.
-- Research Assistant at UTokyo EEIC Kawahara Lab.
-- Summer Research Internship at Preferred Networks Inc.
+
+
+##### Research 
+
+2023 - Current
+- Part-time researcher at RIKEN Center of Brain Science.
+
+2023.12 - 2024.7
+- Research Representative at Kakusei Project, funded by AIST.
+
+2022 - 2024
+- AI Researcher at UTokyo Hospital.
+- Research Assistant at UTokyo EEIC Kawahara Lab and RIISE.
+
+2022.7 - 2022.9
+- Research Internship at Preferred Networks Inc.
+
+2020 - 2022
 - Research Internship at Sony Computer Science Lab. Tokyo.
 
 
-#### Awards(personal)
+##### Teaching Assistant
 
-* 3rd ISI Tokyo Memorial Award (2023)
-* Japan Society of Statistics, Student Best Presentation Award (2023)
-* JEES Sofbank AI scholarship(2022)
+2022 - Current
+- Teaching Assistant at UTokyo EXTENSION Co.,Ltd.
+
+2023
+- Staff at UTokyo Data Science Commons
+
+
+
+#### Awards
+
+2024
+* 1st place, Sports Data Science Competition (MLB division), Japan Society of Statistics
+
+2023
+* 3rd ISI Tokyo Memorial Award, Japan Society of Statistics
+* Student Best Presentation Award, Japan Society of Statistics
+
+2021 
 * Finalist, Fin SUM Business Contest 2021
 * Yahoo Prize, Civictech Challenge Cup 2021 U-22
+
+2020
 * First place, AI/SUM Business Contest 2020
+
+2019
 * Second place, UTokyo MDS Data Analysis Contest 2019
+
+2016
 * Bronze Award, Chemistry Grand Prix
+
+2015
 * Third place, All Japan Diabolo Competition
 
-#### Grants
+#### Fellowship & Grants
 
-* 2023.12 KAKUSEI, funded by AIST.
-
-
+* 2024.4 - 2025.3 [RIKEN CBS Junior Research Associate](https://www.riken.jp/careers/programs/jra/)
+* 2024.4 - 2025.3 [IST-RA](https://www.i.u-tokyo.ac.jp/edu/financial-support/ist-ra/)
+* 2023.12 - 2024.7 [KAKUSEI]((https://www.aist.go.jp/aist_j/news/au20231208.html)), funded by AIST.
+* 2022.4 - 2023.3 JEES Softbank AI scholarship
 
 #### Other Activities
 * [UTokyo MOCHA](https://mocha.t.u-tokyo.ac.jp) project

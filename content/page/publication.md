@@ -98,9 +98,11 @@ title = "Publication"
 ##### Others.
 <br />
 
+* [日本語医療LLM MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b)
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula)
 * [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index)
-* 最速！最新！有力なLLMモデルまとめ [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM)
+* [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM)
+    - 最速！最新！有力なLLMモデルまとめ 
 * [LLama2-70Bの日本語インストラクションチューニングモデル](https://huggingface.co/AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese)
 * [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)
     - Title: 数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習

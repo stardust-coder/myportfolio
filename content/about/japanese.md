@@ -9,46 +9,52 @@ title = "About me"
 ![This is me][1]
 
 
-##### お知らせ
+#### お知らせ
 * 2024年1月 [スポーツデータサイエンスコンテスト](https://sports.ywebsys.net/news/archives/0024/)で優秀賞をいただきました.
 * 2023年12月 [産総研の覚醒プロジェクト](https://www.aist.go.jp/aist_j/news/au20231208.html)に研究課題が採択されました.
 * 2023年10月 [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home)にアクセプトされました！ニューオーリンズで発表予定.
 * 2023年9月 **ISI東京大会記念奨励賞**を受賞しました！
 * 2022年2月 学部同期と[株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
 
-##### 略歴
+#### 略歴
 
 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTO.  
-ソニーCSLやPFNのインターン, 東大松尾研プロジェクトマネージャーの経験を経て, 現在は東大病院や理化学研究所と共に数理統計やLLMの研究を行う.  
+ソニーCSLやPFNのインターン, 松尾研プロジェクトマネージャーの経験を経て, 現在は東大病院や理化学研究所と共に数理統計やLLMの研究を行う.  
 ソフトバンクAI人材奨学生. 産総研「覚醒」1期生.
 
-##### 研究内容
+#### 研究内容
 
-コピュラ統計学およびその生体時系列への応用に興味を持っています.  
+コピュラ統計学と最適化手法およびその生体時系列への応用に興味を持っています.  
 最近は他に, 医療AI分野にも取り組んでいます.
 
----
 
-##### 受賞（個人）
+#### 獲得研究費・奨学金等
+* 理化学研究所 脳神経センター ジュニアリサーチアソシエイト（2024）
+* IST-RA（2024）
+* 国立研究開発法人産業技術総合研究所 若手人材によるディープテック研究開発「覚醒プロジェクト」第１回（2023） [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html)
+* ソフトバンクAI人材育成スカラーシップ(2022)
+* ひよこ財団（2021）
+* キーエンス応援給付金（2020）
+
+
+#### 受賞（個人）
 * 2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
 * ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
 * 統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
 * 日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） [link](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
-* ソフトバンクAI人材育成スカラーシップ(2022)
 * 優秀賞&学生投票賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2020) [link](http://www.mi.u-tokyo.ac.jp/contest2020.html)
 * 銅賞, 化学グランプリ(2016) [link](http://gp.csj.jp/media/common/gp2016results.pdf)
 * 3位, All Japan Diabolo Competition(2015)
 
-##### 受賞（チーム）
+#### 受賞（チーム）
 * 3位, 松尾研究所内部AIコンペティション(2022)
 * ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
 * ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
 * 最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
 
-##### 獲得研究費
-* 国立研究開発法人産業技術総合研究所 若手人材によるディープテック研究開発「覚醒プロジェクト」第１回（2023） [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html)
 
-##### 経歴
+
+<!-- ##### 経歴
 
 {{< table class="table table-hover table-condensed" >}}
 | 所属 | 役職 | 内容 |
@@ -66,7 +72,7 @@ title = "About me"
 |[東京大学工学系研究科川原研究室]() | RA | 音響センシング | 
 |[ソニーコンピュータサイエンス研究所]() | RA | 自然言語処理 | 
 |[東京大学 森田研究室](https://usdev.t.u-tokyo.ac.jp/contents/member.html) | UTSIP生 | 圧電素子によるエネルギーハーベスト | 
-{{</ table >}}
+{{</ table >}} -->
 
 ---
 
@@ -93,6 +99,7 @@ title = "About me"
 * [ソニー東大社会連携講座 Ignite Your Ambition](https://ignite-your-ambition.com), TU Project 修了生
 * [東大GLP-GEfIL](https://www.glp.u-tokyo.ac.jp) 修了生
 * [東大トライリンガルプログラム](http://www.cgcs.c.u-tokyo.ac.jp/tlp/) 前期課程修了生
+    * [南京研修日報](https://lapsummer.wordpress.com/2019/08/16/%e6%89%af%e9%93%83%e5%a5%bd%e3%81%8d%e3%81%aa%e4%ba%ba%e3%81%a8%e7%b9%8b%e3%81%8c%e3%82%8a%e3%81%9f%e3%81%84/)
 
 ##### 出演動画・掲載など
 * 五月祭2023 [YouTube](https://m.youtube.com/watch?v=VMTi41X5jqM&pp=ygUNVFMgcmV2b2x1dGlvbg%3D%3D)
@@ -112,7 +119,7 @@ title = "About me"
 * マスフェスタ[link](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
 * (毎日パソコン入力コンクール 第１５回６月大会 第II類英単語高校生 ２位)[link](https://maipaso.net/past_ranking/)
 
-##### リンク
+#### リンク
 [東京大学 計数数理５研](https://www.or.mist.i.u-tokyo.ac.jp)  
 [東京大学 計数数理４研](http://www.stat.t.u-tokyo.ac.jp/index-j.html)    
 [東京大学 数理データ科学研究室](https://www.keisu.t.u-tokyo.ac.jp/lab/mist/data_lab_page/)    
