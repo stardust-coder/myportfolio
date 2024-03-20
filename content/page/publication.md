@@ -54,7 +54,7 @@ title = "Publication"
 
 
 1. [言語処理学会第30回年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/), Kobe, Japan, March 2024.
-    - Title: JMedLoRA：Instruction-tuningによる日本語大規模モデルの医療ドメイン適用
+    - Title: JMedLoRA：Instruction-tuningによる日本語大規模モデルの医療ドメイン適用 [Abstract](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-4.pdf)
 1. [Machine Learning Summer School](https://groups.oist.jp/mlss), Okinawa, Japan, March 2024.
     - Title: On the comparison between the minimum information copulas under fixed Spearman's ρ and Kendall's τ
 1. [NeurIPS Workshop Deep Generative Models for Health](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home), New Orleans, USA, December 2023.
