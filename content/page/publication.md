@@ -7,6 +7,8 @@ title = "Publication"
 
 [✔︎ arXiv](https://arxiv.org/search/?query=Issey+Sukeda&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 
+[✔︎ SpeakerDeck](https://speakerdeck.com/stardust11)
+
 ##### Reviewed Journal Papers （論文誌, 英文査読付のみ）
 <br />
 
