@@ -50,6 +50,21 @@ title = "Publication"
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
     [✔︎arxiv](https://arxiv.org/abs/2306.01604)
 
+##### Projects
+
+**LLM**
+* [日本語医療モデル評価用ベンチマーク / Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness)
+* [日本語医療LLM MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b)
+* [日本語医療QAデータセット JJSIMQA](https://huggingface.co/datasets/AIgroup-CVM-utokyohospital/JJSIMQA)
+* [日本語医療LLM JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000)
+* [最新LLMモデルまとめ awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM)
+* [LLama2-70Bの日本語インストラクションチューニングモデル](https://huggingface.co/AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese)
+
+
+**Statistics**
+* [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula)
+* [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index)
+
 
 ##### Talks（学会発表）
 <br />
@@ -102,21 +117,6 @@ title = "Publication"
 ##### Misc.
 <br />
 
-**LLM**
-* [日本語医療LLM MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b)
-* [日本語医療QAデータセット JJSIMQA](https://huggingface.co/datasets/AIgroup-CVM-utokyohospital/JJSIMQA)
-* [日本語医療LLM JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000)
-* [最新LLMモデルまとめ awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM)
-* [LLama2-70Bの日本語インストラクションチューニングモデル](https://huggingface.co/AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese)
-
-**Statistics**
-* [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula)
-* [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index)
 * [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)
     - Title: 数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習
-
-**Engineering**
-* [App 東大生と考えるフェルミ推定]()
-    - released on Apple Store, currently closed.
-
 

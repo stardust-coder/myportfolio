@@ -13,17 +13,11 @@
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/about/english/</guid>
-      <description>Co-founder, CTO
-EQUES Inc.
-Business area : Creative Generative AI, Pharma, Construction and Demolition
-Ph.D. student
-Department of Mathematical Informatics
-Graduate School of Information Science and Technology
-The University of Tokyo
-7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
-Research interest: Copula and dependence modelling, Optimization, Large language model
-I love juggling and balloon art !
-News Dec. 2023 Accepted in KAKUSEI Project. Oct. 2023 Accepted in NeurIPS DGM4H ! See you in New Orleans !</description>
+      <description>This is Issey Sukeda. Currently, I am a D1 student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda, supported by RIKEN and KAKUSEI(AIST).
+My research direction is focusing on developing biomedical large language models.
+My full publications can be accessed from Publications.
+Currently, I am working on
+Copulas and information Graphical modelling and directional statistics Japanese medical language (and vision) model development Any collaboration or discussion is welcome !</description>
     </item>
     
     <item>
@@ -32,8 +26,8 @@ News Dec. 2023 Accepted in KAKUSEI Project. Oct. 2023 Accepted in NeurIPS DGM4H 
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/about/japanese/</guid>
-      <description>東京大学 大学院情報理工学系研究科 株式会社EQUES Co-Founder&amp;amp;CTO お知らせ 2024年4月 博士後期課程に進学しました. 2024年1月 スポーツデータサイエンスコンテストで優秀賞をいただきました. 2023年12月 産総研の覚醒プロジェクトに研究課題が採択されました. 2023年10月 NeurIPS DGM4Hにアクセプトされました！ニューオーリンズで発表予定. 2023年9月 ISI東京大会記念奨励賞を受賞しました！ 2022年2月 学部同期と株式会社EQUESを共同創業しました. 略歴 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTO.
-ソニーCSLやPFNのインターン, 松尾研プロジェクトマネージャーの経験を経て, 現在は東大病院や理化学研究所と共に数理統計やLLMの研究.
+      <description>東京大学 大学院情報理工学系研究科 株式会社EQUES Co-Founder&amp;amp;CTO お知らせ 2024年4月 博士後期課程に進学しました. 2024年1月 スポーツデータサイエンスコンテストで優秀賞をいただきました. 2023年12月 産総研の覚醒プロジェクトに研究課題が採択されました. 2023年9月 ISI東京大会記念奨励賞を受賞しました！ 2022年2月 学部同期と株式会社EQUESを共同創業しました. 略歴 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTO.
+ソニーCSLやPFNのインターン, 松尾研プロジェクトマネージャーの経験を経て, 現在は東大病院や理化学研究所の支援の下, 数理統計やLLMの研究.
 ソフトバンクAI人材奨学生. 産総研「覚醒」1期生.
 研究内容 コピュラ統計学と最適化手法およびその生体時系列への応用に興味を持っています.
 最近は他に, 医療AI分野にも取り組んでいます.

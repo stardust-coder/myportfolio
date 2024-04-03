@@ -3,29 +3,37 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-**Co-founder, CTO**
 
-[EQUES Inc.](https://www.eques.co.jp)  
-Business area : Creative Generative AI, Pharma, Construction and Demolition
+This is Issey Sukeda. Currently, I am a D1 student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda, supported by RIKEN and KAKUSEI(AIST).  
 
+My research direction is focusing on developing biomedical large language models.   
+My full publications can be accessed from [Publications](https://stardust-coder.github.io/myportfolio/page/publication/).  
+Currently, I am working on 
+- Copulas and information
+- Graphical modelling and directional statistics
+- Japanese medical language (and vision) model development
 
-**Ph.D. student**
+Any collaboration or discussion is welcome !
 
-Department of Mathematical Informatics  
-Graduate School of Information Science and Technology  
-The University of Tokyo  
-7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan  
-Research interest: Copula and dependence modelling, Optimization, Large language model
+![This is me][1]
 
-I love juggling and balloon art !
-
-#### News
+#### ★ News
 * Dec. 2023 Accepted in [KAKUSEI Project](https://www.aist.go.jp/aist_j/news/au20231208.html).
 * Oct. 2023 Accepted in [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home) ! See you in New Orleans !
 * Nov. 2022 Accepted in ACM SenSys 2022 ! 
 * Feb. 2022 Founded EQUES Inc., an AI startup ! 
 
-![This is me][1]
+#### ★ Medical LLM Project
+* [Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness) is the evaluation codes and leaderboard for medical LLMs.
+* [MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b) is the second Japanese medical LLM finetuned from Swallow-70b-instruct-hf.
+* [JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000) is the first Japanese medical LLM finetuned from Llama2.
+* [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM) is the curation of the latest and competent LLMs, including medical domain adaptation.
+
+#### ★ Statistics Project
+* [Torus Graph Modelling implementation in Python](https://github.com/stardust-coder/torus_graph_modelling) is the implementation and adaptation of [Klein et al.(2020)](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-2/Torus-graphs-for-multivariate-phase-coupling-analysis/10.1214/19-AOAS1300.full) to human EEG series data.
+* [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates the density function of minimum information copula, the most natural copula under predetermined constraints. 
+* [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index) is the Python implementation of [Sei (2016)](https://www.sciencedirect.com/science/article/pii/S0047259X16000269).
+
 
 
 #### Experiences
@@ -39,10 +47,8 @@ I love juggling and balloon art !
 - Chief AI Engineer & Project Manager at Matsuo Institute Inc.
 
 
-##### Research 
-
 2023 - Current
-- Part-time researcher at RIKEN Center of Brain Science.
+- Part-time researcher / Junior Research Associate at RIKEN Center of Brain Science.
 
 2023.12 - 2024.7
 - Research Representative at Kakusei Project, funded by AIST.
