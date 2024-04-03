@@ -4,13 +4,13 @@ title = "About me"
 +++
 
 
-This is Issey Sukeda. Currently, I am a D1 student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda, supported by RIKEN and KAKUSEI(AIST).  
+This is Issey Sukeda. Currently, I am a D1 student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda, supported by RIKEN and KAKUSEI (AIST).  
 
-My research direction is focusing on developing biomedical large language models.   
+My research direction is to model constraints behind multivariate time series data, leveraging on entropy and information.  
 My full publications can be accessed from [Publications](https://stardust-coder.github.io/myportfolio/page/publication/).  
 Currently, I am working on 
 - Copulas and information
-- Graphical modelling and directional statistics
+- Graphical modelling and directional statistics for EEG
 - Japanese medical language (and vision) model development
 
 Any collaboration or discussion is welcome !
@@ -18,10 +18,11 @@ Any collaboration or discussion is welcome !
 ![This is me][1]
 
 #### ★ News
-* Dec. 2023 Accepted in [KAKUSEI Project](https://www.aist.go.jp/aist_j/news/au20231208.html).
-* Oct. 2023 Accepted in [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home) ! See you in New Orleans !
-* Nov. 2022 Accepted in ACM SenSys 2022 ! 
-* Feb. 2022 Founded EQUES Inc., an AI startup ! 
+* Apr. 2024 🎉 Our paper was accepted in [Artificial Intelligence for Health]().
+* Dec. 2023 🎉 My research was accepted as [KAKUSEI Project](https://www.aist.go.jp/aist_j/news/au20231208.html) by AIST.
+* Oct. 2023 🎉 Our paper was accepted in [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home) ! See you in New Orleans !
+* Nov. 2022 🎉 Our paper was accepted in [ACM SenSys 2022]() ! 
+* Feb. 2022 💪 Founded [EQUES Inc.]() as CTO ! 
 
 #### ★ Medical LLM Project
 * [Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness) is the evaluation codes and leaderboard for medical LLMs.
@@ -34,78 +35,40 @@ Any collaboration or discussion is welcome !
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates the density function of minimum information copula, the most natural copula under predetermined constraints. 
 * [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index) is the Python implementation of [Sei (2016)](https://www.sciencedirect.com/science/article/pii/S0047259X16000269).
 
+#### ★ Fundings
 
+* 2024.4 - 2027.3, [RIKEN CBS Junior Research Associate](https://www.riken.jp/careers/programs/jra/)
+* 2024.4 - 2027.3, [IST-RA](https://www.i.u-tokyo.ac.jp/edu/financial-support/ist-ra/)
+* 2023.12 - 2024.7, [KAKUSEI]((https://www.aist.go.jp/aist_j/news/au20231208.html)), funded by AIST.
+* 2022.4 - 2023.3, JEES Softbank AI scholarship
 
-#### Experiences
-
-##### Business
-
-2022 - Current
-- Director & CTO at EQUES Inc.
-
-2022 - 2024
-- Chief AI Engineer & Project Manager at Matsuo Institute Inc.
-
-
-2023 - Current
-- Part-time researcher / Junior Research Associate at RIKEN Center of Brain Science.
-
-2023.12 - 2024.7
-- Research Representative at Kakusei Project, funded by AIST.
-
-2022 - 2024
-- AI Researcher at UTokyo Hospital.
-- Research Assistant at UTokyo EEIC Kawahara Lab and RIISE.
-
-2022.7 - 2022.9
-- Research Internship at Preferred Networks Inc.
-
-2020 - 2022
-- Research Internship at Sony Computer Science Lab. Tokyo.
-
-
-##### Teaching Assistant
-
-2022 - Current
-- Teaching Assistant at UTokyo EXTENSION Co.,Ltd.
-
-2023
-- Staff at UTokyo Data Science Commons
-
-
-
-#### Awards
+#### ★ Awards
 
 2024
-* 1st place, Sports Data Science Competition (MLB division), Japan Society of Statistics
+* 🥇 1st place, Sports Data Science Competition (MLB division), Japan Society of Statistics
 
 2023
-* 3rd ISI Tokyo Memorial Award, Japan Society of Statistics
-* Student Best Presentation Award, Japan Society of Statistics
+* 🏆 ISI Tokyo Memorial Award, Japan Society of Statistics
+* 🏆 Student Best Presentation Award, Japan Society of Statistics
 
 2021 
-* Finalist, Fin SUM Business Contest 2021
-* Yahoo Prize, Civictech Challenge Cup 2021 U-22
+* 🥉 Finalist, Fin SUM Business Contest 2021
+* 🏆 Yahoo Prize, Civictech Challenge Cup 2021 U-22
 
 2020
-* First place, AI/SUM Business Contest 2020
+* 🥇 1st place, AI/SUM Business Contest 2020
 
 2019
-* Second place, UTokyo MDS Data Analysis Contest 2019
+* 🥈 2nd place, UTokyo MDS Data Analysis Contest 2019
 
 2016
-* Bronze Award, Chemistry Grand Prix
+* 🥉 Bronze Award, Chemistry Grand Prix
 
 2015
-* Third place, All Japan Diabolo Competition
+* 🥉 3rd place, All Japan Diabolo Competition
 
-#### Fellowship & Grants
 
-* 2024.4 - 2025.3 [RIKEN CBS Junior Research Associate](https://www.riken.jp/careers/programs/jra/)
-* 2024.4 - 2025.3 [IST-RA](https://www.i.u-tokyo.ac.jp/edu/financial-support/ist-ra/)
-* 2023.12 - 2024.7 [KAKUSEI]((https://www.aist.go.jp/aist_j/news/au20231208.html)), funded by AIST.
-* 2022.4 - 2023.3 JEES Softbank AI scholarship
-
+<!-- 
 #### Other Activities
 * [UTokyo MOCHA](https://mocha.t.u-tokyo.ac.jp) project
 * Naminige project @Code for Japan
@@ -126,7 +89,7 @@ Any collaboration or discussion is welcome !
 * U-23 Summit
 * UTokyo Summer Internship Program in [Morita Lab.](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html)
     - Developed a piezoelectrical device.
-* 中華圏留学生交流団体Pandadon
+* 中華圏留学生交流団体Pandadon -->
 
 
 [1]: /img/me.png
