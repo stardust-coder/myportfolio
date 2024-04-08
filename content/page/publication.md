@@ -12,7 +12,7 @@ title = "Publication"
 ##### Reviewed Journal Papers （論文誌, 英文査読付のみ）
 <br />
 
-1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:
+1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:  
 <u>**Development and analysis of medical instruction-tuning for Japanese large language models**</u>
 , Artificial Intellignece for Health 2695, 2024. [✔︎paper](https://accscience.com/journal/AIH/articles/online_first/1381)
 
@@ -49,6 +49,10 @@ title = "Publication"
 
 ##### Preprints　（紀要）
 <br />
+
+1. Issey Sukeda, Risa Kishikawa, and Satoshi Kodera:  
+<u>**70B-parameter large language models in Japanese medical question-answering**</u>
+[✔︎arxiv(coming soon)]()
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>

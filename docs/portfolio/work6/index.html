@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="https://stardust-coder.github.io/myportfolio/css/owl.theme.css">
 
 
-  <link href="https://stardust-coder.github.io/myportfolio/css/style.sea.css" rel="stylesheet" id="theme-stylesheet">
+  <link href="https://stardust-coder.github.io/myportfolio/css/style.green.css" rel="stylesheet" id="theme-stylesheet">
 
  
 
@@ -28,7 +28,18 @@
 <link rel="shortcut icon" href="https://stardust-coder.github.io/myportfolio/img/favicon.png">
 
 
-</head>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-256435997-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script></head>
 <body>
   <div id="all">
       <div class="container-fluid">
@@ -61,7 +72,7 @@
   
   
   
-  <a href="https://linkedin.com/stardust11" data-animate-hover="pulse" class="external" title="LinkedIn">
+  <a href="https://jp.linkedin.com/in/stardust11" data-animate-hover="pulse" class="external" title="LinkedIn">
     <i class="fa fa-linkedin"></i>
   </a>
   
@@ -99,11 +110,68 @@
 </div>
 
   <div class="row">
-    <div class="col-lg-8">
+    <div class="col-lg-12">
       <div class="content-column-content">
-         <h1>App</h1>
-         <p>「気配」を起点にしたコミュニケーションとは</p>
-         
+        <h1>Medical AI</h1>
+        <p>東大病院の研究員として２年間・産総研「覚醒」研究代表者として半年<br>
+取り組んだ医療AI・医療LLM</p>
+<p><a href="#anchor1">心電図から心疾患や年齢予測を行うAIモデル</a><br>
+<a href="#anchor2">OpenCALM(7B)・Llama2(70B)の日本語医療適応</a><br>
+<a href="#anchor3">70B（700億）パラメタの日本語医療LLM開発</a> <br>
+<a href="#anchor4">医療LLMのベンチマークの作成</a></p>
+<hr>
+<hr>
+<hr>
+<p><a id="anchor1"></a></p>
+<h1 id="心電図から心疾患や年齢予測を行うaiモデル">心電図から心疾患や年齢予測を行うAIモデル</h1>
+<pre tabindex="0"><code>12誘導心電図を入力とし症状の有無を判定する分類器の作成. 東大病院の患者約13万件の心電図データでMasked AutoEncoderの事前学習も実施しました. 今回, 左室収縮機能障害は心エコーにおけるEF値の低下と定義しています. このように, 心電図を入力, 心エコー所見を出力として学習することで, より手軽な心電図検査のみで症状有無の予測が可能となることを目指しています.
+</code></pre><ol>
+<li>
+<p>Shinnosuke Sawano, Satoshi Kodera, Hirotoshi Takeuchi, Issei Sukeda, Susumu Katsushika, and Issei Komuro :<br>
+<u><strong>Masked Autoencoder-Based Self-Supervised Learning for Electrocardiograms to Detect Left Ventricular Systolic Dysfunction</strong></u>
+, NeurIPS Workshop on Learning from Time Series for Health, 2022. <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60064.png?t=1669681561.7912426">✔︎poster</a></p>
+</li>
+<li>
+<p>Shinnosuke Sawano, Satoshi Kodera, Masataka Sato, Susumu Katsushika, Issei Sukeda, &hellip; , and Issei Komuro:<br>
+<u><strong>Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features</strong></u>
+, Plos one 17(10), 2022. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276928">✔︎paper</a></p>
+</li>
+</ol>
+<p><a id="anchor2"></a></p>
+<h1 id="opencalm7bllama270bの日本語医療適応">OpenCALM(7B)・Llama2(70B)の日本語医療適応</h1>
+<pre tabindex="0"><code>日本で初めてLLMの医療チューニングにトライしました. 時代の流れが早く, 今となっては特に意味のない研究ですが...
+</code></pre><p><strong>モデル</strong></p>
+<ul>
+<li><a href="https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000">日本語医療LLM JMedLoRA @ huggingface</a></li>
+</ul>
+<p><strong>論文</strong></p>
+<ul>
+<li>
+<p>Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, and Satoshi Kodera:<br>
+<u><strong>JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning</strong></u>
+, NeurIPS Workshop Deep Generative Models for Health, 2023.
+<a href="https://arxiv.org/abs/2310.10083">✔︎arxiv</a></p>
+</li>
+<li>
+<p>Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:
+<u><strong>Development and analysis of medical instruction-tuning for Japanese large language models</strong></u>
+, Artificial Intellignece for Health 2695, 2024. <a href="https://accscience.com/journal/AIH/articles/online_first/1381">✔︎paper</a></p>
+</li>
+</ul>
+<p><a id="anchor3"></a></p>
+<h1 id="70b700億パラメタの日本語医療llm開発">70B（700億）パラメタの日本語医療LLM開発</h1>
+<pre tabindex="0"><code>東工大より日本語70BモデルであるSwallowがリリースされたので, 早速医療チューニングに使ってみました. 結果, 日本医師国家試験の正答率が50%近くまで伸びました. 一方で, GPT-4は8~9割正答できるという報告がありますし, まだまだ発展の余地しかない状況です.
+</code></pre><ol>
+<li>Issey Sukeda, Risa Kishikawa, and Satoshi Kodera:<br>
+<u><strong>70B-parameter large language models in Japanese medical question-answering</strong></u>
+<a href="">✔︎arxiv</a></li>
+</ol>
+<p><a id="anchor4"></a></p>
+<h1 id="医療llmのベンチマークの作成">医療LLMのベンチマークの作成</h1>
+<ul>
+<li><a href="https://github.com/stardust-coder/japanese-lm-med-harness">日本語医療モデル評価用ベンチマーク / Japanese Medical Language Model Evaluation Harness</a></li>
+</ul>
+        
       </div>
     </div>
   </div>

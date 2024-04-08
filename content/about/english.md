@@ -18,7 +18,7 @@ Any collaboration or discussion is welcome !
 ![This is me][1]
 
 #### ★ News
-* Apr. 2024 🎉 Our paper was accepted in [Artificial Intelligence for Health]().
+* Apr. 2024 🎉 Our paper was accepted in [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381).
 * Dec. 2023 🎉 My research was accepted as [KAKUSEI Project](https://www.aist.go.jp/aist_j/news/au20231208.html) by AIST.
 * Oct. 2023 🎉 Our paper was accepted in [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home) ! See you in New Orleans !
 * Nov. 2022 🎉 Our paper was accepted in [ACM SenSys 2022]() ! 
