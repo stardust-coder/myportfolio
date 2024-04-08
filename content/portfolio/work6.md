@@ -23,7 +23,7 @@ weight = 4
 
 
 <a id="anchor1"></a>
-# 心電図から心疾患や年齢予測を行うAIモデル
+### 心電図から心疾患や年齢予測を行うAIモデル
 
 ```
 12誘導心電図を入力とし症状の有無を判定する分類器の作成. 東大病院の患者約13万件の心電図データでMasked AutoEncoderの事前学習も実施しました. 今回, 左室収縮機能障害は心エコーにおけるEF値の低下と定義しています. このように, 心電図を入力, 心エコー所見を出力として学習することで, より手軽な心電図検査のみで症状有無の予測が可能となることを目指しています.
@@ -40,7 +40,7 @@ weight = 4
 
 
 <a id="anchor2"></a>
-# OpenCALM(7B)・Llama2(70B)の日本語医療適応
+### OpenCALM(7B)・Llama2(70B)の日本語医療適応
 
 ```
 日本で初めてLLMの医療チューニングにトライしました. 時代の流れが早く, 今となっては特に意味のない研究ですが...
@@ -50,18 +50,18 @@ weight = 4
 * [日本語医療LLM JMedLoRA @ huggingface](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000)
 
 **論文**
-* Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, and Satoshi Kodera:  
+1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, and Satoshi Kodera:  
 <u>**JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**</u>
     , NeurIPS Workshop Deep Generative Models for Health, 2023.
     [✔︎arxiv](https://arxiv.org/abs/2310.10083) 
 
-* Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:
+1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:
 <u>**Development and analysis of medical instruction-tuning for Japanese large language models**</u>
 , Artificial Intellignece for Health 2695, 2024. [✔︎paper](https://accscience.com/journal/AIH/articles/online_first/1381)
 
 
 <a id="anchor3"></a>
-# 70B（700億）パラメタの日本語医療LLM開発
+### 70B（700億）パラメタの日本語医療LLM開発
 
 ```
 東工大より日本語70BモデルであるSwallowがリリースされたので, 早速医療チューニングに使ってみました. 結果, 日本医師国家試験の正答率が50%近くまで伸びました. 一方で, GPT-4は8~9割正答できるという報告がありますし, まだまだ発展の余地しかない状況です.
@@ -72,7 +72,7 @@ weight = 4
 [✔︎arxiv]()
 
 <a id="anchor4"></a>
-# 医療LLMのベンチマークの作成
+### 医療LLMのベンチマークの作成
 
 * [日本語医療モデル評価用ベンチマーク / Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness)
 

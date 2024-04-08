@@ -123,7 +123,7 @@ if (!doNotTrack) {
 <hr>
 <hr>
 <p><a id="anchor1"></a></p>
-<h1 id="心電図から心疾患や年齢予測を行うaiモデル">心電図から心疾患や年齢予測を行うAIモデル</h1>
+<h3 id="心電図から心疾患や年齢予測を行うaiモデル">心電図から心疾患や年齢予測を行うAIモデル</h3>
 <pre tabindex="0"><code>12誘導心電図を入力とし症状の有無を判定する分類器の作成. 東大病院の患者約13万件の心電図データでMasked AutoEncoderの事前学習も実施しました. 今回, 左室収縮機能障害は心エコーにおけるEF値の低下と定義しています. このように, 心電図を入力, 心エコー所見を出力として学習することで, より手軽な心電図検査のみで症状有無の予測が可能となることを目指しています.
 </code></pre><ol>
 <li>
@@ -138,14 +138,14 @@ if (!doNotTrack) {
 </li>
 </ol>
 <p><a id="anchor2"></a></p>
-<h1 id="opencalm7bllama270bの日本語医療適応">OpenCALM(7B)・Llama2(70B)の日本語医療適応</h1>
+<h3 id="opencalm7bllama270bの日本語医療適応">OpenCALM(7B)・Llama2(70B)の日本語医療適応</h3>
 <pre tabindex="0"><code>日本で初めてLLMの医療チューニングにトライしました. 時代の流れが早く, 今となっては特に意味のない研究ですが...
 </code></pre><p><strong>モデル</strong></p>
 <ul>
 <li><a href="https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000">日本語医療LLM JMedLoRA @ huggingface</a></li>
 </ul>
 <p><strong>論文</strong></p>
-<ul>
+<ol>
 <li>
 <p>Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, and Satoshi Kodera:<br>
 <u><strong>JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning</strong></u>
@@ -157,9 +157,9 @@ if (!doNotTrack) {
 <u><strong>Development and analysis of medical instruction-tuning for Japanese large language models</strong></u>
 , Artificial Intellignece for Health 2695, 2024. <a href="https://accscience.com/journal/AIH/articles/online_first/1381">✔︎paper</a></p>
 </li>
-</ul>
+</ol>
 <p><a id="anchor3"></a></p>
-<h1 id="70b700億パラメタの日本語医療llm開発">70B（700億）パラメタの日本語医療LLM開発</h1>
+<h3 id="70b700億パラメタの日本語医療llm開発">70B（700億）パラメタの日本語医療LLM開発</h3>
 <pre tabindex="0"><code>東工大より日本語70BモデルであるSwallowがリリースされたので, 早速医療チューニングに使ってみました. 結果, 日本医師国家試験の正答率が50%近くまで伸びました. 一方で, GPT-4は8~9割正答できるという報告がありますし, まだまだ発展の余地しかない状況です.
 </code></pre><ol>
 <li>Issey Sukeda, Risa Kishikawa, and Satoshi Kodera:<br>
@@ -167,7 +167,7 @@ if (!doNotTrack) {
 <a href="">✔︎arxiv</a></li>
 </ol>
 <p><a id="anchor4"></a></p>
-<h1 id="医療llmのベンチマークの作成">医療LLMのベンチマークの作成</h1>
+<h3 id="医療llmのベンチマークの作成">医療LLMのベンチマークの作成</h3>
 <ul>
 <li><a href="https://github.com/stardust-coder/japanese-lm-med-harness">日本語医療モデル評価用ベンチマーク / Japanese Medical Language Model Evaluation Harness</a></li>
 </ul>
