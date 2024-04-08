@@ -11,7 +11,7 @@ title = "About me"
 
 #### お知らせ
 * 2024年4月 博士後期課程に進学しました.
-* 2024年4月 Artificial Intelligence for Healthに採録されました.
+* 2024年4月 [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381)に採録されました.
 * 2024年1月 [スポーツデータサイエンスコンテスト](https://sports.ywebsys.net/news/archives/0024/)で優秀賞をいただきました.
 * 2023年12月 [産総研の覚醒プロジェクト](https://www.aist.go.jp/aist_j/news/au20231208.html)に研究課題が採択されました.
 * 2023年9月 **ISI東京大会記念奨励賞**を受賞しました！

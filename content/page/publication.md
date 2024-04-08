@@ -12,6 +12,10 @@ title = "Publication"
 ##### Reviewed Journal Papers （論文誌, 英文査読付のみ）
 <br />
 
+1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:
+<u>**Development and analysis of medical instruction-tuning for Japanese large language models**</u>
+, Artificial Intellignece for Health 2695, 2024. [✔︎paper](https://accscience.com/journal/AIH/articles/online_first/1381)
+
 1. Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:  
 <u>**A study on modularity density maximization: Column generation acceleration and computational complexity analysis**</u> 
     , European Journal of Operational Research 309, pp. 516–528, 2023. [✔︎paper](https://www.sciencedirect.com/science/article/pii/S037722172300111X) [✔︎arXiv](https://arxiv.org/abs/2206.10901)
