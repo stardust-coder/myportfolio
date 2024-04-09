@@ -12,11 +12,13 @@ weight = 4
 <!--more-->
 
 ---
-**目次**
-[心電図から心疾患や年齢予測を行うAIモデル](#anchor1)  
-[OpenCALM(7B)・Llama2(70B)の日本語医療適応](#anchor2)  
-[70B（700億）パラメタの日本語医療LLM開発](#anchor3)    
-[医療LLMのベンチマークの作成](#anchor4)  
+**★ 目次**
+
+1. [心電図から心疾患や年齢予測を行うAIモデル](#anchor1)  
+1. [OpenCALM(7B)・Llama2(70B)の日本語医療適応](#anchor2)  
+1. [70Bパラメタの日本語医療LLM開発](#anchor3)    
+1. [医療LLMのベンチマークの作成](#anchor4)  
+
 ---
 
 

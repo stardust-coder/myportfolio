@@ -116,11 +116,14 @@ if (!doNotTrack) {
         <p>東大病院の研究員として２年間・産総研「覚醒」研究代表者として半年<br>
 取り組んだ医療AI・医療LLM</p>
 <hr>
-<h2 id="医療llmのベンチマークの作成anchor4"><strong>目次</strong>
-<a href="#anchor1">心電図から心疾患や年齢予測を行うAIモデル</a><br>
-<a href="#anchor2">OpenCALM(7B)・Llama2(70B)の日本語医療適応</a><br>
-<a href="#anchor3">70B（700億）パラメタの日本語医療LLM開発</a> <br>
-<a href="#anchor4">医療LLMのベンチマークの作成</a></h2>
+<p><strong>★ 目次</strong></p>
+<ol>
+<li><a href="#anchor1">心電図から心疾患や年齢予測を行うAIモデル</a></li>
+<li><a href="#anchor2">OpenCALM(7B)・Llama2(70B)の日本語医療適応</a></li>
+<li><a href="#anchor3">70Bパラメタの日本語医療LLM開発</a></li>
+<li><a href="#anchor4">医療LLMのベンチマークの作成</a></li>
+</ol>
+<hr>
 <p><a id="anchor1"></a></p>
 <h3 id="心電図から心疾患や年齢予測を行うaiモデル">心電図から心疾患や年齢予測を行うAIモデル</h3>
 <pre tabindex="0"><code>12誘導心電図を入力とし症状の有無を判定する分類器の作成. 東大病院の患者約13万件の心電図データでMasked AutoEncoderの事前学習も実施しました. 今回, 左室収縮機能障害は心エコーにおけるEF値の低下と定義しています. このように, 心電図を入力, 心エコー所見を出力として学習することで, より手軽な心電図検査のみで症状有無の予測が可能となることを目指しています.
