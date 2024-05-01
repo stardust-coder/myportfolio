@@ -10,47 +10,47 @@ title = "About me"
 
 
 #### お知らせ
-* 2024年4月 博士後期課程に進学しました.
-* 2024年4月 [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381)に採録されました.
-* 2024年1月 [スポーツデータサイエンスコンテスト](https://sports.ywebsys.net/news/archives/0024/)で優秀賞をいただきました.
-* 2023年12月 [産総研の覚醒プロジェクト](https://www.aist.go.jp/aist_j/news/au20231208.html)に研究課題が採択されました.
-* 2023年9月 **ISI東京大会記念奨励賞**を受賞しました！
-* 2022年2月 学部同期と[株式会社EQUES](https://www.eques.co.jp)を共同創業しました.
+
+* 🎉 2024年4月 [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381)に採録されました.
+* 🎉 2024年4月 博士後期課程に進学しました.
+* 🎉 2024年1月 [スポーツデータサイエンスコンテスト](https://sports.ywebsys.net/news/archives/0024/)で優秀賞をいただきました.
 
 #### 略歴
 
 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTO.  
-ソニーCSLやPFNでのインターン, 松尾研プロジェクトマネージャーの経験を経て, 現在は東大病院や理化学研究所の支援の下, 数理統計やLLMの研究.  
-ソフトバンクAI人材奨学生. 産総研「覚醒」1期生.
+ソニーCSLやPFNでの研究インターン, 松尾研プロジェクトマネージャーの経験を経て, 現在は数理統計や医療LLMの研究を行う.  
+ソフトバンクAI人材奨学生. 産総研「覚醒プロジェクト」研究代表者.
 
 #### 研究内容
 
 最近はコピュラ統計学と最適化手法およびその生体時系列への応用に興味を持っています.  
 また他には, 医療AI分野, 特にLLM（大規模言語モデル）にも取り組んでいます.
 
-#### 獲得研究費・奨学金等
-* 理化学研究所 脳神経センター ジュニアリサーチアソシエイト（2024）
+#### 獲得研究費
+* 若手人材によるディープテック研究開発「覚醒プロジェクト」第１回（2023） [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html)
+
+#### 経済支援
+* 理化学研究所 ジュニアリサーチアソシエイト（2024）
 * IST-RA（2024）
-* 国立研究開発法人産業技術総合研究所 若手人材によるディープテック研究開発「覚醒プロジェクト」第１回（2023） [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html)
 * ソフトバンクAI人材育成スカラーシップ(2022)
 * ひよこ財団（2021）
 * キーエンス応援給付金（2020）
 
 
 #### 受賞（個人）
-* 2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
-* ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
-* 統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
-* 日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） [link](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
-* 優秀賞&学生投票賞, 東京大学MDSコンソーシアム データサイエンスコンテスト(2020) [link](http://www.mi.u-tokyo.ac.jp/contest2020.html)
-* 銅賞, 化学グランプリ(2016) [link](http://gp.csj.jp/media/common/gp2016results.pdf)
-* 3位, All Japan Diabolo Competition(2015)
+* 🥇2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
+* 🏆ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
+* 🏆統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
+* 🏆日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） [link](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
+* 🥈優秀賞&学生投票賞, 東京大学数理・データサイエンスコンソーシアム 第３回データサイエンスコンテスト(2020) [link](http://www.mi.u-tokyo.ac.jp/contest2020.html)
+* 🥉銅賞, 化学グランプリ(2016) [link](http://gp.csj.jp/media/common/gp2016results.pdf)
+* 🥉3位, All Japan Diabolo Competition(2015)
 
 #### 受賞（チーム）
-* 3位, 松尾研究所内部AIコンペティション(2022)
-* ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
-* ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
-* 最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
+* 🥉3位, 松尾研究所内部AIコンペティション(2022)
+* 🏆ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
+* 🏆ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
+* 🥇最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
 
 
 

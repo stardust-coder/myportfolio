@@ -58,6 +58,7 @@ title = "Publication"
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
     [✔︎arxiv](https://arxiv.org/abs/2306.01604)
 
+
 ##### Projects
 
 **LLM**
@@ -74,7 +75,7 @@ title = "Publication"
 * [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index)
 
 
-##### Talks（学会発表）
+##### Talks（研究発表）
 <br />
 
 

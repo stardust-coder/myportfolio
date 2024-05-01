@@ -17,43 +17,43 @@ Any collaboration or discussion is welcome !
 
 ![This is me][1]
 
-#### ★ News
+#### 🔥 News
 * Apr. 2024 🎉 Our paper was accepted in [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381).
 * Dec. 2023 🎉 My research was accepted as [KAKUSEI Project](https://www.aist.go.jp/aist_j/news/au20231208.html) by AIST.
 * Oct. 2023 🎉 Our paper was accepted in [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home) ! See you in New Orleans !
 * Nov. 2022 🎉 Our paper was accepted in [ACM SenSys 2022]() ! 
 * Feb. 2022 💪 Founded [EQUES Inc.]() as CTO ! 
 
-#### ★ Medical LLM Project
+#### 🏥 Medical LLM Project
 * [Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness) is the evaluation codes and leaderboard for medical LLMs.
 * [MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b) is the second Japanese medical LLM finetuned from Swallow-70b-instruct-hf.
 * [JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000) is the first Japanese medical LLM finetuned from Llama2.
 * [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM) is the curation of the latest and competent LLMs, including medical domain adaptation.
 
-#### ★ Statistics Project
+#### 🗒 Statistics Project
 * [Torus Graph Modelling implementation in Python](https://github.com/stardust-coder/torus_graph_modelling) is the implementation and adaptation of [Klein et al.(2020)](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-2/Torus-graphs-for-multivariate-phase-coupling-analysis/10.1214/19-AOAS1300.full) to human EEG series data.
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates the density function of minimum information copula, the most natural copula under predetermined constraints. 
 * [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index) is the Python implementation of [Sei (2016)](https://www.sciencedirect.com/science/article/pii/S0047259X16000269).
 
-#### ★ Fundings
+#### 💰 Fundings
 
 * 2024.4 - 2027.3, [RIKEN CBS Junior Research Associate](https://www.riken.jp/careers/programs/jra/)
 * 2024.4 - 2027.3, [IST-RA](https://www.i.u-tokyo.ac.jp/edu/financial-support/ist-ra/)
 * 2023.12 - 2024.7, [KAKUSEI]((https://www.aist.go.jp/aist_j/news/au20231208.html)), funded by AIST.
 * 2022.4 - 2023.3, JEES Softbank AI scholarship
 
-#### ★ Awards
+#### 🏆 Awards
 
 2024
 * 🥇 1st place, Sports Data Science Competition (MLB division), Japan Society of Statistics
 
 2023
-* 🏆 ISI Tokyo Memorial Award, Japan Society of Statistics
-* 🏆 Student Best Presentation Award, Japan Society of Statistics
+* ISI Tokyo Memorial Award, Japan Society of Statistics
+* Student Best Presentation Award, Japan Society of Statistics
 
 2021 
-* 🥉 Finalist, Fin SUM Business Contest 2021
-* 🏆 Yahoo Prize, Civictech Challenge Cup 2021 U-22
+* Finalist, Fin SUM Business Contest 2021
+* Yahoo Prize, Civictech Challenge Cup 2021 U-22
 
 2020
 * 🥇 1st place, AI/SUM Business Contest 2020
