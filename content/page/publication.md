@@ -3,10 +3,8 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Publication"
 +++
 
-[✔︎ Google Scholar](https://scholar.google.co.jp/citations?user=Dc_v0BsAAAAJ&hl=ja&oi=ao)
-
-[✔︎ arXiv](https://arxiv.org/search/?query=Issey+Sukeda&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
-
+[✔︎ Google Scholar](https://scholar.google.co.jp/citations?user=Dc_v0BsAAAAJ&hl=ja&oi=ao), 
+[✔︎ arXiv](https://arxiv.org/search/?query=Issey+Sukeda&searchtype=author&abstracts=show&order=-announced_date_first&size=50), 
 [✔︎ SpeakerDeck](https://speakerdeck.com/stardust11)
 
 ##### Reviewed Journal Papers （論文誌, 英文査読付のみ）
@@ -49,10 +47,13 @@ title = "Publication"
 
 ##### Preprints　（紀要）
 <br />
+1. Issey Sukeda and Tomonari Sei:  
+<u>**Frank copula is minimum information copula under fixed Kendall's τ**</u>
+[✔︎arxiv](https://arxiv.org/abs/2406.14814)
 
 1. Issey Sukeda, Risa Kishikawa, and Satoshi Kodera:  
 <u>**70B-parameter large language models in Japanese medical question-answering**</u>
-[✔︎arxiv(coming soon)]()
+[✔︎arxiv](https://arxiv.org/abs/2406.14882)
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
@@ -62,6 +63,7 @@ title = "Publication"
 ##### Projects
 
 **LLM**
+* [日本語医療LLM JMedLLM-7B-v1](https://huggingface.co/stardust-coder/jmedllm-7b-v1)
 * [日本語医療モデル評価用ベンチマーク / Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness)
 * [日本語医療LLM MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b)
 * [日本語医療QAデータセット JJSIMQA](https://huggingface.co/datasets/AIgroup-CVM-utokyohospital/JJSIMQA)
@@ -71,6 +73,7 @@ title = "Publication"
 
 
 **Statistics**
+* [EEG analysis via torus graph modelling with regularization]()
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula)
 * [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index)
 
@@ -78,7 +81,10 @@ title = "Publication"
 ##### Talks（研究発表）
 <br />
 
-
+1. [学術変革領域研究（A) 統一理論　第３回領域会議](https://unifiedtheory.jp/wp-content/uploads/2024/05/Poster-presenters-list-5.16.pdf), Wako, Japan, May 2024.
+    - Title: Application of Directional Statistics to Brain Data Analysis [Poster]()
+1. [Machine Learning Summer School](), Okinawa, Japan, March 2024.
+    - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ [Poster]()
 1. [言語処理学会第30回年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/), Kobe, Japan, March 2024.
     - Title: JMedLoRA：Instruction-tuningによる日本語大規模モデルの医療ドメイン適用 [Abstract](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-4.pdf)
 1. [Machine Learning Summer School](https://groups.oist.jp/mlss), Okinawa, Japan, March 2024.
@@ -91,10 +97,7 @@ title = "Publication"
     - Title: 「最小情報コピュラとしてのFrankコピュラ」
 1. [2023年度 統計関連学会連合大会](https://confit.atlas.jp/guide/event/jfssa2023/top), Kyoto, Japan, September 2023.
     - セッション：[一般講演 多変量解析(3)](https://confit.atlas.jp/guide/event/jfssa2023/session/4E13-17/tables?ZrzOORZGUO)
-    - Title: 最小情報コピュラとしてのFrankコピュラ [Abstract]()
-1. [研究室内部セミナー](), Tokyo, Japan, August 2023.
-    - with Dr. James Ng
-    - Title: Minimum information copula under fixed Kendall’s rank correlation
+    - Title: 最小情報コピュラとしてのFrankコピュラ
 1. [64th ISI World Statistics Congress 2023](https://www.isi2023.org/conferences/session/543/details/), Ottawa, Canada, July 2023.
     - Contributed Paper Session
     - Title: Minimum information copula under fixed Kendall’s rank correlation [Abstract](https://www.isi2023.org/media/abstracts/ottawa-2023_dda16125a1b0f0819b3a2b3531b4a631.pdf)
@@ -103,7 +106,7 @@ title = "Publication"
     - Title: 周波数領域での最適輸送による心電図データ拡張
 1. [２０２３年度人工知能学会全国大会（第３７回）](https://confit.atlas.jp/guide/event/jsai2023/session/1N01-05/detail?lang=ja), Kumamoto, Japan, June 2023.
     - 一般セッション
-    - Title: 周波数領域での最適輸送による心電図データ拡張 [paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1N3GS1004/_pdf)
+    - Title: 周波数領域での最適輸送による心電図データ拡張 [Paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1N3GS1004/_pdf)
 1. [日本応用数理学会第19回研究部会連合発表会 第8回学生研究発表](http://wakate.jsiam.org/?p=128), Okayama, Japan, March 2023.
     - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ
 1. [第17回 日本統計学会春季集会](https://jss2023spring.ywstat.jp), Tokyo, Japan,  March 2023.

@@ -9,11 +9,18 @@ title = "Bookmark"
 - Nelsen(2007)
 - Joe(2014)
 
-#### まず読むべき文献
+#### まず読むとよい文献
 - [Copulas: Tales and facts](https://www.uio.no/studier/emner/matnat/math/STK9200/h21/mikosch2006_article_copulastalesandfacts.pdf)
 - [Everything You Always Wanted to Know about Copula Modeling but Were Afraid to Ask](https://www.uni-muenster.de/Physik.TP/~lemm/seminarSS08/JHE-2007.pdf)(Genest, 2007)
 - [リスク解析における接合関数（塚原2021）](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_101/_pdf)
 - [Copulas for finance(Durrleman, Roncalli)](http://www.thierry-roncalli.com/download/copula-survey.pdf)
+
+#### 最小情報コピュラ・最小情報従属モデル
+- [Bedford and Wilson, 2014](https://pure.strath.ac.uk/ws/portalfiles/portal/30982794/Preprint.pdf)
+- [最小情報コピュラとその周辺(Sei, 2021)](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_75/_pdf)
+- [Samo,2021](http://proceedings.mlr.press/v130/kom-samo21a/kom-samo21a.pdf)
+- [A proper scoring rule for minimum information copulas(Chen and Sei, 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0047259X23001173)
+- [On the minimum information checkerboard copulas under fixed Kendall's rank correlation(Sukeda and Sei, 2023)](https://arxiv.org/abs/2306.01604)
 
 
 #### コピュラをPythonで扱う
@@ -21,18 +28,19 @@ title = "Bookmark"
 - [copulae](https://github.com/DanielBok/copulae) 次に有名なライブラリ
 - [コピュラ入門 Tensorflowによる解説](https://www.tensorflow.org/probability/examples/Gaussian_Copula?hl=ja)
 
-#### データソース
-- [【Python】 経済指標・財務諸表データ取得完全攻略](https://oeconomicus.jp/2021/05/python-economicdata/)
+#### 有用なデータソース
+- [pandas datareader](https://pandas-datareader.readthedocs.io)
+    - 使い方：[【Python】 経済指標・財務諸表データ取得完全攻略](https://oeconomicus.jp/2021/05/python-economicdata/)
+
+### 時系列モデル
+- [Brockwell and Davis]()
+- [ARモデルの推定（北川先生）](http://www.mi.u-tokyo.ac.jp/mds-oudan/lecture_document_2019_math7/時系列解析（６）_2019.pdf)
+
+
 
 ### 方向統計学
-- 加藤先生 [円周上のコーシー分布と関連した統計モデル](https://www.jstage.jst.go.jp/article/jjssj/46/1/46_85/_pdf)
+- Kato [円周上のコーシー分布と関連した統計モデル](https://www.jstage.jst.go.jp/article/jjssj/46/1/46_85/_pdf)
 - Kent and Tyler(1988) [巻き込みコーシー分布の最尤推定](https://www.tandfonline.com/doi/abs/10.1080/02664768800000029)
-- 
-
-
-### その他統計関連
-- [第 3 章「確 率 過 程 の 分 布 収 束」](https://www-cc.gakushuin.ac.jp/~20130021/ecmr/chap3-2013.pdf)
-- []()
 
 
 ### 学会・雑誌・研究者
@@ -48,3 +56,7 @@ title = "Bookmark"
 - [金融情報学ブックマーク（和泉先生）](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol37-no1/)
 - [データサイエンスの魅力](https://engineer-lab.findy-code.io/jobs-in-statistics)
 - [結局、統計学と機械学習は何が違うのか？](https://exploratory.io/note/kanaugust/2200910721280297)
+
+#### DevInterp
+- https://www.youtube.com/@Devinterp
+- https://github.com/timaeus-research/devinterp

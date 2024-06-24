@@ -111,6 +111,7 @@ title = "About me"
 * 文化祭2015 中夜祭 [YouTube](https://www.youtube.com/watch?v=BbQ4kZXcXEQ)
 * U-23サミット2020 学生登壇
 * 東大新聞「学生生活紹介」 [link](https://www.todaishimbun.org/koukigakuseiseikatsu20210619/)
+* 情報系学科対談｜東京大学工学部合同企画 [link](https://note.com/kogakubu_godo/n/n1813af70510b)
 
 ##### Misc.
 * 科学の甲子園 [link](https://www.gakko.otsuka.tsukuba.ac.jp/wp/wp-content/uploads/2017/02/ff28f9fc78e86512869a2242bff5376c.pdf)
