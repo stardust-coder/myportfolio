@@ -7,7 +7,7 @@ draft = false
 weight = 4
 +++
 
-産総研の『覚醒』プロジェクトに採択され研究代表者を務めた, 医療LMMの研究
+産総研の『覚醒』プロジェクト
 <!--more-->
 
 [ニュースリリース](https://www.aist.go.jp/aist_j/news/au20231208.html)

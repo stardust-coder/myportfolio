@@ -47,7 +47,7 @@ title = "About me"
 * 🥉銅賞, 化学グランプリ(2016) [link](http://gp.csj.jp/media/common/gp2016results.pdf)
 * 🥉3位, All Japan Diabolo Competition(2015)
 
-#### 受賞（チーム）
+##### 受賞（チーム）
 * 🥉3位, 松尾研究所内部AIコンペティション(2022)
 * 🏆ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
 * 🏆ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
