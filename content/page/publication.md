@@ -47,6 +47,11 @@ title = "Publication"
 
 ##### Preprints　（紀要）
 <br />
+
+1. Issey Sukeda and Tomonari Sei:  
+<u>**Relative local dependence of bivariate copulas**</u>
+[✔︎arxiv (coming soon...)]()
+
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Frank copula is minimum information copula under fixed Kendall's τ**</u>
 [✔︎arxiv](https://arxiv.org/abs/2406.14814)
@@ -81,6 +86,15 @@ title = "Publication"
 ##### Talks（研究発表）
 <br />
 
+1. [Time Series, Random Fields and beyong](https://www.uni-ulm.de/mawi/mawi-stochastik/allgemeines/aktuelles/fall-school-time-series-random-fields-and-beyond-2024/), Ulm, Japan, September 2024.
+    - Title: Torus graph modelling for EEG analysis
+1. [ベイズ研究集会 2024](), Sapporo, Japan, September 2024.
+    - Title: Torus graph modelling for EEG analysis
+1. [統計関連連合大会2024](), Tokyo, Japan, September 2024.
+    - コンペティションセッション
+    - Title: コピュラの relative local dependence
+1. [統計サマースクール 2024](), Yuzawa, Japan, July 2024.
+    - Title: Torus graph modelling for EEG analysis
 1. [学術変革領域研究（A) 統一理論　第３回領域会議](https://unifiedtheory.jp/wp-content/uploads/2024/05/Poster-presenters-list-5.16.pdf), Wako, Japan, May 2024.
     - Title: Application of Directional Statistics to Brain Data Analysis [Poster]()
 1. [Machine Learning Summer School](), Okinawa, Japan, March 2024.

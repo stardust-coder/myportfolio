@@ -9,27 +9,28 @@ title = "About me"
 ![This is me][1]
 
 
-#### お知らせ
+##### お知らせ
 
+* 🎉 2024年7月 覚醒プロジェクトに関して, [ASCII](https://ascii.jp/elem/000/004/207/4207365/)に取材いただきました！
 * 🎉 2024年4月 [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381)に採録されました.
 * 🎉 2024年4月 博士後期課程に進学しました.
 * 🎉 2024年1月 [スポーツデータサイエンスコンテスト](https://sports.ywebsys.net/news/archives/0024/)で優秀賞をいただきました.
 
-#### 略歴
+##### 略歴
 
 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTO.  
 ソニーCSLやPFNでの研究インターン, 松尾研プロジェクトマネージャーの経験を経て, 現在は数理統計や医療LLMの研究を行う.  
 ソフトバンクAI人材奨学生. 産総研「覚醒プロジェクト」研究代表者.
 
-#### 研究内容
+##### 研究内容
 
 最近はコピュラ統計学と最適化手法およびその生体時系列への応用に興味を持っています.  
 また他には, 医療AI分野, 特にLLM（大規模言語モデル）にも取り組んでいます.
 
-#### 獲得研究費
-* 若手人材によるディープテック研究開発「覚醒プロジェクト」第１回（2023） [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html)
+##### 獲得研究費
+* 若手人材によるディープテック研究開発「覚醒プロジェクト」第１回（2023） [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html) [取材](https://ascii.jp/elem/000/004/207/4207365/)
 
-#### 経済支援
+##### 経済支援
 * 理化学研究所 ジュニアリサーチアソシエイト（2024）
 * IST-RA（2024）
 * ソフトバンクAI人材育成スカラーシップ(2022)
@@ -37,7 +38,7 @@ title = "About me"
 * キーエンス応援給付金（2020）
 
 
-#### 受賞（個人）
+##### 受賞（個人）
 * 🥇2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
 * 🏆ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
 * 🏆統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
@@ -76,7 +77,7 @@ title = "About me"
 
 ---
 
-#### 学生時代の活動
+##### 学生時代の活動
 ##### プロジェクト
 * [東大MOCHA](https://mocha.t.u-tokyo.ac.jp) 
     - リサーチチーム
@@ -120,7 +121,7 @@ title = "About me"
 * マスフェスタ[link](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
 * (毎日パソコン入力コンクール 第１５回６月大会 第II類英単語高校生 ２位)[link](https://maipaso.net/past_ranking/)
 
-#### リンク
+##### リンク
 [東京大学 計数数理５研](https://www.or.mist.i.u-tokyo.ac.jp)  
 [東京大学 計数数理４研](http://www.stat.t.u-tokyo.ac.jp/index-j.html)    
 [東京大学 数理データ科学研究室](https://www.keisu.t.u-tokyo.ac.jp/lab/mist/data_lab_page/)    
