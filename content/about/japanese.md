@@ -15,6 +15,8 @@ title = "About me"
 * 🎉 2024年7月 覚醒プロジェクトに関して, [ASCII](https://ascii.jp/elem/000/004/207/4207365/)に取材いただきました！
 * 🎉 2024年4月 [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381)に採録されました.
 
+<br> 
+
 ##### 略歴
 
 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTO.  
@@ -55,10 +57,13 @@ title = "About me"
 * 🥇最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
 
 
-##### その他過去の活動
+##### その他職歴
 - [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024Fall](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) Application of LLM (Domain Specific LLM) 担当講師
+- [東京大学データサイエンスコモンズ](http://www.mi.u-tokyo.ac.jp/dscommons/) TA
 - [東大エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) TA
-- 
+- [株式会社松尾研究所](https://matsuo-institute.com) プロジェクトマネジャー
+- [東京大学医学部附属病院](https://cardiovasc.m.u-tokyo.ac.jp/study/ai) 学術専門職員 
+- [インクルーシブ工学連携機構（RIISE）](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) 研究協力員 
 
 
 
