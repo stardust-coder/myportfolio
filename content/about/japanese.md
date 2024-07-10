@@ -11,10 +11,9 @@ title = "About me"
 
 ##### お知らせ
 
+* 🎉 2024年7月 [松尾研LLM講座2024](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/)の募集がスタートしました。一部講師を務めさせていただきます。
 * 🎉 2024年7月 覚醒プロジェクトに関して, [ASCII](https://ascii.jp/elem/000/004/207/4207365/)に取材いただきました！
 * 🎉 2024年4月 [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381)に採録されました.
-* 🎉 2024年4月 博士後期課程に進学しました.
-* 🎉 2024年1月 [スポーツデータサイエンスコンテスト](https://sports.ywebsys.net/news/archives/0024/)で優秀賞をいただきました.
 
 ##### 略歴
 
@@ -24,13 +23,15 @@ title = "About me"
 
 ##### 研究内容
 
-最近はコピュラ統計学と最適化手法およびその生体時系列への応用に興味を持っています.  
+最近はコピュラ統計学と最適化手法に興味を持っています.  
 また他には, 医療AI分野, 特にLLM（大規模言語モデル）にも取り組んでいます.
 
 ##### 獲得研究費
+
 * 若手人材によるディープテック研究開発「覚醒プロジェクト」第１回（2023） [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html) [取材](https://ascii.jp/elem/000/004/207/4207365/)
 
 ##### 経済支援
+
 * 理化学研究所 ジュニアリサーチアソシエイト（2024）
 * IST-RA（2024）
 * ソフトバンクAI人材育成スカラーシップ(2022)
@@ -52,6 +53,12 @@ title = "About me"
 * 🏆ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) [link]()
 * 🏆ヤフー賞, CivicTech Challenge Cup (2021) [link](https://ccc2021.code4japan.org)
 * 🥇最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
+
+
+##### その他過去の活動
+- [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024Fall](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) Application of LLM (Domain Specific LLM) 担当講師
+- [東大エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) TA
+- 
 
 
 
