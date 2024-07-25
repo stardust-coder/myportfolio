@@ -45,7 +45,7 @@ title = "Publication"
     , Proceedings of the Twenty-Third International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, 253-258, 2022. [✔︎paper](https://dl.acm.org/doi/proceedings/10.1145/3492866)
 
 
-##### Preprints　（紀要）
+##### Preprint （紀要）
 <br />
 
 1. Issey Sukeda and Tomonari Sei:  
