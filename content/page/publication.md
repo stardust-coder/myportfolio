@@ -50,7 +50,7 @@ title = "Publication"
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Relative local dependence of bivariate copulas**</u>
-[✔︎arxiv (coming soon...)]()
+[✔︎arxiv](https://arxiv.org/abs/2407.16948)
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Frank copula is minimum information copula under fixed Kendall's τ**</u>
