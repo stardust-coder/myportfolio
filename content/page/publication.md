@@ -86,19 +86,19 @@ title = "Publication"
 ##### Talks（研究発表）
 <br />
 
-1. [Time Series, Random Fields and beyong](https://www.uni-ulm.de/mawi/mawi-stochastik/allgemeines/aktuelles/fall-school-time-series-random-fields-and-beyond-2024/), Ulm, Japan, September 2024.
+1. [Time Series, Random Fields and beyong](https://www.uni-ulm.de/mawi/mawi-stochastik/allgemeines/aktuelles/fall-school-time-series-random-fields-and-beyond-2024/), Ulm, Germany, September 2024.
     - Title: Torus graph modelling for EEG analysis
 1. [ベイズ研究集会 2024](), Sapporo, Japan, September 2024.
     - Title: Torus graph modelling for EEG analysis
-1. [統計関連連合大会2024](), Tokyo, Japan, September 2024.
+1. [統計関連連合大会2024](https://pub.confit.atlas.jp/ja/event/jfssa2024), Tokyo, Japan, September 2024.
     - コンペティションセッション
-    - Title: コピュラの relative local dependence
-1. [統計サマースクール 2024](), Yuzawa, Japan, July 2024.
+    - Title: コピュラのrelative local dependence
+1. [統計サマースクール 2024](https://sites.google.com/view/ysg2024), Yuzawa, Japan, July 2024.
     - Title: Torus graph modelling for EEG analysis
 1. [学術変革領域研究（A) 統一理論　第３回領域会議](https://unifiedtheory.jp/wp-content/uploads/2024/05/Poster-presenters-list-5.16.pdf), Wako, Japan, May 2024.
     - Title: Application of Directional Statistics to Brain Data Analysis [Poster]()
 1. [Machine Learning Summer School](), Okinawa, Japan, March 2024.
-    - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ [Poster]()
+    - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ 
 1. [言語処理学会第30回年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/), Kobe, Japan, March 2024.
     - Title: JMedLoRA：Instruction-tuningによる日本語大規模モデルの医療ドメイン適用 [Abstract](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-4.pdf)
 1. [Machine Learning Summer School](https://groups.oist.jp/mlss), Okinawa, Japan, March 2024.
