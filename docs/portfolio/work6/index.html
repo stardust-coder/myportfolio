@@ -115,6 +115,7 @@ if (!doNotTrack) {
         <h1>Medical AI</h1>
         <p>医療AI・医療LLMの研究開発</p>
 <!-- ---
+1. [7B パラメタの日本語医療LLMの作成](#anchor5)
 1. [医療LLMのベンチマークの作成](#anchor4)  
 1. [70Bパラメタの日本語医療LLM開発](#anchor3)    
 1. [OpenCALM(7B)・Llama2(70B)の日本語医療適応](#anchor2)  
@@ -122,9 +123,9 @@ if (!doNotTrack) {
 --- -->
 <p><a id="anchor0"></a></p>
 <h4 id="医療llmやデータセットの一覧作成随時更新">医療LLMやデータセットの一覧作成（随時更新）</h4>
-<pre tabindex="0"><code>主要なLLMリリースの最新ニュースをまとめた一覧表. 主に性能が良いとされているものや将来性がありそうなモデルを取り上げる.
-手が行き届いていない部分もあり.
+<pre tabindex="0"><code>主要なLLMリリースの最新ニュースをまとめた一覧表. 主に性能が良いとされているものや将来性がありそうなモデルを取り上げている.
 </code></pre><ol>
+<li><a href="https://github.com/stardust-coder/jmed-data-for-llm">JMedData4LLM:Curation of Japanese Medical Data Sources for LLM development</a></li>
 <li><a href="https://github.com/stardust-coder/awesome-latest-LLM">Awesome latest LLMs</a>
 <ul>
 <li>ページ後半に医療ドメインについて記載.</li>
@@ -136,15 +137,16 @@ if (!doNotTrack) {
 <pre tabindex="0"><code>最新のベースモデルを利用し, 日本語医療テキストを用いた学習を施した7BパラメタLLMの作成.  
 準備中...
 </code></pre><ol>
-<li><a href="https://huggingface.co/stardust-coder/jmedllm-7b-v1">学習済みモデル(huggingface)</a></li>
+<li><a href="">論文：Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources (Coming soon&hellip;)</a></li>
+<li><a href="https://huggingface.co/stardust-coder/jmedllm-7b-v1">学習済みモデル(huggingface, 現在非公開)</a></li>
 </ol>
 <p><a id="anchor4"></a></p>
 <h4 id="医療llmのベンチマークの作成">医療LLMのベンチマークの作成</h4>
-<pre tabindex="0"><code>医療LLMのベンチマークコードとリーダーボード（のたたき台）. 日英対訳のIgakuQAの正答率を評価する目的.
-プロンプトで容易に出力や精度が変化したりすることもあり, フェアな評価手法については悩ましく, 研究途中.
+<pre tabindex="0"><code>医療LLMのベンチマーク評価プログラムとリーダーボードの作成. 日英対訳の医学質問応答の正答率を評価する目的.　　
+プロンプトで容易に出力や精度が変化したりすることもあり, フェアな評価手法については悩ましい.
 </code></pre><p>論点<br>
 ・Q&amp;Aの５択問題を解かせるので良いのか.  国家試験でいいのか.<br>
-・Q&amp;Aの５択問題の正解率を評価するにはどうするのが良いか. ← 最近はhuggingface等を通して統一的になりつつ</p>
+・Q&amp;Aの５択問題の正解率を評価するにはどうするのが良いか. ← 最近はhuggingface等を通して統一的になりつつある.</p>
 <ol>
 <li><a href="https://github.com/stardust-coder/japanese-lm-med-harness">医療LLM評価用ベンチマーク / Japanese Medical Language Model Evaluation Harness</a>
 <ul>
@@ -159,15 +161,15 @@ if (!doNotTrack) {
 <pre tabindex="0"><code>東工大よりリリースされた日本語70BモデルであるSwallowの医療チューニング. 結果, 日本医師国家試験の正答率が50%近くまで到達. 一方で, GPT-4は8~9割正答できるという報告があり, まだまだ発展の余地しかない状況.
 </code></pre><ol>
 <li><a href="https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b">学習済みモデル(huggingface)</a></li>
-<li><a href="https://arxiv.org/abs/2406.14882">70B-parameter large language models in Japanese medical question-answering</a></li>
+<li><a href="https://arxiv.org/abs/2406.14882">論文：70B-parameter large language models in Japanese medical question-answering</a></li>
 </ol>
 <p><a id="anchor2"></a></p>
 <h4 id="opencalm7bllama270bの日本語医療適応">OpenCALM(7B)・Llama2(70B)の日本語医療適応</h4>
 <pre tabindex="0"><code>日本で初めてLLMの医療チューニングへの挑戦.
 </code></pre><ol>
 <li><a href="https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000">学習済みモデル(huggingface)</a></li>
-<li><a href="https://arxiv.org/abs/2310.10083">JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning</a></li>
-<li><a href="https://accscience.com/journal/AIH/articles/online_first/1381">Development and analysis of medical instruction-tuning for Japanese large language models</a></li>
+<li><a href="https://arxiv.org/abs/2310.10083">論文：JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning</a></li>
+<li><a href="https://accscience.com/journal/AIH/articles/online_first/1381">論文：Development and analysis of medical instruction-tuning for Japanese large language models</a></li>
 </ol>
 <p><a id="anchor1"></a></p>
 <h4 id="心電図から心疾患や年齢予測を行うaiモデル">心電図から心疾患や年齢予測を行うAIモデル</h4>

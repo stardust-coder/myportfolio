@@ -22,11 +22,22 @@ title = "Bookmark"
 - [A proper scoring rule for minimum information copulas(Chen and Sei, 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0047259X23001173)
 - [On the minimum information checkerboard copulas under fixed Kendall's rank correlation(Sukeda and Sei, 2023)](https://arxiv.org/abs/2306.01604)
 
+#### 色々なコピュラモデル
+- [Joe-Claytonコピュラ](https://ftp1.economics.smu.edu/RePEc/smu/wpaper/2008/Hu/Hu-2008-09.pdf)
 
-#### コピュラをPythonで扱う
+
+#### 裾従属性
+- [極値での従属性および非対称性と信用ポートフォリオリスク](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_157/_pdf)
+
+
+#### コピュラをPythonやRで扱う
 - [copulas](https://sdv.dev/Copulas/) 最も有名なライブラリ
 - [copulae](https://github.com/DanielBok/copulae) 次に有名なライブラリ
+- [statsmodels](https://www.statsmodels.org/dev/distributions.html#copula)
 - [コピュラ入門 Tensorflowによる解説](https://www.tensorflow.org/probability/examples/Gaussian_Copula?hl=ja)
+- [BBコピュラたち](https://mediatum.ub.tum.de/doc/1691185/sxg7ezl0gnu5fjc7kqjxway43.pdf)
+
+
 
 #### 有用なデータソース
 - [pandas datareader](https://pandas-datareader.readthedocs.io)
