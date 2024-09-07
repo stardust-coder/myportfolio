@@ -10,7 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
-
+* 🎉 2024年9月 統計関連連合大会2024にて最優秀報告賞をいただきました！
 * 🎉 2024年7月 [松尾研LLM講座2024](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/)の募集がスタートしました。一部講師を務めさせていただきます。
 * 🎉 2024年7月 覚醒プロジェクトに関して, [ASCII](https://ascii.jp/elem/000/004/207/4207365/)に取材いただきました！
 * 🎉 2024年4月 [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381)に採録されました.
@@ -42,6 +42,7 @@ title = "About me"
 
 
 ##### 受賞（個人）
+* 🏆統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報]()
 * 🥇2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
 * 🏆ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
 * 🏆統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
