@@ -35,8 +35,8 @@ weight = 4
 #### 7B パラメタの日本語医療LLMの作成
 
 ```
-最新のベースモデルを利用し, 日本語医療テキストを用いた学習を施した7BパラメタLLMの作成.  
-準備中...
+最新のベースモデルを利用し, 日本語医療テキストを用いた学習を施した7BパラメタLLMの作成.    
+本取り組みは産総研「覚醒プロジェクト」の支援を受けています.
 ```
 
 1. [論文：Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources (Coming soon...)]()

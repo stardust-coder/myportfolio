@@ -12,7 +12,7 @@ title = "Publication"
 
 1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:  
 <u>**Development and analysis of medical instruction-tuning for Japanese large language models**</u>
-, Artificial Intellignece for Health 2695, 2024. [✔︎paper](https://accscience.com/journal/AIH/articles/online_first/1381)
+, Artificial Intellignece for Health 1(2), 107-116, 2024. [✔︎paper](https://accscience.com/journal/AIH/articles/online_first/1381)
 
 1. Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:  
 <u>**A study on modularity density maximization: Column generation acceleration and computational complexity analysis**</u> 
@@ -48,6 +48,10 @@ title = "Publication"
 ##### Preprint （紀要）
 <br />
 
+1. Issey Sukeda:  
+<u>**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**</u>
+[✔︎arxiv]()
+
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Relative local dependence of bivariate copulas**</u>
 [✔︎arxiv](https://arxiv.org/abs/2407.16948)
@@ -68,17 +72,17 @@ title = "Publication"
 ##### Projects
 
 **LLM**
-* [日本語医療LLM JMedLLM-7B-v1](https://huggingface.co/stardust-coder/jmedllm-7b-v1)
+* [日本語医療LLM JMedLLM-7B-v1](https://huggingface.co/stardust-coder/jmedllm-7b-v1)・・・現在非公開
 * [日本語医療モデル評価用ベンチマーク / Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness)
 * [日本語医療LLM MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b)
-* [日本語医療QAデータセット JJSIMQA](https://huggingface.co/datasets/AIgroup-CVM-utokyohospital/JJSIMQA)
+* [日本語医療QAデータセット JJSIMQA](https://huggingface.co/datasets/AIgroup-CVM-utokyohospital/JJSIMQA)・・・現在非公開
 * [日本語医療LLM JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000)
 * [最新LLMモデルまとめ awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM)
 * [LLama2-70Bの日本語インストラクションチューニングモデル](https://huggingface.co/AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese)
 
 
 **Statistics**
-* [EEG analysis via torus graph modelling with regularization]()
+* [Regularized score matching of torus graph model applied to EEG phase-based connectivity analyses](https://github.com/stardust-coder/torus_graph_modelling)
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula)
 * [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index)
 
@@ -86,7 +90,12 @@ title = "Publication"
 ##### Talks（研究発表）
 <br />
 
-1. [Time Series, Random Fields and beyong](https://www.uni-ulm.de/mawi/mawi-stochastik/allgemeines/aktuelles/fall-school-time-series-random-fields-and-beyond-2024/), Ulm, Germany, September 2024.
+1. [(heading) FDIG 2025](https://sites.google.com/view/fdig2025/), Tokyo, Japan, March 2025.
+    - Title: On the comparison between the minimum information copulas under fixed rank correlations
+1. [(heading) RIKEN CBS Retreat 2024](), Gotenba, Japan, November 2024.
+    - Poster session [Poster]()
+    - Title: Regularized score matching of torus graph model applied to EEG phase-based connectivity analyses
+1. [(heading) Time Series, Random Fields and Beyond](https://www.uni-ulm.de/mawi/mawi-stochastik/allgemeines/aktuelles/fall-school-time-series-random-fields-and-beyond-2024/), Ulm, Germany, September 2024.
     - Title: Torus graph modelling for EEG analysis
 1. [ベイズ研究集会 2024](https://sites.google.com/view/ssugasawa/summer-symposium2024), Sapporo, Japan, September 2024.
     - Title: Regularized score matching of torus graph model applied to EEG phase-based connectivity analyses
