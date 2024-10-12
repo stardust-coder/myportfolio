@@ -10,11 +10,8 @@ title = "About me"
 
 
 ##### お知らせ
-* 🎉 2024年9月 統計関連連合大会2024にて最優秀報告賞をいただきました！
-* 🎉 2024年7月 [松尾研LLM講座2024](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/)の募集がスタートしました。一部講師を務めさせていただきます。
-* 🎉 2024年7月 覚醒プロジェクトに関して, [ASCII](https://ascii.jp/elem/000/004/207/4207365/)に取材いただきました！
-* 🎉 2024年4月 [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381)に採録されました.
-
+* 🎉 2024.10 単著論文がNeurIPS Workshop 2024 AIM-FMにAcceptされました！
+* 🎉 2024.9 共著論文がACM SenSys 2024にAcceptされました！
 <br> 
 
 ##### 略歴

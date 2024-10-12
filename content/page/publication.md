@@ -14,6 +14,7 @@ title = "Publication"
 <u>**Development and analysis of medical instruction-tuning for Japanese large language models**</u>
 , Artificial Intellignece for Health 1(2), 107-116, 2024. [✔︎paper](https://accscience.com/journal/AIH/articles/online_first/1381)
 
+
 1. Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:  
 <u>**A study on modularity density maximization: Column generation acceleration and computational complexity analysis**</u> 
     , European Journal of Operational Research 309, pp. 516–528, 2023. [✔︎paper](https://www.sciencedirect.com/science/article/pii/S037722172300111X) [✔︎arXiv](https://arxiv.org/abs/2206.10901)
@@ -26,6 +27,14 @@ title = "Publication"
 ##### Reviewed International Conference Proceedings （国際学会, 査読付のみ）
 <br />
 
+1. Issey Sukeda:  
+<u>**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**</u>
+    , NeurIPS Workshop Advancements in Medical Foundation Models, 2024.  
+    [✔︎arxiv](https://arxiv.org/pdf/2409.11783)
+
+1. Hiroaki Murakami, Takuya Sasatani, Masanori Sugimoto, Issey Sukeda, Yukiya Mita, Yoshihiro Kawahara:  
+<u>**SyncEcho: Echo-Based Single Speaker Time Offset Estimation for Time-of-Flight Localization**</u>
+    , Proceedings of the 22th ACM Conference on Embedded Networked Sensor Systems, 2024.  
 
 1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, and Satoshi Kodera:  
 <u>**JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**</u>
@@ -48,9 +57,6 @@ title = "Publication"
 ##### Preprint （紀要）
 <br />
 
-1. Issey Sukeda:  
-<u>**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**</u>
-[✔︎arxiv]()
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Relative local dependence of bivariate copulas**</u>

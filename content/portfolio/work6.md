@@ -39,7 +39,7 @@ weight = 4
 本取り組みは産総研「覚醒プロジェクト」の支援を受けています.
 ```
 
-1. [論文：Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources (Coming soon...)]()
+1. [論文：Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources](https://arxiv.org/pdf/2409.11783)
 1. [学習済みモデル(huggingface, 現在非公開)](https://huggingface.co/stardust-coder/jmedllm-7b-v1)
 
 
