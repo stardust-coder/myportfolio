@@ -11,30 +11,28 @@ title = "About me"
 
 ##### お知らせ
 * 🎉 2024.10 主著論文がStatistics & Probability LettersにAcceptされました！
+* 🎉 2024.10 EQUESがGENIAC事業に採択されました！
 * 🎉 2024.10 単著論文がNeurIPS Workshop 2024 AIM-FMにAcceptされました！
 * 🎉 2024.9 共著論文がACM SenSys 2024にAcceptされました！
 <br> 
 
 ##### 略歴
 
-東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTO.  
+東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTOを務める.  
 ソニーCSLやPFNでの研究インターン, 松尾研プロジェクトマネージャーの経験を経て, 現在は数理統計や医療LLMの研究を行う.  
-ソフトバンクAI人材奨学生. 産総研「覚醒プロジェクト」研究代表者.
+産総研「覚醒プロジェクト」研究代表者. 
 
 ##### 研究内容
 
 最近はコピュラ統計学と最適化手法に興味を持っています.  
 また他には, 医療AI分野, 特にLLM（大規模言語モデル）にも取り組んでいます.
 
-##### 獲得研究費
+##### 獲得支援
 
+* 理化学研究所 ジュニアリサーチアソシエイト（2024~）
+* IST-RA（2024~）
 * 若手人材によるディープテック研究開発「覚醒プロジェクト」第１回（2023） [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html) [取材](https://ascii.jp/elem/000/004/207/4207365/)
-
-##### 経済支援
-
-* 理化学研究所 ジュニアリサーチアソシエイト（2024）
-* IST-RA（2024）
-* ソフトバンクAI人材育成スカラーシップ(2022)
+* JEES・ソフトバンクAI人材育成スカラーシップ(2022)
 * ひよこ財団（2021）
 * キーエンス応援給付金（2020）
 
@@ -131,18 +129,6 @@ title = "About me"
 * 化学グランプリ [link1](http://gp.csj.jp/results/gp2016.html) [link2](https://www.gakko.otsuka.tsukuba.ac.jp/wp/wp-content/uploads/2015/04/2c39a0e414cf58ff3186e3c67899feb7.pdf)
 * マスフェスタ[link](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
 * (毎日パソコン入力コンクール 第１５回６月大会 第II類英単語高校生 ２位)[link](https://maipaso.net/past_ranking/)
-
-##### リンク
-[東京大学 計数数理５研](https://www.or.mist.i.u-tokyo.ac.jp)  
-[東京大学 計数数理４研](http://www.stat.t.u-tokyo.ac.jp/index-j.html)    
-[東京大学 数理データ科学研究室](https://www.keisu.t.u-tokyo.ac.jp/lab/mist/data_lab_page/)    
-[東京大学 森田研究室](http://www.hsd.k.u-tokyo.ac.jp/contents/member.html)   
-[東京大学 川原研究室](https://www.akg.t.u-tokyo.ac.jp)   
-[東大病院 循環器内科 AIグループ](https://cardiovasc.m.u-tokyo.ac.jp/study/ai)    
-[株式会社 松尾研究所](https://matsuo-institute.com)  
-[Preferred Networks](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)    
-[東京大学エクステンション](https://www.utokyo-ext.co.jp)  
-[東京大学　データサイエンスコモンズ](http://www.mi.u-tokyo.ac.jp/dscommons/index.html)  
 
 [1]: /img/me.png
 
