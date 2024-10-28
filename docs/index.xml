@@ -98,7 +98,7 @@ Copulas and information Graphical modelling and directional statistics for EEG J
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/about/japanese/</guid>
-      <description>東京大学 大学院情報理工学系研究科 株式会社EQUES Co-Founder&amp;amp;CTO お知らせ 🎉 2024.10 単著論文がNeurIPS Workshop 2024 AIM-FMにAcceptされました！ 🎉 2024.9 共著論文がACM SenSys 2024にAcceptされました！ 略歴 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTO.
+      <description>東京大学 大学院情報理工学系研究科 株式会社EQUES Co-Founder&amp;amp;CTO お知らせ 🎉 2024.10 主著論文がStatistics &amp;amp; Probability LettersにAcceptされました！ 🎉 2024.10 単著論文がNeurIPS Workshop 2024 AIM-FMにAcceptされました！ 🎉 2024.9 共著論文がACM SenSys 2024にAcceptされました！ 略歴 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTO.
 ソニーCSLやPFNでの研究インターン, 松尾研プロジェクトマネージャーの経験を経て, 現在は数理統計や医療LLMの研究を行う.
 ソフトバンクAI人材奨学生. 産総研「覚醒プロジェクト」研究代表者.
 研究内容 最近はコピュラ統計学と最適化手法に興味を持っています.
@@ -122,10 +122,11 @@ Copulas and information Graphical modelling and directional statistics for EEG J
       
       <guid>https://stardust-coder.github.io/myportfolio/page/publication/</guid>
       <description>✔︎ Google Scholar, ✔︎ arXiv, ✔︎ SpeakerDeck
-Reviewed Journal Papers （論文誌, 英文査読付のみ） Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:
+Reviewed Journal Papers （論文誌, 英文査読付のみ） Issey Sukeda and Tomonari Sei:
+Frank copula is minimum information copula under fixed Kendall&amp;rsquo;s τ , Statistics &amp;amp; Probability Letters, 2024. ✔︎arxiv ✔︎paper
+Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:
 Development and analysis of medical instruction-tuning for Japanese large language models , Artificial Intellignece for Health 1(2), 107-116, 2024. ✔︎paper
-Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:
-A study on modularity density maximization: Column generation acceleration and computational complexity analysis , European Journal of Operational Research 309, pp. 516–528, 2023. ✔︎paper ✔︎arXiv</description>
+Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:</description>
     </item>
     
   </channel>

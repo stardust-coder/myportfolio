@@ -10,6 +10,10 @@ title = "Publication"
 ##### Reviewed Journal Papers （論文誌, 英文査読付のみ）
 <br />
 
+1. Issey Sukeda and Tomonari Sei:  
+<u>**Frank copula is minimum information copula under fixed Kendall's τ**</u>
+, Statistics & Probability Letters, 2024. [✔︎arxiv](https://arxiv.org/abs/2406.14814) [✔︎paper]()
+
 1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:  
 <u>**Development and analysis of medical instruction-tuning for Japanese large language models**</u>
 , Artificial Intellignece for Health 1(2), 107-116, 2024. [✔︎paper](https://accscience.com/journal/AIH/articles/online_first/1381)
@@ -62,9 +66,6 @@ title = "Publication"
 <u>**Relative local dependence of bivariate copulas**</u>
 [✔︎arxiv](https://arxiv.org/abs/2407.16948)
 
-1. Issey Sukeda and Tomonari Sei:  
-<u>**Frank copula is minimum information copula under fixed Kendall's τ**</u>
-[✔︎arxiv](https://arxiv.org/abs/2406.14814)
 
 1. Issey Sukeda, Risa Kishikawa, and Satoshi Kodera:  
 <u>**70B-parameter large language models in Japanese medical question-answering**</u>

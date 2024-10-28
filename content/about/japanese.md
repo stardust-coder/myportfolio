@@ -10,6 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
+* 🎉 2024.10 主著論文がStatistics & Probability LettersにAcceptされました！
 * 🎉 2024.10 単著論文がNeurIPS Workshop 2024 AIM-FMにAcceptされました！
 * 🎉 2024.9 共著論文がACM SenSys 2024にAcceptされました！
 <br> 
