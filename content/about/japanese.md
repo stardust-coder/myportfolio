@@ -11,7 +11,7 @@ title = "About me"
 
 ##### お知らせ
 * 🎉 2024.10 主著論文がStatistics & Probability LettersにAcceptされました！
-* 🎉 2024.10 EQUESがGENIAC事業に採択されました！
+* 🎉 2024.10 EQUESがGENIAC事業に採択されました！[HP](https://www.meti.go.jp/policy/mono_info_service/geniac/index.html)
 * 🎉 2024.10 単著論文がNeurIPS Workshop 2024 AIM-FMにAcceptされました！
 * 🎉 2024.9 共著論文がACM SenSys 2024にAcceptされました！
 <br> 
@@ -54,6 +54,9 @@ title = "About me"
 * 🥇最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
 
 
+##### 掲載
+- [経産省・NEDO GENIAC](https://www.meti.go.jp/policy/mono_info_service/geniac/index.html)
+
 ##### その他職歴
 - [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024Fall](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) Application of LLM (Domain Specific LLM) 担当講師
 - [東京大学データサイエンスコモンズ](http://www.mi.u-tokyo.ac.jp/dscommons/) TA
@@ -62,27 +65,6 @@ title = "About me"
 - [東京大学医学部附属病院](https://cardiovasc.m.u-tokyo.ac.jp/study/ai) 学術専門職員 
 - [インクルーシブ工学連携機構（RIISE）](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) 研究協力員 
 
-
-
-<!-- ##### 経歴
-
-{{< table class="table table-hover table-condensed" >}}
-| 所属 | 役職 | 内容 |
-| ---- | ---- | ---- |
-|[株式会社EQUES](https://www.eques.co.jp) | Co-Founder・取締役・CTO | AIソリューション事業 |
-|[産総研「覚醒プロジェクト」](https://www.aist.go.jp/aist_j/news/au20231208.html) | 研究代表者 | 医療分野における大規模マルチモーダルモデル |
-|[理化学研究所](https://www.riken.jp/research/labs/cbs/integr_comput_brainsci_collab/stat_math_collab/index.html)| | 脳神経データの統計モデリング |
-|[東京大学医学部附属病院](https://cardiovasc.m.u-tokyo.ac.jp/study/ai)| 学術専門職員 | 医療AI・医療LLMの研究開発 |
-|[インクルーシブ工学連携機構（RIISE）](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) | 研究協力員 |  |
-|[東大エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) | TA | 機械学習・最適化 | 
-| ---- | ---- | ---- |
-|[株式会社松尾研究所](https://matsuo-institute.com) | AIエンジニア→プロジェクトマネジャー | 財務予測・PoC・インフラ業界のAI | 
-|[東京大学データサイエンスコモンズ](http://www.mi.u-tokyo.ac.jp/dscommons/)| 相談員 | 学内のデータ分析相談対応 | 
-|[Preferred Networks](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/) | 研究インターンシップ | 気象予測 | 
-|[東京大学工学系研究科川原研究室]() | RA | 音響センシング | 
-|[ソニーコンピュータサイエンス研究所]() | RA | 自然言語処理 | 
-|[東京大学 森田研究室](https://usdev.t.u-tokyo.ac.jp/contents/member.html) | UTSIP生 | 圧電素子によるエネルギーハーベスト | 
-{{</ table >}} -->
 
 ---
 

@@ -60,7 +60,7 @@ title = "Bookmark"
 - [オックスフォード大学の関連組織](https://www.oxford-man.ox.ac.uk/research-overview/)
 - [WikiCFP](http://www.wikicfp.com/cfp/call?conference=statistics)
 - [CWTS Journal Indicators](https://www.journalindicators.com/indicators)
-
+- [SJR](https://www.scimagojr.com/journalrank.php?category=2613)
 
 ### その他
 - [RISK.net](https://www.risk.net)
