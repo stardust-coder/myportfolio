@@ -12,7 +12,7 @@ title = "Publication"
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Frank copula is minimum information copula under fixed Kendall's τ**</u>
-, Statistics & Probability Letters, 2024. [✔︎arxiv](https://arxiv.org/abs/2406.14814) [✔︎paper]()
+, Statistics & Probability Letters, 2024. [✔︎arxiv](https://arxiv.org/abs/2406.14814) [✔︎paper](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)
 
 1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:  
 <u>**Development and analysis of medical instruction-tuning for Japanese large language models**</u>

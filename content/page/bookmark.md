@@ -17,13 +17,18 @@ title = "Bookmark"
 
 #### 最小情報コピュラ・最小情報従属モデル
 - [Bedford and Wilson, 2014](https://pure.strath.ac.uk/ws/portalfiles/portal/30982794/Preprint.pdf)
-- [最小情報コピュラとその周辺(Sei, 2021)](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_75/_pdf)
+- [清, 2021](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_75/_pdf)
 - [Samo,2021](http://proceedings.mlr.press/v130/kom-samo21a/kom-samo21a.pdf)
-- [A proper scoring rule for minimum information copulas(Chen and Sei, 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0047259X23001173)
-- [On the minimum information checkerboard copulas under fixed Kendall's rank correlation(Sukeda and Sei, 2023)](https://arxiv.org/abs/2306.01604)
+- [Sei and Yano, 2022](https://arxiv.org/abs/2206.06792)
+- [Sukeda and Sei, 2023](https://arxiv.org/abs/2306.01604)
+- [Chen and Sei, 2024](https://www.sciencedirect.com/science/article/abs/pii/S0047259X23001173)
+- [Sei, 2024](https://arxiv.org/abs/2407.17682)
+
 
 #### 色々なコピュラモデル
 - [Joe-Claytonコピュラ](https://ftp1.economics.smu.edu/RePEc/smu/wpaper/2008/Hu/Hu-2008-09.pdf)
+- [コピュラマルコフモデル](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_41/_pdf)
+
 
 
 #### 裾従属性

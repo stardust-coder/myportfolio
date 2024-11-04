@@ -17,10 +17,11 @@ weight = 1
     * ボール, 使用曲：Dynamite / B.T.S.
 * 駒場祭2020 Malabari Express 999 [YouTube](https://www.youtube.com/watch?v=d9ymiS7msO0)
     * クラブパッシング, 使用曲：銀河鉄道999 / EXILE
-* 駒場祭2019 フィナーレ
+* 駒場祭2019 フィナーレ [動画](https://drive.google.com/drive/folders/12umzicrXLTplqv-dFpBWDiMqCjAIWDMW)
     * ディアボロ・クラブパッシング, 使用曲: LaVoceによるアカペラ
 * 五月祭2019 フィナーレ [YouTube](https://www.youtube.com/watch?v=wtmxxMY3ju8) 22:52〜
     * ディアボロ, 使用曲: Love Yourself / Justin Bieber
+* マラバリスタ2019新歓PV [YouTube](https://www.youtube.com/watch?v=IH4IGHODT-4)
 * 駒場祭2018 フィナーレ [動画](https://drive.google.com/file/d/1s2TyDXlIU5Qbtc-ZscEYxBwxk2O174Pl/view?usp=share_link)
     * ディアボロチーム, 使用曲: LaVoceによるアカペラ
 * 駒場祭2018 [動画1](https://drive.google.com/file/d/1u3V1a7EIOoIRXuxf04xjnM6geXROWtBf/view?usp=share_link) [動画2](https://drive.google.com/file/d/1RFy0_bgyAx-bP7i-D_Dw2v49TCEp5dIQ/view?usp=share_link)
@@ -32,5 +33,7 @@ weight = 1
 
 
 {{< youtube VMTi41X5jqM >}}
+
+{{< youtube IH4IGHODT-4 >}}
 
 {{< youtube dTdfhJqUMZ4 >}}
