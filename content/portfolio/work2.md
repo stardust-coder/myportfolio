@@ -10,6 +10,14 @@ weight = 2
 風船をねじるだけ、でも奥が深いバルーンアート
 <!--more-->
 
+### 企画展: 五月祭2024 バルーンアートの森   
+
+{{<figure src="/img/balloonart/yoshi.png" class="inline" link="" alt="">}}
+
+{{<figure src="/img/balloonart/axolotl.JPG" class="inline" link="" alt="">}}
+{{<figure src="/img/balloonart/tree.png" class="inline" link="" alt="">}}    
+
+
 ### 企画展: 五月祭2023 バルーンアートの森   
 
 {{<figure src="/img/balloonart/balloon3.JPG" class="inline" link="" alt="">}}
