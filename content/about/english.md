@@ -20,7 +20,7 @@ Any collaboration or discussion is welcome !
 #### 🔥 News
 * Oct. 2024 🎉 Our paper was accepted in [Statistics & Probability Letters]()!
 * Oct. 2024 🎉 My paper was accepted in [NeurIPS Workshop 2024 AIM-FM]()!
-* Sep. 2024 🎉 Our paper was accepted in [ACM SenSys 2024]()!
+* Sep. 2024 🎉 Our paper was accepted in [ACM SenSys 2024](https://dl.acm.org/doi/10.1145/3666025.3699369)!
 * Apr. 2024 🎉 Our paper was accepted in [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381).
 * Dec. 2023 🎉 My research was accepted as [KAKUSEI Project](https://www.aist.go.jp/aist_j/news/au20231208.html) by AIST.
 * Oct. 2023 🎉 Our paper was accepted in [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home) ! See you in New Orleans !

@@ -38,7 +38,7 @@ title = "Publication"
 
 1. Hiroaki Murakami, Takuya Sasatani, Masanori Sugimoto, Issey Sukeda, Yukiya Mita, Yoshihiro Kawahara:  
 <u>**SyncEcho: Echo-Based Single Speaker Time Offset Estimation for Time-of-Flight Localization**</u>
-    , Proceedings of the 22th ACM Conference on Embedded Networked Sensor Systems, 2024.  
+    , Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems, 2024.  [✔︎paper](https://dl.acm.org/doi/10.1145/3666025.3699369)
 
 1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, and Satoshi Kodera:  
 <u>**JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**</u>

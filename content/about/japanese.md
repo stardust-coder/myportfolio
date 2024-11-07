@@ -10,10 +10,10 @@ title = "About me"
 
 
 ##### お知らせ
-* 🎉 2024.10 主著論文がStatistics & Probability LettersにAcceptされました！
+* 🎉 2024.10 主著論文がStatistics & Probability LettersにAcceptされました！ [paper](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)
 * 🎉 2024.10 EQUESがGENIAC事業に採択されました！[HP](https://www.meti.go.jp/policy/mono_info_service/geniac/index.html)
-* 🎉 2024.10 単著論文がNeurIPS Workshop 2024 AIM-FMにAcceptされました！
-* 🎉 2024.9 共著論文がACM SenSys 2024にAcceptされました！
+* 🎉 2024.10 単著論文がNeurIPS Workshop 2024 AIM-FMにAcceptされました！ [paper](https://arxiv.org/pdf/2409.11783)
+* 🎉 2024.9 共著論文がACM SenSys 2024にAcceptされました！ [paper](https://dl.acm.org/doi/10.1145/3666025.3699369)
 <br> 
 
 ##### 略歴
