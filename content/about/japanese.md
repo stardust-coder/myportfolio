@@ -31,11 +31,10 @@ title = "About me"
 
 * 理化学研究所 ジュニアリサーチアソシエイト（2024~）
 * IST-RA（2024~）
-* 若手人材によるディープテック研究開発「覚醒プロジェクト」第１回（2023） [ニュース](https://www.aist.go.jp/aist_j/news/au20231208.html) [取材](https://ascii.jp/elem/000/004/207/4207365/)
+* 産総研 若手人材によるディープテック研究開発「覚醒プロジェクト」（2023） 
 * JEES・ソフトバンクAI人材育成スカラーシップ(2022)
 * ひよこ財団（2021）
 * キーエンス応援給付金（2020）
-
 
 ##### 受賞（個人）
 * 🏆統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報]()
@@ -54,11 +53,17 @@ title = "About me"
 * 🥇最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) [link]()
 
 
-##### 掲載
-- [経産省・NEDO GENIAC](https://www.meti.go.jp/policy/mono_info_service/geniac/index.html)
+##### 掲載・登壇
+- 2024.11.19 [松尾研LLMコミュニティ【Paper & Hacks Vol.26】 医療LLMの研究紹介](https://matsuolab-community.connpass.com/event/336858/)
+- 2024.11.6 [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024Fall](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) 第１１回
+- 2024.10.10 [[経産省・NEDO] GENIAC](https://www.meti.go.jp/policy/mono_info_service/geniac/index.html) 
+- 2024.9.26 [ウルム大学：Mathematics builds a bridge to the Far East German-Japanese Autumn School at Ulm University](https://www.uni-ulm.de/en/mawi/faculty/mawi-detailseiten/news-details/article/deutsch-japanische-herbstschule-an-der-uni-ulm/)
+- 2024.7.2 [ASCII:医師とのタッグで挑む、医療用マルチモーダルAIの先駆け的研究](https://ascii.jp/elem/000/004/207/4207365/)
+- 2023.12.8 [産総研ニュース:若手人材によるディープテック研究開発「覚醒プロジェクト」の採択者決定！](https://www.aist.go.jp/aist_j/news/au20231208.html) 
 
-##### その他職歴
-- [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024Fall](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) Application of LLM (Domain Specific LLM) 担当講師
+
+##### 職歴
+- [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024Fall](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) 講師
 - [東京大学データサイエンスコモンズ](http://www.mi.u-tokyo.ac.jp/dscommons/) TA
 - [東大エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) TA
 - [株式会社松尾研究所](https://matsuo-institute.com) プロジェクトマネジャー
@@ -94,13 +99,7 @@ title = "About me"
     * [南京研修日報](https://lapsummer.wordpress.com/2019/08/16/%e6%89%af%e9%93%83%e5%a5%bd%e3%81%8d%e3%81%aa%e4%ba%ba%e3%81%a8%e7%b9%8b%e3%81%8c%e3%82%8a%e3%81%9f%e3%81%84/)
 
 ##### 出演動画・掲載など
-* 五月祭2023 [YouTube](https://m.youtube.com/watch?v=VMTi41X5jqM&pp=ygUNVFMgcmV2b2x1dGlvbg%3D%3D)
-* Malabaristas 27th 卒業記念動画 [YouTube](https://www.youtube.com/watch?v=dTdfhJqUMZ4)
-* 五月祭2021 [YouTube](https://www.youtube.com/watch?v=u07cxDtxN-o)
-* 駒場祭2020 Malabari Express 999 [YouTube](https://www.youtube.com/watch?v=d9ymiS7msO0)
-* 五月祭2019 フィナーレ [YouTube](https://www.youtube.com/watch?v=wtmxxMY3ju8)
-* 文化祭2016 [YouTube](https://www.youtube.com/watch?v=moXHALZKg6w)
-* 文化祭2015 中夜祭 [YouTube](https://www.youtube.com/watch?v=BbQ4kZXcXEQ)
+* [ジャグリング](https://stardust-coder.github.io/myportfolio/portfolio/work1/)
 * U-23サミット2020 学生登壇
 * 東大新聞「学生生活紹介」 [link](https://www.todaishimbun.org/koukigakuseiseikatsu20210619/)
 * 情報系学科対談｜東京大学工学部合同企画 [link](https://note.com/kogakubu_godo/n/n1813af70510b)

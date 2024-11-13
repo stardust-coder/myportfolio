@@ -102,8 +102,8 @@ title = "Publication"
 1. [(heading) RIKEN CBS Retreat 2024](), Gotenba, Japan, November 2024.
     - Poster session [Poster]()
     - Title: Regularized score matching of torus graph model applied to EEG phase-based connectivity analyses
-1. [(heading) Time Series, Random Fields and Beyond](https://www.uni-ulm.de/mawi/mawi-stochastik/allgemeines/aktuelles/fall-school-time-series-random-fields-and-beyond-2024/), Ulm, Germany, September 2024.
-    - Title: Torus graph modelling for EEG analysis
+1. [Time Series, Random Fields and Beyond](https://www.uni-ulm.de/mawi/mawi-stochastik/allgemeines/aktuelles/fall-school-time-series-random-fields-and-beyond-2024/), Ulm, Germany, September 2024.
+    - Title: Torus graph modelling for EEG analysis   [Press](https://www.uni-ulm.de/en/mawi/faculty/mawi-detailseiten/news-details/article/deutsch-japanische-herbstschule-an-der-uni-ulm/)
 1. [ベイズ研究集会 2024](https://sites.google.com/view/ssugasawa/summer-symposium2024), Sapporo, Japan, September 2024.
     - Title: Regularized score matching of torus graph model applied to EEG phase-based connectivity analyses
 1. [統計関連連合大会2024](https://pub.confit.atlas.jp/ja/event/jfssa2024), Tokyo, Japan, September 2024.
