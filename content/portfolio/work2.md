@@ -10,6 +10,15 @@ weight = 2
 風船をねじるだけ、でも奥が深いバルーンアート
 <!--more-->
 
+### 企画展: 駒場祭2024 バルーンアートの森   
+
+今回も後輩たちががんばってくれました. テーマは「海」です.
+
+{{<figure src="/img/balloonart/sea.jpg" class="inline" link="" alt="">}}
+
+{{<figure src="/img/balloonart/craken.jpg" class="inline" link="" alt="">}}
+{{<figure src="/img/balloonart/tuna.jpg" class="inline" link="" alt="">}}    
+
 ### 企画展: 五月祭2024 バルーンアートの森   
 
 {{<figure src="/img/balloonart/yoshi.png" class="inline" link="" alt="">}}
