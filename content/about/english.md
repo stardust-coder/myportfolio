@@ -4,28 +4,24 @@ title = "About me"
 +++
 
 
-This is Issey Sukeda. Currently, I am a D1 student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda, supported by RIKEN and KAKUSEI (AIST).  
-
-My research direction is to model constraints behind multivariate time series data, leveraging on entropy and information.  
-My full publications can be accessed from [Publications](https://stardust-coder.github.io/myportfolio/page/publication/).  
-Currently, I am working on 
-- Copulas and information
-- Graphical modelling and directional statistics for EEG
-- Japanese medical language (and vision) model development
-
-Any collaboration or discussion is welcome !
+This is Issey Sukeda. Currently, I am a D1 student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda.
+My interest covers statistics and operations research.
+My full publications can be accessed from [Publications](https://stardust-coder.github.io/myportfolio/page/publication/).
+Any collaboration, job offer, or discussion is welcome !
 
 ![This is me][1]
 
 #### 🔥 News
-* Oct. 2024 🎉 Our paper was accepted in [Statistics & Probability Letters]()!
-* Oct. 2024 🎉 My paper was accepted in [NeurIPS Workshop 2024 AIM-FM]()!
+* Oct. 2024 🎉 Our paper was accepted in [Statistical Paper](https://arxiv.org/abs/2306.01604)!
+* Oct. 2024 🎉 Our paper was accepted in [Statistics & Probability Letters](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)!
+* Oct. 2024 🎉 My paper was accepted in [NeurIPS Workshop 2024 AIM-FM](https://arxiv.org/pdf/2409.11783)!
 * Sep. 2024 🎉 Our paper was accepted in [ACM SenSys 2024](https://dl.acm.org/doi/10.1145/3666025.3699369)!
 * Apr. 2024 🎉 Our paper was accepted in [Artificial Intelligence for Health](https://accscience.com/journal/AIH/articles/online_first/1381).
 * Dec. 2023 🎉 My research was accepted as [KAKUSEI Project](https://www.aist.go.jp/aist_j/news/au20231208.html) by AIST.
-* Oct. 2023 🎉 Our paper was accepted in [NeurIPS DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home) ! See you in New Orleans !
-* Nov. 2022 🎉 Our paper was accepted in [ACM SenSys 2022]() ! 
-* Feb. 2022 💪 Founded [EQUES Inc.]() as CTO ! 
+* Oct. 2023 🎉 Our paper was accepted in [NeurIPS Workshop 2023 DGM4H](https://sites.google.com/ethz.ch/dgm4h-neurips2023/home) ! See you in New Orleans !
+* Jan. 2023 🎉 Our paper was accepted in [European Journal of Operational Research](https://www.sciencedirect.com/science/article/pii/S037722172300111X) ! 
+* Nov. 2022 🎉 Our paper was accepted in [ACM SenSys 2022](https://dl.acm.org/doi/10.1145/3560905.3568097) ! 
+* Feb. 2022 💪 Founded [EQUES Inc.](https://www.eques.co.jp) as CTO ! 
 
 #### 🏥 Medical LLM Projects
 * [Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness) is the evaluation codes and leaderboard for medical LLMs.
@@ -48,6 +44,7 @@ Any collaboration or discussion is welcome !
 #### 🏆 Awards
 
 **2024**
+* 🥇 1st Place, CBS Retreat 2024 - Poster Theory/Tech Award, RIKEN CBS
 * Best Presentation Award, Japan Society of Statistics
 * 🥇 1st place, Sports Data Science Competition (MLB division), Japan Society of Statistics
 

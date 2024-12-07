@@ -11,13 +11,16 @@ title = "Publication"
 <br />
 
 1. Issey Sukeda and Tomonari Sei:  
+<u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
+    , Statistical Paper, 2024. [✔︎arxiv](https://arxiv.org/abs/2306.01604) [✔︎paper(coming soon...)]()
+
+1. Issey Sukeda and Tomonari Sei:  
 <u>**Frank copula is minimum information copula under fixed Kendall's τ**</u>
-, Statistics & Probability Letters, 2024. [✔︎arxiv](https://arxiv.org/abs/2406.14814) [✔︎paper](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)
+    , Statistics & Probability Letters, 2024. [✔︎arxiv](https://arxiv.org/abs/2406.14814) [✔︎paper](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)
 
 1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:  
 <u>**Development and analysis of medical instruction-tuning for Japanese large language models**</u>
-, Artificial Intellignece for Health 1(2), 107-116, 2024. [✔︎paper](https://accscience.com/journal/AIH/articles/online_first/1381)
-
+    , Artificial Intellignece in Health 1(2), 107-116, 2024. [✔︎paper](https://accscience.com/journal/AIH/articles/online_first/1381)
 
 1. Issey Sukeda, Atsushi Miyauchi, and Akiko Takeda:  
 <u>**A study on modularity density maximization: Column generation acceleration and computational complexity analysis**</u> 
@@ -61,19 +64,13 @@ title = "Publication"
 ##### Preprint （紀要）
 <br />
 
-
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Relative local dependence of bivariate copulas**</u>
 [✔︎arxiv](https://arxiv.org/abs/2407.16948)
 
-
 1. Issey Sukeda, Risa Kishikawa, and Satoshi Kodera:  
 <u>**70B-parameter large language models in Japanese medical question-answering**</u>
 [✔︎arxiv](https://arxiv.org/abs/2406.14882)
-
-1. Issey Sukeda and Tomonari Sei:  
-<u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
-    [✔︎arxiv](https://arxiv.org/abs/2306.01604)
 
 
 ##### Projects
@@ -98,23 +95,22 @@ title = "Publication"
 <br />
 
 1. [(heading) FDIG 2025](https://sites.google.com/view/fdig2025/), Tokyo, Japan, March 2025.
-    - Title: On the comparison between the minimum information copulas under fixed rank correlations
-1. [(heading) RIKEN CBS Retreat 2024](), Gotenba, Japan, November 2024.
     - Poster session [Poster]()
-    - Title: Regularized score matching of torus graph model applied to EEG phase-based connectivity analyses
+    - Title: On the comparison between the minimum information copulas under fixed rank correlations
+1. [RIKEN CBS Retreat 2024](https://cbs.riken.jp/jp/lifeatcbs/retreat.html), Gotenba, Japan, November 2024.
+    - Poster session [Poster](https://drive.google.com/drive/folders/1qxN6J-EmSJ1wOCkfKTzu-h4EI-lGO20P) （1st place in Theory/Tech Award）
+    - Title: Torus graph modelling for EEG analysis
 1. [Time Series, Random Fields and Beyond](https://www.uni-ulm.de/mawi/mawi-stochastik/allgemeines/aktuelles/fall-school-time-series-random-fields-and-beyond-2024/), Ulm, Germany, September 2024.
     - Title: Torus graph modelling for EEG analysis   [Press](https://www.uni-ulm.de/en/mawi/faculty/mawi-detailseiten/news-details/article/deutsch-japanische-herbstschule-an-der-uni-ulm/)
 1. [ベイズ研究集会 2024](https://sites.google.com/view/ssugasawa/summer-symposium2024), Sapporo, Japan, September 2024.
     - Title: Regularized score matching of torus graph model applied to EEG phase-based connectivity analyses
 1. [統計関連連合大会2024](https://pub.confit.atlas.jp/ja/event/jfssa2024), Tokyo, Japan, September 2024.
-    - コンペティションセッション
+    - コンペティションセッション（最優秀報告賞）
     - Title: コピュラのrelative local dependence
 1. [統計サマースクール 2024](https://sites.google.com/view/ysg2024), Yuzawa, Japan, July 2024.
     - Title: Torus graph modelling for EEG analysis
 1. [学術変革領域研究（A) 統一理論　第３回領域会議](https://unifiedtheory.jp/wp-content/uploads/2024/05/Poster-presenters-list-5.16.pdf), Wako, Japan, May 2024.
     - Title: Application of Directional Statistics to Brain Data Analysis [Poster]()
-1. [Machine Learning Summer School](), Okinawa, Japan, March 2024.
-    - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ 
 1. [言語処理学会第30回年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/), Kobe, Japan, March 2024.
     - Title: JMedLoRA：Instruction-tuningによる日本語大規模モデルの医療ドメイン適用 [Abstract](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-4.pdf)
 1. [Machine Learning Summer School](https://groups.oist.jp/mlss), Okinawa, Japan, March 2024.
