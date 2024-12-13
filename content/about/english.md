@@ -12,7 +12,7 @@ Any collaboration, job offer, or discussion is welcome !
 ![This is me][1]
 
 #### 🔥 News
-* Oct. 2024 🎉 Our paper was accepted in [Statistical Paper](https://arxiv.org/abs/2306.01604)!
+* Oct. 2024 🎉 Our paper was accepted in [Statistical Papers](https://arxiv.org/abs/2306.01604)!
 * Oct. 2024 🎉 Our paper was accepted in [Statistics & Probability Letters](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)!
 * Oct. 2024 🎉 My paper was accepted in [NeurIPS Workshop 2024 AIM-FM](https://arxiv.org/pdf/2409.11783)!
 * Sep. 2024 🎉 Our paper was accepted in [ACM SenSys 2024](https://dl.acm.org/doi/10.1145/3666025.3699369)!

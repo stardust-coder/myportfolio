@@ -10,7 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
-* 🎉 2024.12 主著論文がStatistical PaperにAcceptされました！
+* 🎉 2024.12 主著論文がStatistical PapersにAcceptされました！
 * 🎉 2024.10 主著論文がStatistics & Probability LettersにAcceptされました！ [paper](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)
 <br> 
 
@@ -35,7 +35,7 @@ title = "About me"
 * キーエンス応援給付金（2020）
 
 ##### 受賞（個人）
-* 🥇CBS Retreat 2024 - Poster Theory/Tech Award 1st Place [link]()
+* 🥇CBS Retreat 2024 - Poster Theory/Tech Award 1st Place [link](https://cbs.riken.jp/jp/lifeatcbs/retreat2024-poster.html)
 * 🏆統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報]()
 * 🥇2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
 * 🏆ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
@@ -57,7 +57,7 @@ title = "About me"
 - 2024.11.22 [[経済産業省] GENIAC通信](https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/kickoffevents_2_1.html)
 - 2024.11.19 [松尾研LLMコミュニティ【Paper & Hacks Vol.26】 医療LLMの研究紹介](https://matsuolab-community.connpass.com/event/336858/) [アーカイブ](https://youtu.be/a4U2iFg48SY)
 - 2024.11.6 [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024Fall](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) 第１１回
-- 2024.10.10 [[経産省・NEDO] GENIACキックオフイベント](https://www.meti.go.jp/policy/mono_info_service/geniac/index.html)  [YouTube](https://www.youtube.com/watch?v=aISmHo47mDY)
+- 2024.10.10 [[経産省・NEDO] GENIAC 生成AI基盤モデル開発者のご紹介](https://www.meti.go.jp/policy/mono_info_service/geniac/selection_2/index.html)  [YouTube](https://www.youtube.com/watch?v=aISmHo47mDY)
 - 2024.9.26 [ウルム大学：Mathematics builds a bridge to the Far East German-Japanese Autumn School at Ulm University](https://www.uni-ulm.de/en/mawi/faculty/mawi-detailseiten/news-details/article/deutsch-japanische-herbstschule-an-der-uni-ulm/)
 - 2024.7.2 [ASCII:医師とのタッグで挑む、医療用マルチモーダルAIの先駆け的研究](https://ascii.jp/elem/000/004/207/4207365/)
 - 2023.12.8 [産総研ニュース:若手人材によるディープテック研究開発「覚醒プロジェクト」の採択者決定！](https://www.aist.go.jp/aist_j/news/au20231208.html) 
