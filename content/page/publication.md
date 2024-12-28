@@ -12,7 +12,7 @@ title = "Publication"
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
-    , Statistical Paper, 2024. [✔︎arxiv](https://arxiv.org/abs/2306.01604) [✔︎paper(coming soon...)]()
+    , Statistical Papers, 2024. [✔︎arxiv](https://arxiv.org/abs/2306.01604) [✔︎paper(coming soon...)]()
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Frank copula is minimum information copula under fixed Kendall's τ**</u>
@@ -37,7 +37,7 @@ title = "Publication"
 1. Issey Sukeda:  
 <u>**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**</u>
     , NeurIPS Workshop Advancements in Medical Foundation Models, 2024.  
-    [✔︎arxiv](https://arxiv.org/pdf/2409.11783)
+    [✔︎arxiv](https://arxiv.org/pdf/2409.11783) [✔︎OpenReview](https://openreview.net/forum?id=zQtNbljfK6) [✔︎GitHub](https://github.com/stardust-coder/japanese-lm-med-harness)
 
 1. Hiroaki Murakami, Takuya Sasatani, Masanori Sugimoto, Issey Sukeda, Yukiya Mita, Yoshihiro Kawahara:  
 <u>**SyncEcho: Echo-Based Single Speaker Time Offset Estimation for Time-of-Flight Localization**</u>
@@ -94,9 +94,14 @@ title = "Publication"
 ##### Talks（研究発表）
 <br />
 
+1. [(heading) 65th ISI World Statistics Congress 2025](https://www.isi-next.org/conferences/isi-wsc2025/), Hague, Netherlands, October 2025.
+    - Poster session [Poster]()
+    - Title: Frank copula is the minimum information copula under fixed Kendall's τ
 1. [(heading) FDIG 2025](https://sites.google.com/view/fdig2025/), Tokyo, Japan, March 2025.
     - Poster session [Poster]()
     - Title: On the comparison between the minimum information copulas under fixed rank correlations
+1. [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/), Nice, France, December 2024.
+    - Title: Torus graph modelling for EEG analysis  
 1. [RIKEN CBS Retreat 2024](https://cbs.riken.jp/jp/lifeatcbs/retreat.html), Gotenba, Japan, November 2024.
     - Poster session [Poster](https://drive.google.com/drive/folders/1qxN6J-EmSJ1wOCkfKTzu-h4EI-lGO20P) （1st place in Theory/Tech Award）
     - Title: Torus graph modelling for EEG analysis

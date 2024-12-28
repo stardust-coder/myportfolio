@@ -36,7 +36,7 @@ title = "About me"
 
 ##### 受賞（個人）
 * 🥇CBS Retreat 2024 - Poster Theory/Tech Award 1st Place [link](https://cbs.riken.jp/jp/lifeatcbs/retreat2024-poster.html)
-* 🏆統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報]()
+* 🏆統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報](https://pub-files.atlas.jp/cer-r/jfssa2024/pdf/2024122_jfssa2024_ja_20241223150319062.pdf)
 * 🥇2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
 * 🏆ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
 * 🏆統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
