@@ -12,7 +12,7 @@ title = "Publication"
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
-    , Statistical Papers, 2024. [✔︎arxiv](https://arxiv.org/abs/2306.01604) [✔︎paper(coming soon...)]()
+    , Statistical Papers, 2024. [✔︎arxiv](https://arxiv.org/abs/2306.01604) [✔︎paper](https://link.springer.com/article/10.1007/s00362-024-01648-9)
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Frank copula is minimum information copula under fixed Kendall's τ**</u>
