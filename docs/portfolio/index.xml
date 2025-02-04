@@ -9,65 +9,65 @@
     <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Juggling</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work1/</link>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/juggling/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work1/</guid>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/juggling/</guid>
       <description>&lt;p&gt;ジャグリング、大道芸、コマ回し&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Balloon Arts</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work2/</link>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/balloonart/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work2/</guid>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/balloonart/</guid>
       <description>&lt;p&gt;風船をねじるだけ、でも奥が深いバルーンアート&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>My Pace</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <title>Medical AI</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/medicalllm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work3/</guid>
-      <description>&lt;p&gt;自分だけの時の流れ&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/medicalllm/</guid>
+      <description>&lt;p&gt;医療AI・医療LLMの研究開発&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>App</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work5/</link>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/app/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work5/</guid>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/app/</guid>
       <description>&lt;p&gt;東大生と考えるフェルミ推定&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>kehai</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work4/</guid>
-      <description>&lt;p&gt;「気配」を起点にしたコミュニケーションとは&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>JMedLMM：『覚醒』プロジェクト採択課題</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work7/</link>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/kakusei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work7/</guid>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/kakusei/</guid>
       <description>&lt;p&gt;産総研の『覚醒』プロジェクト&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Medical AI</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>kehai</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/kehai/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work6/</guid>
-      <description>&lt;p&gt;医療AI・医療LLMの研究開発&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/kehai/</guid>
+      <description>&lt;p&gt;「気配」を起点にしたコミュニケーションとは&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Pace</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/mypace/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/mypace/</guid>
+      <description>&lt;p&gt;自分だけの時の流れ&lt;/p&gt;</description>
     </item>
     
     <item>

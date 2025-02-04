@@ -4,7 +4,7 @@ showonlyimage = true
 date = "224-04-09T19:44:32+05:30"
 title = "Medical AI"
 draft = false
-weight = 4
+weight = 3
 +++
 
 医療AI・医療LLMの研究開発

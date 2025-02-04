@@ -9,65 +9,65 @@
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Juggling</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work1/</link>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/juggling/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work1/</guid>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/juggling/</guid>
       <description>&lt;p&gt;ジャグリング、大道芸、コマ回し&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Balloon Arts</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work2/</link>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/balloonart/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work2/</guid>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/balloonart/</guid>
       <description>&lt;p&gt;風船をねじるだけ、でも奥が深いバルーンアート&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>My Pace</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <title>Medical AI</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/medicalllm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work3/</guid>
-      <description>&lt;p&gt;自分だけの時の流れ&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/medicalllm/</guid>
+      <description>&lt;p&gt;医療AI・医療LLMの研究開発&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>App</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work5/</link>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/app/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work5/</guid>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/app/</guid>
       <description>&lt;p&gt;東大生と考えるフェルミ推定&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>kehai</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work4/</guid>
-      <description>&lt;p&gt;「気配」を起点にしたコミュニケーションとは&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>JMedLMM：『覚醒』プロジェクト採択課題</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work7/</link>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/kakusei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work7/</guid>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/kakusei/</guid>
       <description>&lt;p&gt;産総研の『覚醒』プロジェクト&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Medical AI</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>kehai</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/kehai/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work6/</guid>
-      <description>&lt;p&gt;医療AI・医療LLMの研究開発&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/kehai/</guid>
+      <description>&lt;p&gt;「気配」を起点にしたコミュニケーションとは&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Pace</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/mypace/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/mypace/</guid>
+      <description>&lt;p&gt;自分だけの時の流れ&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -96,10 +96,9 @@
       
       <guid>https://stardust-coder.github.io/myportfolio/about/japanese/</guid>
       <description>東京大学 大学院情報理工学系研究科 株式会社EQUES Co-Founder&amp;amp;CTO お知らせ 🎉 2024.12 主著論文がStatistical PapersにAcceptされました！ 🎉 2024.10 主著論文がStatistics &amp;amp; Probability LettersにAcceptされました！ paper 略歴 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTOを務める.
-ソニーCSLやPFNでの研究インターン, 松尾研PMの経験を経て, 現在は数理統計や医療LLMの研究を行う.
-産総研「覚醒プロジェクト」研究代表者.
-研究内容 最近はコピュラ統計学と最適化手法に興味を持っています.
-また他には, 医療AI分野, 特にLLM（大規模言語モデル）にも取り組んでいます.
+PFN, 松尾研を経て, 現在は数理統計や医薬特化LLMの研究開発を行う.
+産総研「覚醒プロジェクト」研究代表者. EQUESのGENIAC事業統括.
+研究内容 コピュラ統計学をベースに、LLM・センシング・ヘルスケア・神経科学などに取り組んでいます。
 獲得支援 理化学研究所 ジュニアリサーチアソシエイト（2024~） IST-RA（2024~） 産総研 若手人材によるディープテック研究開発「覚醒プロジェクト」（2023） JEES・ソフトバンクAI人材育成スカラーシップ(2022) ひよこ財団（2021） キーエンス応援給付金（2020） 受賞（個人） 🥇CBS Retreat 2024 - Poster Theory/Tech Award 1st Place link 🏆統計関連連合大会 最優秀報告賞(2024) link 会報 🥇2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 link 🏆ISI東京大会記念奨励賞(2023) link 会報 🏆統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023） 🏆日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） link 🥈優秀賞&amp;amp;学生投票賞, 東京大学数理・データサイエンスコンソーシアム 第３回データサイエンスコンテスト(2020) link 🥉銅賞, 化学グランプリ(2016) link 🥉3位, All Japan Diabolo Competition(2015) 受賞（チーム） 🥉3位, 松尾研究所内部AIコンペティション(2022) 🏆ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) link 🏆ヤフー賞, CivicTech Challenge Cup (2021) link 🥇最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) link 掲載・登壇 2024.</description>
     </item>
     

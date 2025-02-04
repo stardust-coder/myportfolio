@@ -4,7 +4,7 @@ showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "My Pace"
 draft = false
-weight = 3
+weight = 7
 +++
 
 自分だけの時の流れ

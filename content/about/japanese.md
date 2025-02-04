@@ -17,13 +17,12 @@ title = "About me"
 ##### 略歴
 
 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTOを務める.  
-ソニーCSLやPFNでの研究インターン, 松尾研PMの経験を経て, 現在は数理統計や医療LLMの研究を行う.  
-産総研「覚醒プロジェクト」研究代表者. 
+PFN, 松尾研を経て, 現在は数理統計や医薬特化LLMの研究開発を行う.  
+産総研「覚醒プロジェクト」研究代表者. EQUESのGENIAC事業統括.
 
 ##### 研究内容
 
-最近はコピュラ統計学と最適化手法に興味を持っています.  
-また他には, 医療AI分野, 特にLLM（大規模言語モデル）にも取り組んでいます.
+コピュラ統計学をベースに、LLM・センシング・ヘルスケア・神経科学などに取り組んでいます。
 
 ##### 獲得支援
 
@@ -36,7 +35,7 @@ title = "About me"
 
 ##### 受賞（個人）
 * 🥇CBS Retreat 2024 - Poster Theory/Tech Award 1st Place [link](https://cbs.riken.jp/jp/lifeatcbs/retreat2024-poster.html)
-* 🏆統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報](https://pub-files.atlas.jp/cer-r/jfssa2024/pdf/2024122_jfssa2024_ja_20241223150319062.pdf)
+* 🏆統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報](https://pub-files.atlas.jp/cer-r/jfssa2024/pdf/2025announcement_250120_ja_20250120165157768.pdf)
 * 🥇2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
 * 🏆ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
 * 🏆統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
