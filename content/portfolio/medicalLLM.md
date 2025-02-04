@@ -2,21 +2,21 @@
 image = "img/llama.png"
 showonlyimage = true
 date = "224-04-09T19:44:32+05:30"
-title = "Medical AI"
+title = "医療AI"
 draft = false
 weight = 3
 +++
 
-医療AI・医療LLMの研究開発
+医療AI・医療LLMの研究開発：これまでの取り組み
 
 <!--more-->
 
 <!-- ---
-1. [7B パラメタの日本語医療LLMの作成](#anchor5)
+1. [7B パラメタの日本語医療LLMの作成, NeurIPS WS 2024](#anchor5)
 1. [医療LLMのベンチマークの作成](#anchor4)  
 1. [70Bパラメタの日本語医療LLM開発](#anchor3)    
-1. [OpenCALM(7B)・Llama2(70B)の日本語医療適応](#anchor2)  
-1. [心電図から心疾患や年齢予測を行うAIモデル](#anchor1)  
+1. [OpenCALM(7B)・Llama2(70B)の日本語医療適応, NeurIPS WS 2023](#anchor2)  
+1. [心電図から心疾患や年齢予測を行うAIモデル, NeurIPS WS 2022](#anchor1)  
 --- -->
 
 <a id="anchor0"></a>
@@ -27,6 +27,7 @@ weight = 3
 ```
 
 1. [JMedData4LLM:Curation of Japanese Medical Data Sources for LLM development](https://github.com/stardust-coder/jmed-data-for-llm)
+    - 更新停滞中.
 1. [Awesome latest LLMs](https://github.com/stardust-coder/awesome-latest-LLM)
     - ページ後半に医療ドメインについて記載.
 
@@ -40,7 +41,6 @@ weight = 3
 ```
 
 1. [論文：Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources](https://arxiv.org/pdf/2409.11783)
-1. [学習済みモデル(huggingface, 現在非公開)](https://huggingface.co/stardust-coder/jmedllm-7b-v1)
 
 
 <a id="anchor4"></a>

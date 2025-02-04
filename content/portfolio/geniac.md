@@ -2,7 +2,7 @@
 image = "img/geniac.JPG"
 showonlyimage = true
 date = "24-10-12T17:00:00+00:00"
-title = ""
+title = "GENIAC"
 draft = false
 weight = 5
 +++
