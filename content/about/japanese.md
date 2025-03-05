@@ -16,9 +16,7 @@ title = "About me"
 
 ##### 略歴
 
-東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTOを務める.  
-PFN, 松尾研を経て, 現在は数理統計や医薬特化LLMの研究開発を行う.  
-産総研「覚醒プロジェクト」研究代表者. EQUESのGENIAC事業統括.
+東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTOを務める. PFN, 松尾研を経て, 現在は数理統計や医薬特化LLMの研究開発を行う. 産総研「覚醒プロジェクト」研究代表者. EQUESのGENIAC事業統括.
 
 ##### 研究内容
 
@@ -26,8 +24,8 @@ PFN, 松尾研を経て, 現在は数理統計や医薬特化LLMの研究開発�
 
 ##### 獲得支援
 
-* 理化学研究所 ジュニアリサーチアソシエイト（2024~）
-* IST-RA（2024~）
+* 理化学研究所（2024〜）
+* 東京大学大学院情報理工学系研究科（2024）
 * 産総研 若手人材によるディープテック研究開発「覚醒プロジェクト」（2023） 
 * JEES・ソフトバンクAI人材育成スカラーシップ(2022)
 * ひよこ財団（2021）
@@ -52,6 +50,7 @@ PFN, 松尾研を経て, 現在は数理統計や医薬特化LLMの研究開発�
 
 
 ##### 掲載・登壇
+- 2025.3.14 [TAI AMAJ #05 「医薬領域特化LLMの開発と実用」](https://lu.ma/mzxodxyl)
 - 2024.12.11 [第13回岡山大学AI研究会 招待講演](https://www.cc.okayama-u.ac.jp/imelab/ouai/index.html)
 - 2024.11.22 [[経済産業省] GENIAC通信](https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/kickoffevents_2_1.html)
 - 2024.11.19 [松尾研LLMコミュニティ【Paper & Hacks Vol.26】 医療LLMの研究紹介](https://matsuolab-community.connpass.com/event/336858/) [アーカイブ](https://youtu.be/a4U2iFg48SY)

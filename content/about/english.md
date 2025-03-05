@@ -30,16 +30,16 @@ Any collaboration, job offer, or discussion is welcome !
 * [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM) is the curation of the latest and competent LLMs, including medical domain adaptation.
 
 #### 🗒 Statistics Projects
-* [Torus Graph Modelling implementation in Python](https://github.com/stardust-coder/torus_graph_modelling) is the implementation and adaptation of [Klein et al.(2020)](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-14/issue-2/Torus-graphs-for-multivariate-phase-coupling-analysis/10.1214/19-AOAS1300.full) to human EEG series data.
+* [Torus Graph Modelling implementation in Python](https://github.com/stardust-coder/torus_graph_modelling)
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates the density function of minimum information copula, the most natural copula under predetermined constraints. 
 * [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index) is the Python implementation of [Sei (2016)](https://www.sciencedirect.com/science/article/pii/S0047259X16000269).
 
-#### 💰 Fundings
+#### 💰 Fundings & Grants
 
-* 2024.4 - 2027.3, [RIKEN CBS Junior Research Associate](https://www.riken.jp/careers/programs/jra/)
-* 2024.4 - 2027.3, [IST-RA](https://www.i.u-tokyo.ac.jp/edu/financial-support/ist-ra/)
-* 2023.12 - 2024.7, [KAKUSEI]((https://www.aist.go.jp/aist_j/news/au20231208.html)), funded by AIST.
-* 2022.4 - 2023.3, JEES Softbank AI scholarship
+* [RIKEN CBS Junior Research Associate](https://www.riken.jp/careers/programs/jra/)
+* IST-RA
+* [AIST KAKUSEI]((https://www.aist.go.jp/aist_j/news/au20231208.html)), funded by AIST.
+* JEES Softbank AI scholarship
 
 #### 🏆 Awards
 
