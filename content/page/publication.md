@@ -66,7 +66,7 @@ title = "Publication"
 
 1. Issey Sukeda and Takeru Matsuda:
 <u>**Directional statistical graphical modeling of phase-based connectivity**</u>
-[✔︎biorxiv][https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1]
+[✔︎biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Relative local dependence of bivariate copulas**</u>

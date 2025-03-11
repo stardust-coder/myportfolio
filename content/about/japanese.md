@@ -10,7 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
-* 2025.3 [プレプリント][https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1]を公開しました。
+* 2025.3 [プレプリント](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)を公開しました。
 * 🎉 2024.12 主著論文がStatistical PapersにAcceptされました！
 * 🎉 2024.10 主著論文がStatistics & Probability LettersにAcceptされました！ [paper](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)
 <br> 
