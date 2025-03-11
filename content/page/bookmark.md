@@ -66,6 +66,7 @@ title = "Bookmark"
 - [WikiCFP](http://www.wikicfp.com/cfp/call?conference=statistics)
 - [CWTS Journal Indicators](https://www.journalindicators.com/indicators)
 - [SJR](https://www.scimagojr.com/journalrank.php?category=2613)
+- [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/search?type=allSearch&allSearchType=&term=EJOR&page=1&per_page=10)
 
 ### その他
 - [RISK.net](https://www.risk.net)
