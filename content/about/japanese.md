@@ -10,6 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
+* 2025.3 覚醒プロジェクト「破」を受賞しました.
 * 2025.3 [プレプリント](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)を公開しました。
 * 🎉 2024.12 主著論文がStatistical PapersにAcceptされました！
 * 🎉 2024.10 主著論文がStatistics & Probability LettersにAcceptされました！ [paper](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)
@@ -33,8 +34,9 @@ title = "About me"
 * キーエンス応援給付金（2020）
 
 ##### 受賞（個人）
+* 🏆覚醒プロジェクト「破」
 * 🥇CBS Retreat 2024 - Poster Theory/Tech Award 1st Place [link](https://cbs.riken.jp/jp/lifeatcbs/retreat2024-poster.html)
-* 🏆統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報](https://pub-files.atlas.jp/cer-r/jfssa2024/pdf/2025announcement_250120_ja_20250120165157768.pdf)
+* 🥇統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報](https://pub-files.atlas.jp/cer-r/jfssa2024/pdf/2025announcement_250120_ja_20250120165157768.pdf)
 * 🥇2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
 * 🏆ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
 * 🏆統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）

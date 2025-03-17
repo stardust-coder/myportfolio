@@ -64,6 +64,10 @@ title = "Publication"
 ##### Preprint （紀要）
 <br />
 
+1. 峰岸剛基, 高木洋羽, 木澤翔太, 助田一晟, 谷中 瞳
+<u>**大規模言語モデルにおいて数値属性間で共有されるスケーリングベクトルの解析とその応用**</u>
+[言語処理学会 第31回年次大会発表論文集](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A6-2.pdf)
+
 1. Issey Sukeda and Takeru Matsuda:
 <u>**Directional statistical graphical modeling of phase-based connectivity**</u>
 [✔︎biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)
@@ -99,10 +103,13 @@ title = "Publication"
 <br />
 
 1. [(heading) 65th ISI World Statistics Congress 2025](https://www.isi-next.org/conferences/isi-wsc2025/), Hague, Netherlands, October 2025.
-    - Poster session [Poster]()
+    - Poster session 
     - Title: Frank copula is the minimum information copula under fixed Kendall's τ
-1. [(heading) FDIG 2025](https://sites.google.com/view/fdig2025/), Tokyo, Japan, March 2025.
-    - Poster session [Poster]()
+1. [Copula workshop 2025](), Tokyo, Japan, May 2025.
+    - Oral presentation
+    - Title: Frank copula, minimum information copula, and relative local dependence
+1. [FDIG 2025](https://sites.google.com/view/fdig2025/), Tokyo, Japan, March 2025.
+    - Poster session
     - Title: On the comparison between the minimum information copulas under fixed rank correlations
 1. [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/), Nice, France, December 2024.
     - Title: Torus graph modelling for EEG analysis  

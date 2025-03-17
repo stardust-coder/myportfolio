@@ -74,7 +74,4 @@ title = "Bookmark"
 - [データサイエンスの魅力](https://engineer-lab.findy-code.io/jobs-in-statistics)
 - [結局、統計学と機械学習は何が違うのか？](https://exploratory.io/note/kanaugust/2200910721280297)
 - [biblatexのオプション](https://qiita.com/shiro_takeda/items/fac1351495f32c224a28)
-
-#### DevInterp
-- https://www.youtube.com/@Devinterp
-- https://github.com/timaeus-research/devinterp
+- [元DeepMindの人のわかりやすいYoutube論文解説](https://www.youtube.com/@TheAIEpiphany/videos)
