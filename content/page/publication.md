@@ -105,7 +105,7 @@ title = "Publication"
 1. [(heading) 65th ISI World Statistics Congress 2025](https://www.isi-next.org/conferences/isi-wsc2025/), Hague, Netherlands, October 2025.
     - Poster session 
     - Title: Frank copula is the minimum information copula under fixed Kendall's τ
-1. [Copula workshop 2025](), Tokyo, Japan, May 2025.
+1. [(heading) Hitotsubashi workshop on dependence modeling with applications](https://sites.google.com/view/takaakikoike/workshop/hitotsubashi-workshop-on-dependence-modeling-with-applications?authuser=0), Tokyo, Japan, May 2025.
     - Oral presentation
     - Title: Frank copula, minimum information copula, and relative local dependence
 1. [FDIG 2025](https://sites.google.com/view/fdig2025/), Tokyo, Japan, March 2025.
