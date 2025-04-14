@@ -41,17 +41,21 @@ title = "Bookmark"
 - [statsmodels](https://www.statsmodels.org/dev/distributions.html#copula)
 - [コピュラ入門 Tensorflowによる解説](https://www.tensorflow.org/probability/examples/Gaussian_Copula?hl=ja)
 - [BBコピュラたち](https://mediatum.ub.tum.de/doc/1691185/sxg7ezl0gnu5fjc7kqjxway43.pdf)
-
+- [Cylcop](https://cylcop.shinyapps.io/cylcop-graphs/)
 
 
 #### 有用なデータソース
 - [pandas datareader](https://pandas-datareader.readthedocs.io)
     - 使い方：[【Python】 経済指標・財務諸表データ取得完全攻略](https://oeconomicus.jp/2021/05/python-economicdata/)
+- Brain MINDS 2.0, 小松先生(RIKEN)らによるMarmosetのECoGデータセット
+    - [1](https://dataportal.brainminds.jp/ecog-auditory-01)
+    - [2](https://dataportal.brainminds.jp/ecog-auditory-02)
+    - [EEGのMontageについての解説](https://www.learningeeg.com/montages-and-technical-components)
+
 
 ### 時系列モデル
 - [Brockwell and Davis]()
 - [ARモデルの推定（北川先生）](http://www.mi.u-tokyo.ac.jp/mds-oudan/lecture_document_2019_math7/時系列解析（６）_2019.pdf)
-
 
 
 ### 方向統計学

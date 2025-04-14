@@ -53,6 +53,7 @@ title = "About me"
 
 
 ##### 掲載・登壇
+- 2025.4.17 [NVIDIA ソブリンAIヘルスケアDay with Macnica](https://go.macnica.co.jp/Entry-CLV-RS-NV-20250417-Sovereign-AI-Healthcare-Day.html)
 - 2025.3.14 [TAI AMAJ #05 「医薬領域特化LLMの開発と実用」](https://lu.ma/mzxodxyl)
 - 2024.12.11 [第13回岡山大学AI研究会 招待講演](https://www.cc.okayama-u.ac.jp/imelab/ouai/index.html)
 - 2024.11.22 [[経済産業省] GENIAC通信](https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/kickoffevents_2_1.html)
