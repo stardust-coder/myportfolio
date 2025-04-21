@@ -64,6 +64,10 @@ title = "Publication"
 ##### Preprint （紀要）
 <br />
 
+1. Yingjian Chen, Feiyang Li, Xingyu Song, Tianxiao Li, Issey Sukeda, and Irene Li
+<u>**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**</u>
+[✔︎arxiv](https://arxiv.org/pdf/2504.10982)
+
 1. 峰岸剛基, 高木洋羽, 木澤翔太, 助田一晟, 谷中 瞳
 <u>**大規模言語モデルにおいて数値属性間で共有されるスケーリングベクトルの解析とその応用**</u>
 [言語処理学会 第31回年次大会発表論文集](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A6-2.pdf)
