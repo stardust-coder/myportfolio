@@ -3,7 +3,7 @@ image = "img/blog.png"
 showonlyimage = true
 date = "2025-02-18T00:00:00+00:00"
 title = "ヘルスケア領域におけるAI利活用"
-draft = true
+draft = false
 weight = 999
 +++
 

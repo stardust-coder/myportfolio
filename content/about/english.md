@@ -30,6 +30,7 @@ Any collaboration, job offer, or discussion is welcome !
 * [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM) is the curation of the latest and competent LLMs, including medical domain adaptation.
 
 #### 🗒 Statistics Projects
+* [Minimum information modeling]()
 * [Torus Graph Modelling implementation in Python](https://github.com/stardust-coder/torus_graph_modelling)
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates the density function of minimum information copula, the most natural copula under predetermined constraints. 
 * [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index) is the Python implementation of [Sei (2016)](https://www.sciencedirect.com/science/article/pii/S0047259X16000269).
@@ -37,11 +38,14 @@ Any collaboration, job offer, or discussion is welcome !
 #### 💰 Fundings & Grants
 
 * [RIKEN CBS Junior Research Associate](https://www.riken.jp/careers/programs/jra/)
-* IST-RA
+* IST-RA, funded by UTokyo.
 * [AIST KAKUSEI]((https://www.aist.go.jp/aist_j/news/au20231208.html)), funded by AIST.
 * JEES Softbank AI scholarship
 
 #### 🏆 Awards
+
+**2024**
+* KAKUSEI Award, AIST.
 
 **2024**
 * 🥇 1st Place, CBS Retreat 2024 - Poster Theory/Tech Award, RIKEN CBS

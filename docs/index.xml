@@ -6,7 +6,7 @@
     <description>Recent content on ISSEY SUKEDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Juggling</title>
       <link>https://stardust-coder.github.io/myportfolio/portfolio/juggling/</link>
@@ -73,21 +73,25 @@
     </item>
     
     <item>
-      <title>My Pace</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/mypace/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <title>コピュラ統計学について</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/blog_2/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/mypace/</guid>
-      <description>&lt;p&gt;自分だけの時の流れ&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/blog_2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>My Portfolio</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/work999/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <title>ヘルスケア領域におけるAI利活用</title>
+      <link>https://stardust-coder.github.io/myportfolio/portfolio/blog_1/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/work999/</guid>
-      <description>&lt;p&gt;このポートフォリオ&lt;/p&gt;</description>
+      <guid>https://stardust-coder.github.io/myportfolio/portfolio/blog_1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ヘルスケア領域 (Healthcare)&lt;/strong&gt; におけるAI、特に生成AIの近年の利活用事例について調査します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;医療 (Clinic) : 病院を中心に&lt;/li&gt;
+&lt;li&gt;医薬 (Drug) : 製薬会社を中心に&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
