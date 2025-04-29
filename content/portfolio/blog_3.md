@@ -3,9 +3,9 @@ image = "img/blog.jpeg"
 showonlyimage = true
 date = "2025-03-22T00:00:00+00:00"
 title = "Singular statistical models"
-draft = false
+draft = true
 weight = 999
-+++
++++w
 
 <!--more-->
 

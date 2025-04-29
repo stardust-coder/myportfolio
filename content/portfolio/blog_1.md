@@ -1,46 +1,47 @@
 +++
-image = "img/blog.jpeg"
+image = "img/blog.png"
 showonlyimage = true
 date = "2025-02-18T00:00:00+00:00"
-title = "BLOG: ヘルスケア領域におけるAI利活用の情報収集方法"
-draft = false
+title = "ヘルスケア領域におけるAI利活用"
+draft = true
 weight = 999
 +++
 
-<!--more-->
 
-**ヘルスケア領域 (Healthcare)**
-- 医療 (Clinic) : 病院を中心
-- 医薬 (Drug) : 製薬会社を中心
-- 生物 (Bio) : 生物学を中心
+**ヘルスケア領域 (Healthcare)** におけるAI、特に生成AIの近年の利活用事例について調査します。
+- 医療 (Clinic) : 病院を中心に
+- 医薬 (Drug) : 製薬会社を中心に
+
+
+<!--more-->
 
 ---
 
-国内の動向
+### 国内の動向
 
 - [SIP 統合型ヘルスケアシステムの構築](https://sip3.ncgm.go.jp/)
     - 大型予算の国プロ
 - スタートアップ
-    - 医療：Ubie, MICIN, Medleyなど.
-    - 医薬：創薬AIが多数. その他周辺領域は現在EQUESで掘り進めています.
-    - 生物：多数.
-    - 周辺業務、周辺機器：電子カルテ等
 - 研究機関
-    - NAIST荒巻研, 東大病院循環器内科, NII&LLM-jpなど
-
+    - NAIST荒巻研
+    - 東大病院
+- 医療LLM
+    - LLM-jp
+    - PFN
+    - EQUES（製薬）
 
 ---
 
-海外の動向
+### 海外の動向
 
 **Academic**
 - [OpenLifeScience](https://openlifescience.ai/)
     - 医療AIの研究集団
     - Twitterの発信が豊富. 最新の論文を紹介している.
 - BigTechのHealthcare department
-    - Google Research (DeepMind) : MedGemini
+    - Google Research (DeepMind) :　MedPaLM, MedGemini, AMIE
     - Microsoft Research : GPT, LLaVA-Med
-    - Apple : 生体信号とウェアラブル
+    - Apple : 生体信号とウェアラブルの基盤モデル
 
 **Business**
 - [Healthcare Startups funded by Y Combinator (YC) 2025](https://www.ycombinator.com/companies/industry/healthcare)
