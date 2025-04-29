@@ -4,7 +4,7 @@ title = "About me"
 +++
 
 ##### 東京大学 大学院情報理工学系研究科
-##### [株式会社EQUES](https://www.eques.co.jp) Co-Founder&CTO  
+##### [株式会社EQUES](https://www.eques.co.jp) Co-Founder & 取締役CTO  
 
 ![This is me][1]
 
@@ -14,11 +14,11 @@ title = "About me"
 * 2025.3 [プレプリント](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)を公開しました。
 <br> 
 
-##### 略歴
-
+##### [略歴](https://www.wantedly.com/id/issey_sukeda)
 東京大学工学部計数工学科在学時に株式会社EQUESを共同創業，取締役・CTO．
 数理統計手法や医療LLMの研究者．
 産総研「覚醒プロジェクト」研究代表者．EQUESのGENIAC事業統括．
+
 
 ##### 研究内容
 

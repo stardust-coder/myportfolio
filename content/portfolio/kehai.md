@@ -10,4 +10,6 @@ weight = 6
 「気配」を起点にしたコミュニケーションとは
 <!--more-->
 
-QWS SHIBUYA プロジェクト
+QWS SHIBUYA プロジェクトに採択されました.
+
+[もっと見る](https://shibuya-qws.com/project/kehai)
