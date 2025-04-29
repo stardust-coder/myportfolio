@@ -4,7 +4,7 @@ title = "About me"
 +++
 
 
-This is Issey Sukeda. Currently, I am a D1 student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda.
+This is Issey Sukeda. Currently, I am a D2 student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda.
 My interest covers statistics and operations research.
 My full publications can be accessed from [Publications](https://stardust-coder.github.io/myportfolio/page/publication/).
 Any collaboration, job offer, or discussion is welcome !

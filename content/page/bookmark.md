@@ -63,7 +63,23 @@ title = "Bookmark"
 - Kent and Tyler(1988) [巻き込みコーシー分布の最尤推定](https://www.tandfonline.com/doi/abs/10.1080/02664768800000029)
 - [ごちきか PSDとCSD](https://gochikika.ntt.com/Visualization_and_EDA/spectral_visualization.html)
 
-### 学会・雑誌・研究者
+
+### NeuroScience
+#### Cross-frequency coupling 
+- [Jirsa and Muller](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2013.00078/full)
+- [Cancino EEGLab Workshop](https://sccn.ucsd.edu/githubwiki/files/pac_rmc.pdf)
+- []
+
+
+
+
+
+
+
+
+
+
+### その他
 - [日本の統計学者](https://sites.google.com/site/shoutoyonekura/国内の統計学者リスト)
 - [恩師の記事](https://www.u-tokyo.ac.jp/focus/ja/features/voices036.html)
 - [オックスフォード大学の関連組織](https://www.oxford-man.ox.ac.uk/research-overview/)
@@ -71,8 +87,6 @@ title = "Bookmark"
 - [CWTS Journal Indicators](https://www.journalindicators.com/indicators)
 - [SJR](https://www.scimagojr.com/journalrank.php?category=2613)
 - [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/search?type=allSearch&allSearchType=&term=EJOR&page=1&per_page=10)
-
-### その他
 - [RISK.net](https://www.risk.net)
 - [金融情報学ブックマーク（和泉先生）](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol37-no1/)
 - [データサイエンスの魅力](https://engineer-lab.findy-code.io/jobs-in-statistics)

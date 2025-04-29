@@ -12,17 +12,17 @@ title = "About me"
 ##### お知らせ
 * 2025.3 覚醒プロジェクト「破」を受賞しました.
 * 2025.3 [プレプリント](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)を公開しました。
-* 🎉 2024.12 主著論文がStatistical PapersにAcceptされました！
-* 🎉 2024.10 主著論文がStatistics & Probability LettersにAcceptされました！ [paper](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)
 <br> 
 
 ##### 略歴
 
-東京大学工学部計数工学科在学時に株式会社EQUESを共同創業, CTOを務める. PFN, 松尾研を経て, 現在は数理統計や医薬特化LLMの研究開発を行う. 産総研「覚醒プロジェクト」研究代表者. EQUESのGENIAC事業統括.
+東京大学工学部計数工学科在学時に株式会社EQUESを共同創業，取締役・CTO．
+数理統計手法や医療LLMの研究者．
+産総研「覚醒プロジェクト」研究代表者．EQUESのGENIAC事業統括．
 
 ##### 研究内容
 
-コピュラ統計学をベースに、LLM・センシング・ヘルスケア・神経科学などに取り組んでいます。
+コピュラ統計学を主とし、医療LLM・センシング・ヘルスケア・神経科学などにも取り組んでいます。
 
 ##### 獲得支援
 
