@@ -1,8 +1,8 @@
 +++
-image = ""
+image = "img/medicalllm.png"
 showonlyimage = true
 date = "224-04-09T19:44:32+05:30"
-title = "医療AI・医療LLMの研究開発：これまでの取り組み実績"
+title = "医療LLM"
 draft = false
 weight = 3
 +++
@@ -13,14 +13,14 @@ weight = 3
 
 ---
 [実績]
-1. [経産省NEDO　GENIAC「薬学分野・製薬業務に特化したLLMの開発」](#anchor8)
+1. [EQUES | 経産省NEDO　GENIAC「薬学分野・製薬業務に特化したLLMの開発」](#anchor8)
 1. [岡山大学AI研究会](#anchor7)  
 1. [東大松尾研LLM講座](#anchor6)    
-1. [7B パラメタの日本語医療LLMの作成, NeurIPS WS 2024](#anchor5)
-1. [医療LLMのベンチマークの作成](#anchor4)  
-1. [70Bパラメタの日本語医療LLM開発](#anchor3)    
-1. [OpenCALM(7B)・Llama2(70B)の日本語医療適応, NeurIPS WS 2023](#anchor2)  
-1. [心電図から心疾患や年齢予測を行うAIモデル, NeurIPS WS 2022](#anchor1)  
+1. [覚醒プロジェクト | 7B パラメタの日本語医療LLMの作成, NeurIPS WS 2024](#anchor5)
+1. [覚醒プロジェクト | 医療LLMのベンチマークの作成](#anchor4)  
+1. [東大病院 | 70Bパラメタの日本語医療LLM開発](#anchor3)    
+1. [東大病院 | OpenCALM(7B)・Llama2(70B)の日本語医療適応, NeurIPS WS 2023](#anchor2)  
+1. [東大病院 | 心電図から心疾患や年齢予測を行うAIモデル, NeurIPS WS 2022](#anchor1)  
 ---
 
 <a id="anchor0"></a>
@@ -79,8 +79,8 @@ weight = 3
 #### 医療LLMのベンチマークの作成
 
 ```
-医療LLMのベンチマーク評価プログラムとリーダーボードの作成. 日英対訳の医学質問応答の正答率を評価する目的.　　
-プロンプトで容易に出力や精度が変化したりすることもあり, フェアな評価手法については悩ましい.
+医療LLMのベンチマーク評価プログラムとリーダーボードの作成. 日英対訳の医学質問応答の正答率を評価する目的. プロンプトで容易に出力や精度が変化したりすることもあり, フェアな評価手法については議論の余地が多分にあります. 
+本取り組みは産総研「覚醒プロジェクト」の支援を受けています.
 ```
 論点  
 ・Q&Aの５択問題を解かせるので良いのか.  国家試験でいいのか.  
@@ -108,7 +108,7 @@ weight = 3
 #### OpenCALM(7B)・Llama2(70B)の日本語医療適応
 
 ```
-日本で初めてLLMの医療チューニングへの挑戦.
+2023年の取り組み. 日本で初めてLLMの医療チューニングへの挑戦.
 ```
 
 1. [学習済みモデル(huggingface)](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000)

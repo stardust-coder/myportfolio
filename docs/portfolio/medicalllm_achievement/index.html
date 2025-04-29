@@ -112,19 +112,19 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-12">
       <div class="content-column-content">
-        <h1>医療AI・医療LLMの研究開発：これまでの取り組み実績</h1>
+        <h1>医療LLM</h1>
         <p>医療AI・医療LLMの研究開発：これまでの自身の取り組み</p>
 <hr>
 <p>[実績]</p>
 <ol>
-<li><a href="#anchor8">経産省NEDO　GENIAC「薬学分野・製薬業務に特化したLLMの開発」</a></li>
+<li><a href="#anchor8">EQUES | 経産省NEDO　GENIAC「薬学分野・製薬業務に特化したLLMの開発」</a></li>
 <li><a href="#anchor7">岡山大学AI研究会</a></li>
 <li><a href="#anchor6">東大松尾研LLM講座</a></li>
-<li><a href="#anchor5">7B パラメタの日本語医療LLMの作成, NeurIPS WS 2024</a></li>
-<li><a href="#anchor4">医療LLMのベンチマークの作成</a></li>
-<li><a href="#anchor3">70Bパラメタの日本語医療LLM開発</a></li>
-<li><a href="#anchor2">OpenCALM(7B)・Llama2(70B)の日本語医療適応, NeurIPS WS 2023</a></li>
-<li><a href="#anchor1">心電図から心疾患や年齢予測を行うAIモデル, NeurIPS WS 2022</a></li>
+<li><a href="#anchor5">覚醒プロジェクト | 7B パラメタの日本語医療LLMの作成, NeurIPS WS 2024</a></li>
+<li><a href="#anchor4">覚醒プロジェクト | 医療LLMのベンチマークの作成</a></li>
+<li><a href="#anchor3">東大病院 | 70Bパラメタの日本語医療LLM開発</a></li>
+<li><a href="#anchor2">東大病院 | OpenCALM(7B)・Llama2(70B)の日本語医療適応, NeurIPS WS 2023</a></li>
+<li><a href="#anchor1">東大病院 | 心電図から心疾患や年齢予測を行うAIモデル, NeurIPS WS 2022</a></li>
 </ol>
 <hr>
 <p><a id="anchor0"></a></p>
@@ -174,8 +174,8 @@ if (!doNotTrack) {
 </ol>
 <p><a id="anchor4"></a></p>
 <h4 id="医療llmのベンチマークの作成">医療LLMのベンチマークの作成</h4>
-<pre tabindex="0"><code>医療LLMのベンチマーク評価プログラムとリーダーボードの作成. 日英対訳の医学質問応答の正答率を評価する目的.　　
-プロンプトで容易に出力や精度が変化したりすることもあり, フェアな評価手法については悩ましい.
+<pre tabindex="0"><code>医療LLMのベンチマーク評価プログラムとリーダーボードの作成. 日英対訳の医学質問応答の正答率を評価する目的. プロンプトで容易に出力や精度が変化したりすることもあり, フェアな評価手法については議論の余地が多分にあります. 
+本取り組みは産総研「覚醒プロジェクト」の支援を受けています.
 </code></pre><p>論点<br>
 ・Q&amp;Aの５択問題を解かせるので良いのか.  国家試験でいいのか.<br>
 ・Q&amp;Aの５択問題の正解率を評価するにはどうするのが良いか. ← 最近はhuggingface等を通して統一的になりつつある.</p>
@@ -197,7 +197,7 @@ if (!doNotTrack) {
 </ol>
 <p><a id="anchor2"></a></p>
 <h4 id="opencalm7bllama270bの日本語医療適応">OpenCALM(7B)・Llama2(70B)の日本語医療適応</h4>
-<pre tabindex="0"><code>日本で初めてLLMの医療チューニングへの挑戦.
+<pre tabindex="0"><code>2023年の取り組み. 日本で初めてLLMの医療チューニングへの挑戦.
 </code></pre><ol>
 <li><a href="https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000">学習済みモデル(huggingface)</a></li>
 <li><a href="https://arxiv.org/abs/2310.10083">論文：JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning</a></li>
