@@ -1,5 +1,5 @@
 +++
-image = "img/blog.jpeg"
+image = "img/blog.png"
 showonlyimage = true
 date = "2025-02-18T00:00:00+00:00"
 title = "コピュラ統計学について"

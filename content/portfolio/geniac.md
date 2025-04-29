@@ -7,8 +7,10 @@ draft = false
 weight = 5
 +++
 
-GENIAC（EQUES Inc.）
+GENIAC「薬学分野・製薬業務に特化したLLM開発」
 
-製薬特化LLM開発プロジェクト.  
-CTOとして事業統括を務めました.  
+株式会社EQUESの製薬特化LLM開発プロジェクト.  CTOとして事業統括を務めました.  
+
 <!--more-->
+
+[もっと見る](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/#anchor8)
