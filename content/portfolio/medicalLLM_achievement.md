@@ -5,10 +5,11 @@ date = "224-04-09T19:44:32+05:30"
 title = "医療LLM"
 draft = false
 weight = 3
+description = "医療×LLMでドメイン特化AIを開発する取り組みの成果を紹介します。"
 +++
 
-医療AI・医療LLMの研究開発：これまでの自身の取り組み
-
+医療AI・医療×LLMの研究開発：これまでの自身の取り組み
+- 医療に関連する自然言語処理分野において, ドメイン特化AIを開発する取り組みの成果を紹介します。
 <!--more-->
 
 ---
@@ -21,6 +22,9 @@ weight = 3
 1. [東大病院 | 70Bパラメタの日本語医療LLM開発](#anchor3)    
 1. [東大病院 | OpenCALM(7B)・Llama2(70B)の日本語医療適応, NeurIPS WS 2023](#anchor2)  
 1. [東大病院 | 心電図から心疾患や年齢予測を行うAIモデル, NeurIPS WS 2022](#anchor1)  
+---
+[記事]
+1. [医療LLMとは](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)
 ---
 
 <a id="anchor0"></a>
