@@ -3,6 +3,16 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Bookmark"
 +++
 
+
+- [コピュラ統計学](#anchor0)
+- [時系列モデル](#anchor1)
+- [方向統計学](#anchor2)
+- [多変量解析](#anchor3)
+- [Neuroscience](#anchor4)
+- [その他](#anchor999)
+
+
+<a id="anchor0"></a>
 ### コピュラ統計学
 
 #### 最初に読むべき教科書
@@ -52,34 +62,33 @@ title = "Bookmark"
     - [2](https://dataportal.brainminds.jp/ecog-auditory-02)
     - [EEGのMontageについての解説](https://www.learningeeg.com/montages-and-technical-components)
 
-
+<a id="anchor1"></a>
 ### 時系列モデル
 - [Brockwell and Davis]()
 - [ARモデルの推定（北川先生）](http://www.mi.u-tokyo.ac.jp/mds-oudan/lecture_document_2019_math7/時系列解析（６）_2019.pdf)
 
-
+<a id="anchor2"></a>
 ### 方向統計学
-- Kato [円周上のコーシー分布と関連した統計モデル](https://www.jstage.jst.go.jp/article/jjssj/46/1/46_85/_pdf)
-- Kent and Tyler(1988) [巻き込みコーシー分布の最尤推定](https://www.tandfonline.com/doi/abs/10.1080/02664768800000029)
+- [円周上のコーシー分布と関連した統計モデル](https://www.jstage.jst.go.jp/article/jjssj/46/1/46_85/_pdf)
+- [巻き込みコーシー分布の最尤推定](https://www.tandfonline.com/doi/abs/10.1080/02664768800000029)
 - [ごちきか PSDとCSD](https://gochikika.ntt.com/Visualization_and_EDA/spectral_visualization.html)
 
+<a id="anchor3"></a>
+### 多変量解析
+- [Zonal多項式（竹村先生）](https://www.jstage.jst.go.jp/article/sugaku1947/42/2/42_2_111/_pdf/-char/ja)
 
+<a id="anchor4"></a>
 ### NeuroScience
+
 #### Cross-frequency coupling 
 - [Jirsa and Muller](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2013.00078/full)
 - [Cancino EEGLab Workshop](https://sccn.ucsd.edu/githubwiki/files/pac_rmc.pdf)
-- []
 
 
 
-
-
-
-
-
-
-
+<a id="anchor999"></a>
 ### その他
+
 - [日本の統計学者](https://sites.google.com/site/shoutoyonekura/国内の統計学者リスト)
 - [恩師の記事](https://www.u-tokyo.ac.jp/focus/ja/features/voices036.html)
 - [オックスフォード大学の関連組織](https://www.oxford-man.ox.ac.uk/research-overview/)
