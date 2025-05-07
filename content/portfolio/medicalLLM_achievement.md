@@ -24,7 +24,8 @@ description = "医療×LLMでドメイン特化AIを開発する取り組みの�
 1. [東大病院 | 心電図から心疾患や年齢予測を行うAIモデル, NeurIPS WS 2022](#anchor1)  
 ---
 [記事]
-1. [医療LLMとは](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)
+1. [医療LLMとは](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm/)
+2. [ヘルスケア領域におけるAI利活用](https://stardust-coder.github.io/myportfolio/portfolio/blog_1/)
 ---
 
 <a id="anchor0"></a>

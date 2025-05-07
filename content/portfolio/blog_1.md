@@ -8,29 +8,30 @@ weight = 999
 +++
 
 
-**ヘルスケア領域 (Healthcare)** におけるAI、特に生成AIの近年の利活用事例について調査します。
-- 医療 (Clinic) : 病院を中心に
-- 医薬 (Drug) : 製薬会社を中心に
-
+ヘルスケア領域 (Healthcare)におけるAI、特に生成AIの近年の利活用事例について
 
 <!--more-->
 
 ---
 
+**ヘルスケア領域 (Healthcare)** におけるAI、特に生成AIの近年の利活用事例について調査します。
+- 医療 (Clinic) : 病院を中心に
+- 医薬 (Drug) : 製薬会社を中心に
+
 ### 国内の動向
 
 - [SIP 統合型ヘルスケアシステムの構築](https://sip3.ncgm.go.jp/)
     - 大型予算の国プロ
+    - NII
 - スタートアップ
 - 研究機関
     - NAIST荒巻研
     - 東大病院
 - 医療LLM
     - LLM-jp
-    - PFN
-    - EQUES（製薬）
+    - Preferred Networks
+    - EQUES（製薬, GENIAC）
 
----
 
 ### 海外の動向
 
