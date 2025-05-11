@@ -14,15 +14,18 @@ title = "About me"
 * 2025.3 [プレプリント](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)を公開しました。
 <br> 
 
-##### [略歴](https://www.wantedly.com/id/issey_sukeda)
-東京大学工学部計数工学科在学時に株式会社EQUESを共同創業，取締役・CTO．
-数理統計手法や医療LLMの研究者．
-産総研「覚醒プロジェクト」研究代表者．EQUESのGENIAC事業統括．
-
-
 ##### 研究内容
 
-コピュラ統計学を主とし、医療LLM・センシング・ヘルスケア・神経科学などにも取り組んでいます。
+コピュラ統計学と[医療LLM](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)に取り組んでいます。
+
+##### 職歴
+
+- [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) 講師
+- [株式会社松尾研究所](https://matsuo-institute.com) プロジェクトマネジャー
+- [東京大学医学部附属病院](https://cardiovasc.m.u-tokyo.ac.jp/study/ai) 学術専門職員（AIリサーチャー）
+- [Preferred Networks](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/) サマーインターンシップ（研究）
+
+---
 
 ##### 獲得支援
 
@@ -67,11 +70,9 @@ title = "About me"
 
 
 ##### その他職歴
-- [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024Fall](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) 講師
+
 - [東京大学データサイエンスコモンズ](http://www.mi.u-tokyo.ac.jp/dscommons/) TA
 - [東大エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) TA
-- [株式会社松尾研究所](https://matsuo-institute.com) プロジェクトマネジャー
-- [東京大学医学部附属病院](https://cardiovasc.m.u-tokyo.ac.jp/study/ai) 学術専門職員 
 - [インクルーシブ工学連携機構（RIISE）](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) 研究協力員 
 
 

@@ -85,24 +85,6 @@ title = "Publication"
 [✔︎arxiv](https://arxiv.org/abs/2406.14882)
 
 
-##### Projects
-
-**LLM**
-* [日本語医療LLM JMedLLM-7B-v1](https://huggingface.co/stardust-coder/jmedllm-7b-v1)・・・現在非公開
-* [日本語医療モデル評価用ベンチマーク / Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness)
-* [日本語医療LLM MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b)
-* [日本語医療QAデータセット JJSIMQA](https://huggingface.co/datasets/AIgroup-CVM-utokyohospital/JJSIMQA)・・・現在非公開
-* [日本語医療LLM JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000)
-* [最新LLMモデルまとめ awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM)
-* [LLama2-70Bの日本語インストラクションチューニングモデル](https://huggingface.co/AIgroup-CVM-utokyohospital/Llama-2-70b-chat-4bit-japanese)
-
-
-**Statistics**
-* [Regularized score matching of torus graph model applied to EEG phase-based connectivity analyses](https://github.com/stardust-coder/torus_graph_modelling)
-* [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula)
-* [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index)
-
-
 ##### Talks（研究発表）
 <br />
 

@@ -44,10 +44,10 @@ description = "医療×LLMでドメイン特化AIを開発する取り組みの�
 <a id="anchor8"></a>
 #### （関連）経産省NEDO　GENIAC「薬学分野・製薬業務に特化したLLMの開発」
 ```
-株式会社EQUESの事業として、国内初（世界でも事例わずか）の製薬領域に特化したLLMの開発に挑戦しました。本事業の一環で、特化モデルだけではなく、薬剤師国家試験・名寄せ・齟齬点検の３種類のベンチマークを独自に構築しました。成果の大部分はパブリックに公開し、GENIACコミュニティおよびライフサイエンス業界の発展に貢献していきます。本プロジェクトはNEDOの支援を受けています。
+株式会社EQUESの事業として、統括として、国内初（世界でも事例わずか）の製薬領域に特化したLLMの開発に挑戦しました。本事業の一環で、特化モデルだけではなく、薬剤師国家試験・名寄せ・齟齬点検の３種類のベンチマークを独自に構築しました。成果の大部分はパブリックに公開し、GENIACコミュニティおよびライフサイエンス業界の発展に貢献していきます。本プロジェクトはNEDOの支援を受けています。
 ```
 
-1. [学習済みモデル（huggingface）]()
+1. [学習済みモデル（huggingface）](https://huggingface.co/collections/EQUES/jpharmatron-680a330b4dfce3ac43009984)
 1. 登壇
     - [NVIDIA ソブリンAIヘルスケアDay with Macnica](https://go.macnica.co.jp/Entry-CLV-RS-NV-20250417-Sovereign-AI-Healthcare-Day.html)
     - [TAI AMAJ #05 「医薬領域特化LLMの開発と実用」](https://lu.ma/mzxodxyl)

@@ -29,9 +29,13 @@ Any collaboration, job offer, or discussion is welcome !
 * [JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000) is the first Japanese medical LLM finetuned from Llama2.
 * [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM) is the curation of the latest and competent LLMs, including medical domain adaptation.
 
+#### 💊 Pharma LLM Projects
+* [JPharmatron-7B](https://huggingface.co/collections/EQUES/jpharmatron-680a330b4dfce3ac43009984) is the first Japanese pharmaceutical domain specific LLM, developed along with new benchamrks [JPharmaBench](https://huggingface.co/collections/EQUES/jpharmabench-680a34acfe96870e41d050d8).
+
+
 #### 🗒 Statistics Projects
-* [Minimum information modeling]()
-* [Torus Graph Modelling implementation in Python](https://github.com/stardust-coder/torus_graph_modelling)
+* [Minimum information Markov model](https://github.com/stardust-coder/min-info-markov)
+* [Torus Graph Modeling × EEG](https://github.com/stardust-coder/torus_graph_modelling)
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates the density function of minimum information copula, the most natural copula under predetermined constraints. 
 * [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index) is the Python implementation of [Sei (2016)](https://www.sciencedirect.com/science/article/pii/S0047259X16000269).
 
