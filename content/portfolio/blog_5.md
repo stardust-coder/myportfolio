@@ -2,7 +2,7 @@
 image = "img/blog.png"
 showonlyimage = true
 date = "2025-03-22T00:00:00+00:00"
-title = "FGMコピュラが使える話"
+title = "FGMコピュラが意外と使える話"
 draft = true
 weight = 999
 +++

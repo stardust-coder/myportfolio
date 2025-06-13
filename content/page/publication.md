@@ -12,11 +12,11 @@ title = "Publication"
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
-    , Statistical Papers, 2024. [✔︎arxiv](https://arxiv.org/abs/2306.01604) [✔︎paper](https://link.springer.com/article/10.1007/s00362-024-01648-9)
+    , Statistical Papers, 2025. [✔︎arxiv](https://arxiv.org/abs/2306.01604) [✔︎paper](https://link.springer.com/article/10.1007/s00362-024-01648-9)
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Frank copula is minimum information copula under fixed Kendall's τ**</u>
-    , Statistics & Probability Letters, 2024. [✔︎arxiv](https://arxiv.org/abs/2406.14814) [✔︎paper](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)
+    , Statistics & Probability Letters, 2025. [✔︎arxiv](https://arxiv.org/abs/2406.14814) [✔︎paper](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)
 
 1. Issey Sukeda, Masahiro Suzuki, Hiroki Sakaji, Satoshi Kodera:  
 <u>**Development and analysis of medical instruction-tuning for Japanese large language models**</u>
@@ -31,8 +31,13 @@ title = "Publication"
     , Plos one 17(10), 2022. [✔︎paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276928)
 
 
-##### Reviewed International Conference Proceedings （国際学会, 査読付のみ）
+##### Reviewed International Conference （国際学会, 査読付のみ）
 <br />
+
+1. Yingjian Chen, Feiyang Li, Xingyu Song, Tianxiao Li, Issey Sukeda, and Irene Li:  
+<u>**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**</u>
+, SLM4Health Workshop in Artificial Intelligence in Medicine Conference, 2025.
+[✔︎workshop](https://slm4health2025.netlify.app/) [✔︎arxiv](https://arxiv.org/pdf/2504.10982)
 
 1. Issey Sukeda:  
 <u>**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**</u>
@@ -64,15 +69,16 @@ title = "Publication"
 ##### Preprint （紀要）
 <br />
 
-1. Yingjian Chen, Feiyang Li, Xingyu Song, Tianxiao Li, Issey Sukeda, and Irene Li
-<u>**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**</u>
-[✔︎arxiv](https://arxiv.org/pdf/2504.10982)
+1. Issey Sukeda, Takuro Fujii, Kosei Buma, Shunsuke Sasaki, Shinnosuke Ono  
+<u>**A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP**</u>
+[✔︎arxiv](http://arxiv.org/abs/2505.16661)
 
-1. 峰岸剛基, 高木洋羽, 木澤翔太, 助田一晟, 谷中 瞳
+
+1. 峰岸剛基, 高木洋羽, 木澤翔太, 助田一晟, 谷中 瞳  
 <u>**大規模言語モデルにおいて数値属性間で共有されるスケーリングベクトルの解析とその応用**</u>
 [言語処理学会 第31回年次大会発表論文集](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A6-2.pdf)
 
-1. Issey Sukeda and Takeru Matsuda:
+1. Issey Sukeda and Takeru Matsuda:  
 <u>**Directional statistical graphical modeling of phase-based connectivity**</u>
 [✔︎biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)
 
@@ -91,10 +97,12 @@ title = "Publication"
 1. [(heading) 65th ISI World Statistics Congress 2025](https://www.isi-next.org/conferences/isi-wsc2025/), Hague, Netherlands, October 2025.
     - Poster session 
     - Title: Frank copula is the minimum information copula under fixed Kendall's τ
-1. [(heading) SNAB 2025](https://yangfengstat.github.io/snab2025/), Tokyo, Japan, June 2025.
+1. [統計サマーセミナー 2025](), Kagawa, Japan, August 2025.
+    - Title: Dependence modeling for phase-based coupling on EEG data
+1. [SNAB 2025](https://yangfengstat.github.io/snab2025/), Tokyo, Japan, June 2025.
     - Poster session
     - Title : Torus graph modelling for EEG analysis
-1. [(heading) Hitotsubashi workshop on dependence modeling with applications](https://sites.google.com/view/takaakikoike/workshop/hitotsubashi-workshop-on-dependence-modeling-with-applications?authuser=0), Tokyo, Japan, May 2025.
+1. [Hitotsubashi workshop on dependence modeling with applications](https://sites.google.com/view/takaakikoike/workshop/hitotsubashi-workshop-on-dependence-modeling-with-applications?authuser=0), Tokyo, Japan, May 2025.
     - Oral presentation
     - Title: Frank copula, minimum information copula, and relative local dependence
 1. [FDIG 2025](https://sites.google.com/view/fdig2025/), Tokyo, Japan, March 2025.

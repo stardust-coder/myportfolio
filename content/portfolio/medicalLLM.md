@@ -16,8 +16,6 @@ weight = 3
 [目次]
 1. [医療LLMとは](#anchor1) 
 1. [代表的な医療LLM](#anchor2) 
-1. [医療LLMの実応用に向けた研究](#anchor3) 
-
 
 ---
 
@@ -74,9 +72,7 @@ PFN社が公開している72Bサイズのモデルです. Qwen2.5-72Bに対し�
 
 ---
 より詳細にご興味がある方は私が作成していますまとめ資料をぜひご覧ください.
+- [JMedData4LLM](https://github.com/stardust-coder/jmed-data-for-llm)
 - [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM)
 - [SpeakerDeck「医療分野に特化したLLM　研究紹介」](https://speakerdeck.com/stardust11)
 ---
-
-<a id="anchor3"></a>
-### 医療LLMの実応用に向けた研究

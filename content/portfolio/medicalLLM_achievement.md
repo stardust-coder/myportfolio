@@ -13,7 +13,7 @@ description = "医療×LLMでドメイン特化AIを開発する取り組みの�
 <!--more-->
 
 ---
-[実績]
+[実績] 新しい順.
 1. [EQUES | 経産省NEDO　GENIAC「薬学分野・製薬業務に特化したLLMの開発」](#anchor8)
 1. [岡山大学AI研究会](#anchor7)  
 1. [東大松尾研LLM講座](#anchor6)    
@@ -26,6 +26,7 @@ description = "医療×LLMでドメイン特化AIを開発する取り組みの�
 [記事]
 1. [医療LLMとは](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm/)
 2. [ヘルスケア領域におけるAI利活用](https://stardust-coder.github.io/myportfolio/portfolio/blog_1/)
+3. [医療AIエージェント構築に向けた材料]()
 ---
 
 <a id="anchor0"></a>
@@ -48,6 +49,8 @@ description = "医療×LLMでドメイン特化AIを開発する取り組みの�
 ```
 
 1. [学習済みモデル（huggingface）](https://huggingface.co/collections/EQUES/jpharmatron-680a330b4dfce3ac43009984)
+1. [ベンチマーク]()
+1. [プレプリント論文]()
 1. 登壇
     - [NVIDIA ソブリンAIヘルスケアDay with Macnica](https://go.macnica.co.jp/Entry-CLV-RS-NV-20250417-Sovereign-AI-Healthcare-Day.html)
     - [TAI AMAJ #05 「医薬領域特化LLMの開発と実用」](https://lu.ma/mzxodxyl)

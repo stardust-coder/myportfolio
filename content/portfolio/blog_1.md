@@ -27,10 +27,11 @@ weight = 999
 - 研究機関
     - NAIST荒巻研
     - 東大病院
-- 医療LLM
-    - LLM-jp
+- 国内の医療LLM
+    - LLM-JP
+    - SIP（NII）
     - Preferred Networks
-    - EQUES（製薬, GENIAC）
+    - EQUES（製薬特化, GENIAC）
 
 
 ### 海外の動向
@@ -47,9 +48,3 @@ weight = 999
 **Business**
 - [Healthcare Startups funded by Y Combinator (YC) 2025](https://www.ycombinator.com/companies/industry/healthcare)
     - シリコンバレーの名門アクセラレーターY Combinatorに採択されたスタートアップのうちヘルスケア領域に関連する一覧
-
-
-
-
-
-

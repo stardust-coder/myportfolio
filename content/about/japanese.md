@@ -10,13 +10,20 @@ title = "About me"
 
 
 ##### お知らせ
+* 2025.6 共著論文がSIGGRAPH2025 Postersに採択されました！
+* 2025.5 共著論文がSLM4Health Workshopに採択されました！
+* 2025.5 [プレプリント](http://arxiv.org/abs/2505.16661)を公開しました。
+
+<details><summary>過去</summary>
+
 * 2025.3 覚醒プロジェクト「破」を受賞しました.
 * 2025.3 [プレプリント](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)を公開しました。
+</details>
 <br> 
 
 ##### 研究内容
 
-コピュラ統計学と[医療LLM](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)に取り組んでいます。
+[コピュラ統計学](https://stardust-coder.github.io/myportfolio/portfolio/blog_2/)と[医療LLM](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)に取り組んでいます。
 
 ##### 職歴
 

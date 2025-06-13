@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>ヘルスケア領域におけるAI利活用</title>
+    <title>医療AIエージェント構築に向けた材料</title>
     
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -119,62 +119,50 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-12">
       <div class="content-column-content">
-        <h1>ヘルスケア領域におけるAI利活用</h1>
-        <p>ヘルスケア領域 (Healthcare)におけるAI、特に生成AIの近年の利活用事例について</p>
-<hr>
-<p><strong>ヘルスケア領域 (Healthcare)</strong> におけるAI、特に生成AIの近年の利活用事例について調査します。</p>
+        <h1>医療AIエージェント構築に向けた材料</h1>
+        <p>医療AIエージェントについて考察</p>
+<h1 id="材料国外の取り組みを参考に">材料（国外の取り組みを参考に）</h1>
 <ul>
-<li>医療 (Clinic) : 病院を中心に</li>
-<li>医薬 (Drug) : 製薬会社を中心に</li>
-</ul>
-<h3 id="国内の動向">国内の動向</h3>
+<li><a href="https://huggingface.co/yuxianglai117/Med-R1">Med-R1</a>
 <ul>
-<li><a href="https://sip3.ncgm.go.jp/">SIP 統合型ヘルスケアシステムの構築</a>
-<ul>
-<li>大型予算の国プロ</li>
-<li>NII</li>
+<li>Qwen2-VL-2B をGRPOでファインチューニング</li>
+<li>Qwen2-VL-72B超</li>
 </ul>
 </li>
-<li>スタートアップ</li>
-<li>研究機関
+<li><a href="https://arxiv.org/abs/2504.14692">OmniV-Med</a>
 <ul>
-<li>NAIST荒巻研</li>
-<li>東大病院</li>
+<li>各タスクのSOTAモデルに対し, あらゆるベンチで上回った</li>
+<li>1.5Bと7B</li>
 </ul>
 </li>
-<li>国内の医療LLM
+<li><a href="https://huggingface.co/collections/google/medgemma-release-680aade845f90bec6a3f60c4">MedGemma</a>
 <ul>
-<li>LLM-JP</li>
-<li>SIP（NII）</li>
-<li>Preferred Networks</li>
-<li>EQUES（製薬特化, GENIAC）</li>
+<li>4BのVLMと, 27BのLLM</li>
+<li>現状かなり有力なLLM</li>
 </ul>
 </li>
-</ul>
-<h3 id="海外の動向">海外の動向</h3>
-<p><strong>Academic</strong></p>
+<li><a href="https://arxiv.org/abs/2506.07044">LingShu</a>
 <ul>
-<li><a href="https://openlifescience.ai/">OpenLifeScience</a>
-<ul>
-<li>医療AIの研究集団</li>
-<li>Twitterの発信が豊富. 最新の論文を紹介している.</li>
+<li>モデル, コードは未公開. 7B.</li>
+<li>MedEvalKitという包括的ベンチマークでスコア更新</li>
 </ul>
 </li>
-<li>BigTechのHealthcare department
+<li><a href="https://arxiv.org/pdf/2404.18416">MedGemini</a>
 <ul>
-<li>Google Research (DeepMind) :　MedPaLM, MedGemini, AMIE</li>
-<li>Microsoft Research : GPT, LLaVA-Med</li>
-<li>Apple : 生体信号とウェアラブルの基盤モデル</li>
+<li>現状最強の医療マルチモーダルモデル. closed.</li>
+<li>検索エンジンを活用したself-training（学習時）とuncertainty-guided search（推論時）の工夫.</li>
 </ul>
 </li>
 </ul>
-<p><strong>Business</strong></p>
+<h1 id="ツール">ツール</h1>
 <ul>
-<li><a href="https://www.ycombinator.com/companies/industry/healthcare">Healthcare Startups funded by Y Combinator (YC) 2025</a>
-<ul>
-<li>シリコンバレーの名門アクセラレーターY Combinatorに採択されたスタートアップのうちヘルスケア領域に関連する一覧</li>
+<li><a href="https://developer.nvidia.com/agent-intelligence-toolkit">AgentIQ（NVIDIA）</a></li>
 </ul>
-</li>
+<h1 id="個別タスクに対する取り組み">個別タスクに対する取り組み</h1>
+<ul>
+<li><a href="">EHR</a></li>
+<li><a href="">サマリ</a></li>
+<li><a href="https://aclanthology.org/2025.cl4health-1.4.pdf#page10">SOAPノート</a></li>
 </ul>
         
       </div>
