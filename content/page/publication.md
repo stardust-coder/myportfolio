@@ -33,6 +33,10 @@ title = "Publication"
 
 ##### Reviewed International Conference （国際学会, 査読付のみ）
 <br />
+1. Ryugo Morita, Sho Kuno, Ryunosuke Tanaka, Rongzhi Li, Hoang Dai Dinh, Issey Sukeda:  
+<u>**SAWNA: Space-Aware Text to Image Generation**</u>
+, SIGGRAPH Posters, 2025.
+[✔︎proceeding](https://dl.acm.org/doi/10.1145/3721250.3743023)
 
 1. Yingjian Chen, Feiyang Li, Xingyu Song, Tianxiao Li, Issey Sukeda, and Irene Li:  
 <u>**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**</u>

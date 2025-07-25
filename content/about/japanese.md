@@ -10,7 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
-* 2025.6 共著論文がSIGGRAPH2025 Postersに採択されました！
+* 2025.6 [共著論文](https://dl.acm.org/doi/10.1145/3721250.3743023)がSIGGRAPH2025 Postersに採択されました！
 * 2025.5 共著論文がSLM4Health Workshopに採択されました！
 * 2025.5 [プレプリント](http://arxiv.org/abs/2505.16661)を公開しました。
 

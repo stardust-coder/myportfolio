@@ -27,6 +27,10 @@ weight = 3
 - [MedGemini](https://arxiv.org/pdf/2404.18416)
     - 現状最強の医療マルチモーダルモデル. closed.
     - 検索エンジンを活用したself-training（学習時）とuncertainty-guided search（推論時）の工夫.
+- [MedCLIP-SAM-v2](https://github.com/healthx-lab/medclip-samv2)
+    - Segment Anything Model
+- [OpenMed (Huggingface)](https://huggingface.co/OpenMed)
+    - 大量の医療NERモデルがリリース
 
 # ツール
 - [AgentIQ（NVIDIA）](https://developer.nvidia.com/agent-intelligence-toolkit)
