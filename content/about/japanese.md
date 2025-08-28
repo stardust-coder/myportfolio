@@ -10,12 +10,13 @@ title = "About me"
 
 
 ##### お知らせ
-* 2025.6 [共著論文](https://dl.acm.org/doi/10.1145/3721250.3743023)がSIGGRAPH2025 Postersに採択されました！
-* 2025.5 共著論文がSLM4Health Workshopに採択されました！
-* 2025.5 [プレプリント](http://arxiv.org/abs/2505.16661)を公開しました。
+* 2025.8 最近は特に何も無いです
 
 <details><summary>過去</summary>
 
+* 2025.6 [共著論文](https://dl.acm.org/doi/10.1145/3721250.3743023)がSIGGRAPH2025 Postersに採択されました！
+* 2025.5 共著論文がSLM4Health Workshopに採択されました！
+* 2025.5 [プレプリント](http://arxiv.org/abs/2505.16661)を公開しました。
 * 2025.3 覚醒プロジェクト「破」を受賞しました.
 * 2025.3 [プレプリント](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)を公開しました。
 </details>
@@ -27,17 +28,18 @@ title = "About me"
 
 ##### 職歴
 
-- [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) 講師
+- [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) 講師
 - [株式会社松尾研究所](https://matsuo-institute.com) プロジェクトマネジャー
 - [東京大学医学部附属病院](https://cardiovasc.m.u-tokyo.ac.jp/study/ai) 学術専門職員（AIリサーチャー）
 - [Preferred Networks](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/) サマーインターンシップ（研究）
+- [ソニーCSL](https://www.sonycsl.co.jp/) 研究インターンシップ（NLP）
 
 ---
 
 ##### 獲得支援
-
+* 日本学術振興会DC2 （採択内定辞退）
 * 理化学研究所（2024〜）
-* 東京大学大学院情報理工学系研究科（2024）
+* 東京大学大学院情報理工学系研究科 IST-RA（2024）
 * 産総研 若手人材によるディープテック研究開発「覚醒プロジェクト」（2023） 
 * JEES・ソフトバンクAI人材育成スカラーシップ(2022)
 * ひよこ財団（2021）
@@ -63,6 +65,7 @@ title = "About me"
 
 
 ##### 掲載・登壇
+- 2025.9.26(予定) [第23回久留米大学バイオ統計学フォーラム](http://www.biostat-kurume-u.jp/uploads/information/0000000125.pdf?1756386716) 
 - 2025.4.17 [NVIDIA ソブリンAIヘルスケアDay with Macnica](https://go.macnica.co.jp/Entry-CLV-RS-NV-20250417-Sovereign-AI-Healthcare-Day.html)
 - 2025.4.1 [在校生の声](https://www.keisu.t.u-tokyo.ac.jp/wp-content/uploads/2025/04/pamphlet_2025.pdf) [HP](https://www.keisu.t.u-tokyo.ac.jp/voices/%E5%8A%A9%E7%94%B0-%E4%B8%80%E6%99%9F/)
 - 2025.3.14 [TAI AMAJ #05 「医薬領域特化LLMの開発と実用」](https://lu.ma/mzxodxyl)
@@ -82,46 +85,9 @@ title = "About me"
 - [東大エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) TA
 - [インクルーシブ工学連携機構（RIISE）](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) 研究協力員 
 
-
 ---
 
-##### 学生時代の活動
-##### プロジェクト
-* [東大MOCHA](https://mocha.t.u-tokyo.ac.jp) 
-    - リサーチチーム
-    - **東大工学部長賞受賞プロジェクト**
-* [なみ逃げ](https://www.komazawa-u.ac.jp/news/extracurricular/2021/1215-10942.html)（デジタルハザードマップ開発プロジェクト）
-    - 駒澤大学学園通信に[掲載](https://www.komazawa-u.ac.jp/topics/files/gakuen_tsushin352.pdf)
-* [東大社会起業コミュニティ For Earth](https://forearthut.com)
-    -  運営幹部
-    - （東京大学教養学部と共催）[SDGsビジネスアイデア学生発表会：社会を変えるために東大生ができること](http://presentation.sdgs.c.u-tokyo.ac.jp/poster2022.html)
-* [『美×音 うたをみる』](https://utawomiru.net) [Twitter](https://twitter.com/bion_exibi_conc)
-    - 運営幹部・広報担当
-* [kehai 〜「気配」を起点にしたコミュニケーション〜](https://shibuya-qws.com/project/kehai)
-    - SHIBUYA QWS 4期生&5期生 
-* 学園祭での有志展示団体「バルーンアートの森」[第１弾](https://gogatsusai.jp/95/visitor/campus/kikaku/398) [第２弾](https://www.komabasai.net/73/visitor/project/427) [第３弾](https://gogatsusai.jp/96/visitor/kikaku/560/)
-    - 第１回正責任者
 
-##### 修了プログラム
-* [松尾研究所起業クエスト](https://weblab.t.u-tokyo.ac.jp/kigyoquest/) 参加生
-* [本郷テックガレージ Summer Foundation Program]() 採択
-* [ソニー東大社会連携講座 Ignite Your Ambition](https://ignite-your-ambition.com), TU Project 修了生
-* [東大GLP-GEfIL](https://www.glp.u-tokyo.ac.jp) 修了生
-* [東大トライリンガルプログラム](http://www.cgcs.c.u-tokyo.ac.jp/tlp/) 前期課程修了生
-    * [南京研修日報](https://lapsummer.wordpress.com/2019/08/16/%e6%89%af%e9%93%83%e5%a5%bd%e3%81%8d%e3%81%aa%e4%ba%ba%e3%81%a8%e7%b9%8b%e3%81%8c%e3%82%8a%e3%81%9f%e3%81%84/)
-
-##### 出演動画・掲載など
-* [ジャグリング](https://stardust-coder.github.io/myportfolio/portfolio/work1/)
-* U-23サミット2020 学生登壇
-* 東大新聞「学生生活紹介」 [link](https://www.todaishimbun.org/koukigakuseiseikatsu20210619/)
-* 情報系学科対談｜東京大学工学部合同企画 [link](https://note.com/kogakubu_godo/n/n1813af70510b)
-
-##### Misc.
-* 科学の甲子園 [link](https://www.gakko.otsuka.tsukuba.ac.jp/wp/wp-content/uploads/2017/02/ff28f9fc78e86512869a2242bff5376c.pdf)
-* アジアサイエンスキャンプ [link](https://www.jst.go.jp/cpse/risushien/asc/pdf/report_asc2017.pdf)
-* 化学グランプリ [link1](http://gp.csj.jp/results/gp2016.html) [link2](https://www.gakko.otsuka.tsukuba.ac.jp/wp/wp-content/uploads/2015/04/2c39a0e414cf58ff3186e3c67899feb7.pdf)
-* マスフェスタ[link](https://otemae-hs.ed.jp/ssh/dat/2015mathfesta_report.pdf)
-* (毎日パソコン入力コンクール 第１５回６月大会 第II類英単語高校生 ２位)[link](https://maipaso.net/past_ranking/)
 
 [1]: /img/me.png
 
