@@ -101,7 +101,7 @@ title = "Publication"
 1. [(heading) 65th ISI World Statistics Congress 2025](https://www.isi-next.org/conferences/isi-wsc2025/), Hague, Netherlands, October 2025.
     - Poster session 
     - Title: Frank copula is the minimum information copula under fixed Kendall's τ
-1. [統計サマーセミナー 2025](), Kagawa, Japan, August 2025.
+1. [統計サマーセミナー 2025](https://sites.google.com/g.ecc.u-tokyo.ac.jp/ysg2025), Kagawa, Japan, August 2025.
     - Title: Dependence modeling for phase-based coupling on EEG data
 1. [SNAB 2025](https://yangfengstat.github.io/snab2025/), Tokyo, Japan, June 2025.
     - Poster session
