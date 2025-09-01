@@ -14,7 +14,7 @@ title = "About me"
 
 <details><summary>過去</summary>
 
-* 2025.6 [共著論文](https://dl.acm.org/doi/10.1145/3721250.3743023)がSIGGRAPH2025 Postersに採択されました！
+* 2025.6 [共著論文](https://dl.acm.org/doi/10.1145/3721250.3743023)が[SIGGRAPH2025](https://s2025.siggraph.org/) Postersに採択されました！
 * 2025.5 共著論文がSLM4Health Workshopに採択されました！
 * 2025.5 [プレプリント](http://arxiv.org/abs/2505.16661)を公開しました。
 * 2025.3 覚醒プロジェクト「破」を受賞しました.
@@ -26,24 +26,27 @@ title = "About me"
 
 [コピュラ統計学](https://stardust-coder.github.io/myportfolio/portfolio/blog_2/)と[医療LLM](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)に取り組んでいます。
 
-##### 職歴
+##### 主な職歴
 
 - [東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024](https://weblab.t.u-tokyo.ac.jp/education/large-language-model/) 講師
 - [株式会社松尾研究所](https://matsuo-institute.com) プロジェクトマネジャー
 - [東京大学医学部附属病院](https://cardiovasc.m.u-tokyo.ac.jp/study/ai) 学術専門職員（AIリサーチャー）
-- [Preferred Networks](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/) サマーインターンシップ（研究）
-- [ソニーCSL](https://www.sonycsl.co.jp/) 研究インターンシップ（NLP）
 
----
 
-##### 獲得支援
-* 日本学術振興会DC2 （採択内定辞退）
-* 理化学研究所（2024〜）
-* 東京大学大学院情報理工学系研究科 IST-RA（2024）
-* 産総研 若手人材によるディープテック研究開発「覚醒プロジェクト」（2023） 
-* JEES・ソフトバンクAI人材育成スカラーシップ(2022)
-* ひよこ財団（2021）
-* キーエンス応援給付金（2020）
+##### 競争的研究資金
+* 産総研 若手人材によるディープテック研究開発「覚醒プロジェクト」採択 [JPY 3M]
+* EQUES CTOとしてのNEDO事業統括
+    - [ANIMINS](https://www.nedo.go.jp/koubo/IT3_100323.html) [再委託先, JPY Tens of M]
+    - [GENIAC](https://www.nedo.go.jp/koubo/IT3_100331.html) [実施事業者, JPY Tens of M]
+
+##### これまでの獲得支援
+* 日本学術振興会DC2 （採用内定辞退）
+* 理化学研究所　[JPY 2.4M+0.5M per year]
+* 東京大学大学院情報理工学系研究科 博士学生特別リサーチアシスタント [JPY 1.2M per year]
+* JEES・ソフトバンクAI人材育成スカラーシップ 
+* ひよこ財団
+* キーエンス応援給付金
+
 
 ##### 受賞（個人）
 * 🏆覚醒プロジェクト「破」
@@ -81,9 +84,20 @@ title = "About me"
 
 ##### その他職歴
 
+- (予定) 東京大学情報理工学系研究科 数理情報学専攻 TA
 - [東京大学データサイエンスコモンズ](http://www.mi.u-tokyo.ac.jp/dscommons/) TA
-- [東大エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) TA
-- [インクルーシブ工学連携機構（RIISE）](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) 研究協力員 
+- [東京大学エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) TA
+- [インクルーシブ工学連携機構（RIISE）](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) RA 
+- [Preferred Networks](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/) サマーインターンシップ（研究）
+- [ソニーCSL](https://www.sonycsl.co.jp/) 研究インターンシップ（NLP）
+
+##### 所属学会
+
+日本統計学会
+
+##### 査読
+
+なし
 
 ---
 
