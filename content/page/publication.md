@@ -33,6 +33,19 @@ title = "Publication"
 
 ##### Reviewed International Conference （国際学会, 査読付のみ）
 <br />
+
+
+1.  Shinnosuke Ono, Issey Sukeda, Takuro Fujii, Kosei Buma, Shunsuke Sasaki:  
+<u>**A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP**</u>
+, IJCNLP-AACL Main Conference, 2025. 
+[✔︎proceeding]() [✔︎arxiv](http://arxiv.org/abs/2505.16661) 
+
+1. Hirohane Takagi, Gouki Minegishi, Shota Kizawa, Issey Sukeda, Hitomi Yanaka:  
+<u>**Interpreting Multi-Attribute Confounding through Numerical Attributes in Large Language Models**</u>
+, IJCNLP-AACL Main Conference, 2025. 
+[✔︎proceeding]()
+
+
 1. Ryugo Morita, Sho Kuno, Ryunosuke Tanaka, Rongzhi Li, Hoang Dai Dinh, Issey Sukeda:  
 <u>**SAWNA: Space-Aware Text to Image Generation**</u>
 , SIGGRAPH Posters, 2025.
@@ -73,18 +86,12 @@ title = "Publication"
 ##### Preprint （紀要）
 <br />
 
-1. Issey Sukeda, Takuro Fujii, Kosei Buma, Shunsuke Sasaki, Shinnosuke Ono  
-<u>**A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP**</u>
-[✔︎arxiv](http://arxiv.org/abs/2505.16661)
 
 
-1. 峰岸剛基, 高木洋羽, 木澤翔太, 助田一晟, 谷中 瞳  
-<u>**大規模言語モデルにおいて数値属性間で共有されるスケーリングベクトルの解析とその応用**</u>
-[言語処理学会 第31回年次大会発表論文集](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A6-2.pdf)
 
 1. Issey Sukeda and Takeru Matsuda:  
-<u>**Directional statistical graphical modeling of phase-based connectivity**</u>
-[✔︎biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v1)
+<u>**Sparse graphical modeling for electrophysiological phase-based connectivity using circular statistics**</u>
+[✔︎biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v2)
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Relative local dependence of bivariate copulas**</u>
@@ -98,7 +105,13 @@ title = "Publication"
 ##### Talks（研究発表）
 <br />
 
-1. [(heading) 65th ISI World Statistics Congress 2025](https://www.isi-next.org/conferences/isi-wsc2025/), Hague, Netherlands, October 2025.
+1. [(heading) ICSDS 2025](), Sevilla, Spain, December 2025.
+    - Student Travel Award session 
+    - Title: Phase-amplitude coupling analysis with cylindrical distributions
+1. [(heading) RIKEN CBS Retreat 2025](), Tokyo, Japan, November 2025.
+    - Poster session 
+    - Title: Phase-amplitude coupling analysis with cylindrical distributions
+1. [65th ISI World Statistics Congress 2025](https://www.isi-next.org/conferences/isi-wsc2025/), Hague, Netherlands, October 2025.
     - Poster session 
     - Title: Frank copula is the minimum information copula under fixed Kendall's τ
 1. [統計サマーセミナー 2025](https://sites.google.com/g.ecc.u-tokyo.ac.jp/ysg2025), Kagawa, Japan, August 2025.
@@ -172,6 +185,13 @@ title = "Publication"
 ##### Misc.
 <br />
 
-* [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/)
-    - Title: 数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習
+* 峰岸剛基, 高木洋羽, 木澤翔太, 助田一晟, 谷中 瞳  
+<u>**大規模言語モデルにおいて数値属性間で共有されるスケーリングベクトルの解析とその応用**</u>
+[言語処理学会 第31回年次大会発表論文集](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A6-2.pdf)
 
+* [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/).  
+「数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習」
+
+* 助田一晟.
+<u>**周波数領域での最適輸送による心電図データ拡張**</u>
+ [人工知能学会全国大会論文集 第３７回(2023)](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1N3GS1004/_article/-char/ja/)

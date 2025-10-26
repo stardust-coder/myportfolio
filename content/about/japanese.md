@@ -10,7 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
-* 2025.8 最近は特に何も無いです
+* 2025.10 [AACL2025]()に論文が２本採択されました🎉
 
 <details><summary>過去</summary>
 
@@ -24,7 +24,8 @@ title = "About me"
 
 ##### 研究内容
 
-[コピュラ統計学](https://stardust-coder.github.io/myportfolio/portfolio/blog_2/)と[医療LLM](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)に取り組んでいます。
+[コピュラ統計学](https://stardust-coder.github.io/myportfolio/portfolio/blog_2/)と[LLM関連](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)に取り組んでいます。
+Please see [Publication](https://stardust-coder.github.io/myportfolio/page/publication/).
 
 ##### 主な職歴
 
@@ -49,16 +50,17 @@ title = "About me"
 
 
 ##### 受賞（個人）
-* 🏆覚醒プロジェクト「破」
-* 🥇CBS Retreat 2024 - Poster Theory/Tech Award 1st Place [link](https://cbs.riken.jp/jp/lifeatcbs/retreat2024-poster.html)
-* 🥇統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報](https://pub-files.atlas.jp/cer-r/jfssa2024/pdf/2025announcement_250120_ja_20250120165157768.pdf)
-* 🥇2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
-* 🏆ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
-* 🏆統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
-* 🏆日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） [link](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
-* 🥈優秀賞&学生投票賞, 東京大学数理・データサイエンスコンソーシアム 第３回データサイエンスコンテスト(2020) [link](http://www.mi.u-tokyo.ac.jp/contest2020.html)
-* 🥉銅賞, 化学グランプリ(2016) [link](http://gp.csj.jp/media/common/gp2016results.pdf)
-* 🥉3位, All Japan Diabolo Competition(2015)
+* ✈️ ICSDS2025 Student Travel Award
+* 🏆 覚醒プロジェクト「破」
+* 🥇 CBS Retreat 2024 - Poster Theory/Tech Award 1st Place [link](https://cbs.riken.jp/jp/lifeatcbs/retreat2024-poster.html)
+* 🥇 統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報](https://pub-files.atlas.jp/cer-r/jfssa2024/pdf/2025announcement_250120_ja_20250120165157768.pdf)
+* 🥇 2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 [link](https://sports.ywebsys.net/news/archives/0024/)
+* 🏆 ISI東京大会記念奨励賞(2023) [link](https://www.jss.gr.jp/society/prize/) [会報](https://www.jss.gr.jp/wp-content/uploads/K197.pdf)
+* 🏆 統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023）
+* 🏆 日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） [link](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
+* 🥈 優秀賞&学生投票賞, 東京大学数理・データサイエンスコンソーシアム 第３回データサイエンスコンテスト(2020) [link](http://www.mi.u-tokyo.ac.jp/contest2020.html)
+* 🥉 銅賞, 化学グランプリ(2016) [link](http://gp.csj.jp/media/common/gp2016results.pdf)
+* 🥉 3位, All Japan Diabolo Competition(2015)
 
 ##### 受賞（チーム）
 * 🥉3位, 松尾研究所内部AIコンペティション(2022)
@@ -69,7 +71,7 @@ title = "About me"
 
 ##### 掲載・登壇
 - 2025.9.26(予定) [第23回久留米大学バイオ統計学フォーラム](http://www.biostat-kurume-u.jp/uploads/information/0000000125.pdf?1756386716) 
-- 2025.4.17 [NVIDIA ソブリンAIヘルスケアDay with Macnica](https://go.macnica.co.jp/Entry-CLV-RS-NV-20250417-Sovereign-AI-Healthcare-Day.html)
+- 2025.4.17 [NVIDIA ソブリンAIヘルスケアDay with Macnica](https://go.macnica.co.jp/Entry-CLV-RS-NV-20250417-Sovereign-AI-Healthcare-Day.html) [PRTIMES](https://prtimes.jp/main/html/rd/p/000000533.000012662.html)
 - 2025.4.1 [在校生の声](https://www.keisu.t.u-tokyo.ac.jp/wp-content/uploads/2025/04/pamphlet_2025.pdf) [HP](https://www.keisu.t.u-tokyo.ac.jp/voices/%E5%8A%A9%E7%94%B0-%E4%B8%80%E6%99%9F/)
 - 2025.3.14 [TAI AMAJ #05 「医薬領域特化LLMの開発と実用」](https://lu.ma/mzxodxyl)
 - 2024.12.11 [第13回岡山大学AI研究会 招待講演](https://www.cc.okayama-u.ac.jp/imelab/ouai/index.html)

@@ -6,12 +6,13 @@ title = "About me"
 
 This is Issey Sukeda. Currently, I am a D2 student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda.
 My interest covers statistics and operations research.
-My full publications can be accessed from [Publications](https://stardust-coder.github.io/myportfolio/page/publication/).
+My full publications can be accessed from [Publication](https://stardust-coder.github.io/myportfolio/page/publication/).
 Any collaboration, job offer, or discussion is welcome !
 
 ![This is me][1]
 
 #### 🔥 News
+* Oct. 2025 🎉 Two papers were accepted in [IJCNLP-AACL 2025](https://2025.aaclnet.org/) Main conference!
 * Aug. 2025 🎉 Our paper was accepted in [SIGGRAPH 2025](https://s2025.siggraph.org/) Posters!
 * Oct. 2024 🎉 Our paper was accepted in [Statistical Papers](https://arxiv.org/abs/2306.01604)!
 * Oct. 2024 🎉 Our paper was accepted in [Statistics & Probability Letters](https://www.sciencedirect.com/science/article/pii/S016771522400258X?via%3Dihub)!
