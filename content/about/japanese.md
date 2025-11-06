@@ -50,7 +50,7 @@ Please see [Publication](https://stardust-coder.github.io/myportfolio/page/publi
 
 
 ##### 受賞（個人）
-* ✈️ ICSDS2025 Student Travel Award
+* ✈️ ICSDS2025 Student Travel Award [link](https://sites.google.com/view/ims-icsds2025/travel-awards_1)
 * 🏆 覚醒プロジェクト「破」
 * 🥇 CBS Retreat 2024 - Poster Theory/Tech Award 1st Place [link](https://cbs.riken.jp/jp/lifeatcbs/retreat2024-poster.html)
 * 🥇 統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報](https://pub-files.atlas.jp/cer-r/jfssa2024/pdf/2025announcement_250120_ja_20250120165157768.pdf)
@@ -70,7 +70,9 @@ Please see [Publication](https://stardust-coder.github.io/myportfolio/page/publi
 
 
 ##### 掲載・登壇
-- 2025.9.26(予定) [第23回久留米大学バイオ統計学フォーラム](http://www.biostat-kurume-u.jp/uploads/information/0000000125.pdf?1756386716) 
+- 2025.10.27 [GENIACマッチングイベント]()
+- 2025.9.26 [第23回久留米大学バイオ統計学フォーラム 招待講演](http://www.biostat-kurume-u.jp/uploads/information/0000000125.pdf?1756386716)
+- 2025.5.30 [GENIACマッチングイベント](https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/matchingevents_4.html) 
 - 2025.4.17 [NVIDIA ソブリンAIヘルスケアDay with Macnica](https://go.macnica.co.jp/Entry-CLV-RS-NV-20250417-Sovereign-AI-Healthcare-Day.html) [PRTIMES](https://prtimes.jp/main/html/rd/p/000000533.000012662.html)
 - 2025.4.1 [在校生の声](https://www.keisu.t.u-tokyo.ac.jp/wp-content/uploads/2025/04/pamphlet_2025.pdf) [HP](https://www.keisu.t.u-tokyo.ac.jp/voices/%E5%8A%A9%E7%94%B0-%E4%B8%80%E6%99%9F/)
 - 2025.3.14 [TAI AMAJ #05 「医薬領域特化LLMの開発と実用」](https://lu.ma/mzxodxyl)

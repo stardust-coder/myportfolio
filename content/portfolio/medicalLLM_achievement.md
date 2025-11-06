@@ -42,6 +42,14 @@ description = "医療×LLMでドメイン特化AIを開発する取り組みの�
 1. [SpeakerDeck「医療分野に特化したLLM　研究紹介」](https://speakerdeck.com/stardust11)
 
 
+<a id="anchor9"></a>
+#### 久留米大学バイオ統計学フォーラム 招待講演
+```
+医療LLMの研究動向や自身の取り組みについて紹介させていただきました。
+```
+- [第23回久留米大学バイオ統計学フォーラム](http://www.biostat-kurume-u.jp/uploads/information/0000000125.pdf?1756386716) 
+
+
 <a id="anchor8"></a>
 #### （関連）経産省NEDO　GENIAC「薬学分野・製薬業務に特化したLLMの開発」
 ```
@@ -49,8 +57,8 @@ description = "医療×LLMでドメイン特化AIを開発する取り組みの�
 ```
 
 1. [学習済みモデル（huggingface）](https://huggingface.co/collections/EQUES/jpharmatron-680a330b4dfce3ac43009984)
-1. [ベンチマーク]()
-1. [プレプリント論文]()
+1. [プレプリント論文](https://arxiv.org/abs/2505.16661v2)
+    - [2025.11追記] 本研究は国際会議IJCNLP-AACL2025のMain Trackに採択されました🎉
 1. 登壇
     - [NVIDIA ソブリンAIヘルスケアDay with Macnica](https://go.macnica.co.jp/Entry-CLV-RS-NV-20250417-Sovereign-AI-Healthcare-Day.html)
     - [TAI AMAJ #05 「医薬領域特化LLMの開発と実用」](https://lu.ma/mzxodxyl)
