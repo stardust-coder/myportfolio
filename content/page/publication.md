@@ -43,7 +43,7 @@ title = "Publication"
 1. Hirohane Takagi, Gouki Minegishi, Shota Kizawa, Issey Sukeda, Hitomi Yanaka:  
 <u>**Interpreting Multi-Attribute Confounding through Numerical Attributes in Large Language Models**</u>
 , IJCNLP-AACL Main Conference, 2025. 
-[✔︎proceeding]()
+[✔︎proceeding]() [✔︎arxiv](https://arxiv.org/abs/2511.04053)
 
 
 1. Ryugo Morita, Sho Kuno, Ryunosuke Tanaka, Rongzhi Li, Hoang Dai Dinh, Issey Sukeda:  

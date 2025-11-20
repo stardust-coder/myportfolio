@@ -70,9 +70,11 @@ Please see [Publication](https://stardust-coder.github.io/myportfolio/page/publi
 
 
 ##### 掲載・登壇
+- 2025.11.19 [DCEXPO TV](https://m.youtube.com/watch?v=OjJG8yeBsoo)
 - 2025.10.27 [GENIACマッチングイベント]()
 - 2025.9.26 [第23回久留米大学バイオ統計学フォーラム 招待講演](http://www.biostat-kurume-u.jp/uploads/information/0000000125.pdf?1756386716)
-- 2025.5.30 [GENIACマッチングイベント](https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/matchingevents_4.html) 
+- 2025.6.9 [社会実装が続々登場！ GENIAC第2期採択事業者成果報告会を開催しました！](https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/resultsreport_2.html)
+- 2025.5.27 [GENIAC開発事業者と利活用企業との第4回マッチングイベントを開催しました！](https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/matchingevents_4.html) 
 - 2025.4.17 [NVIDIA ソブリンAIヘルスケアDay with Macnica](https://go.macnica.co.jp/Entry-CLV-RS-NV-20250417-Sovereign-AI-Healthcare-Day.html) [PRTIMES](https://prtimes.jp/main/html/rd/p/000000533.000012662.html)
 - 2025.4.1 [在校生の声](https://www.keisu.t.u-tokyo.ac.jp/wp-content/uploads/2025/04/pamphlet_2025.pdf) [HP](https://www.keisu.t.u-tokyo.ac.jp/voices/%E5%8A%A9%E7%94%B0-%E4%B8%80%E6%99%9F/)
 - 2025.3.14 [TAI AMAJ #05 「医薬領域特化LLMの開発と実用」](https://lu.ma/mzxodxyl)
