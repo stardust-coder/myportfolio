@@ -14,13 +14,13 @@ description = "医療×LLMでドメイン特化AIを開発する取り組みの�
 
 ---
 [実績] 新しい順.
-1. [EQUES | 経産省NEDO　GENIAC「薬学分野・製薬業務に特化したLLMの開発」](#anchor8)
+1. [EQUES | 経産省NEDO　GENIAC「薬学分野・製薬業務に特化したLLMの開発」| IJCNLP-AACL2025 Main採択](#anchor8)
 1. [岡山大学AI研究会](#anchor7)  
 1. [東大松尾研LLM講座](#anchor6)    
-1. [覚醒プロジェクト | 7B パラメタの日本語医療LLMの作成, NeurIPS WS 2024](#anchor5)
+1. [覚醒プロジェクト | 7B パラメタの日本語医療LLMの作成, NeurIPS WS 2024採択](#anchor5)
 1. [覚醒プロジェクト | 医療LLMのベンチマークの作成](#anchor4)  
 1. [東大病院 | 70Bパラメタの日本語医療LLM開発](#anchor3)    
-1. [東大病院 | OpenCALM(7B)・Llama2(70B)の日本語医療適応, NeurIPS WS 2023](#anchor2)  
+1. [東大病院 | OpenCALM(7B)・Llama2(70B)の日本語医療適応, NeurIPS WS 2023採択](#anchor2)  
 1. [東大病院 | 心電図から心疾患や年齢予測を行うAIモデル, NeurIPS WS 2022](#anchor1)  
 ---
 [記事]

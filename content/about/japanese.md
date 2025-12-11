@@ -10,10 +10,11 @@ title = "About me"
 
 
 ##### お知らせ
-* 2025.10 [AACL2025]()に論文が２本採択されました🎉
+- 特になし
 
 <details><summary>過去</summary>
 
+* 2025.10 [AACL2025]()に論文が２本採択されました🎉
 * 2025.6 [共著論文](https://dl.acm.org/doi/10.1145/3721250.3743023)が[SIGGRAPH2025](https://s2025.siggraph.org/) Postersに採択されました！
 * 2025.5 共著論文がSLM4Health Workshopに採択されました！
 * 2025.5 [プレプリント](http://arxiv.org/abs/2505.16661)を公開しました。
@@ -90,7 +91,7 @@ Please see [Publication](https://stardust-coder.github.io/myportfolio/page/publi
 
 ##### その他職歴
 
-- (予定) 東京大学情報理工学系研究科 数理情報学専攻 TA
+- 東京大学情報理工学系研究科 数理情報学専攻 TA
 - [東京大学データサイエンスコモンズ](http://www.mi.u-tokyo.ac.jp/dscommons/) TA
 - [東京大学エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) TA
 - [インクルーシブ工学連携機構（RIISE）](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) RA 

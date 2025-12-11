@@ -12,6 +12,7 @@ Any collaboration, job offer, or discussion is welcome !
 ![This is me][1]
 
 #### 🔥 News
+* Dec. 2025 🎉 Our paper was accepted in [ACM Multimedia Asia 2025 Workshop](https://dl.acm.org/doi/10.1145/3769748.3773362)! 
 * Oct. 2025 🎉 Two papers were accepted in [IJCNLP-AACL 2025](https://2025.aaclnet.org/) Main conference!
 * Aug. 2025 🎉 Our paper was accepted in [SIGGRAPH 2025](https://s2025.siggraph.org/) Posters!
 * Oct. 2024 🎉 Our paper was accepted in [Statistical Papers](https://arxiv.org/abs/2306.01604)!
@@ -25,9 +26,9 @@ Any collaboration, job offer, or discussion is welcome !
 * Nov. 2022 🎉 Our paper was accepted in [ACM SenSys 2022](https://dl.acm.org/doi/10.1145/3560905.3568097) ! 
 * Feb. 2022 💪 Founded [EQUES Inc.](https://www.eques.co.jp) as CTO ! 
 
-#### 💊 Medical・Pharma LLM Projects
-* [Foundation models × Healthcare network data](https://prtimes.jp/main/html/rd/p/000000012.000101360.html) is a collaborative research with Kyoto Univ. and EQUES Inc. Ongoing.
-* [JPharmatron-7B](https://huggingface.co/collections/EQUES/jpharmatron-680a330b4dfce3ac43009984) is the first Japanese pharmaceutical domain specific LLM, developed along with new benchamrks [JPharmaBench](https://huggingface.co/collections/EQUES/jpharmabench-680a34acfe96870e41d050d8). A work at EQUES Inc.
+#### 💊 Medical/Pharma LLM Projects
+* [Foundation models × Healthcare network data](https://prtimes.jp/main/html/rd/p/000000012.000101360.html) is a collaborative research with Kyoto Univ. and EQUES Inc. 
+* [JPharmatron-7B](https://huggingface.co/collections/EQUES/jpharmatron-680a330b4dfce3ac43009984) is the first Japanese pharmaceutical domain specific LLM, developed along with new benchamrks [JPharmaBench](https://huggingface.co/collections/EQUES/jpharmabench-680a34acfe96870e41d050d8). Accepted at IJCNLP-AACL 2025 Main. A work at EQUES Inc.
 * [Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness) is the evaluation codes and leaderboard for medical LLMs. A work at AIST KAKUSEI.
 * [MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b) is the second Japanese medical LLM finetuned from Swallow-70b-instruct-hf. A work at UTokyo Hospital.
 * [JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000) is the first Japanese medical LLM finetuned from Llama2. A work at UTokyo Hospital.
@@ -49,8 +50,11 @@ Any collaboration, job offer, or discussion is welcome !
 
 #### 🏆 Awards
 
-**2024**
+**2025**
+* 🛩 ICSDS 2025 Student Travel Award
 * 🏆 KAKUSEI Award, AIST.
+
+**2024**
 * 🥇 1st Place, CBS Retreat 2024 - Poster Theory/Tech Award, RIKEN CBS
 * 🏆 Best Presentation Award, Japan Society of Statistics
 * 🥇 1st place, Sports Data Science Competition (MLB division), Japan Society of Statistics

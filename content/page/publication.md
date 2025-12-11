@@ -34,6 +34,12 @@ title = "Publication"
 ##### Reviewed International Conference （国際学会, 査読付のみ）
 <br />
 
+1. Riku Takahashi, Rongzhi Li, Yuta Oshima, Sho Kuno, Ryugo Morita, Issey Sukeda:  
+<u>**AKITalk: Audio-Implicit Keypoints for Identity-Preserving Talking-Head Video Synthesis
+**</u>
+, MMAsia'25 Workshops: Proceedings of the 7th ACM International Conference on Multimedia in Asia
+, 2025. 
+[✔︎proceeding](https://dl.acm.org/doi/10.1145/3769748.3773362)
 
 1.  Shinnosuke Ono, Issey Sukeda, Takuro Fujii, Kosei Buma, Shunsuke Sasaki:  
 <u>**A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP**</u>
