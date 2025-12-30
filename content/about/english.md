@@ -4,7 +4,7 @@ title = "About me"
 +++
 
 
-This is Issey Sukeda. Currently, I am a D2 student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda.
+This is Issey Sukeda. Currently, I am a PhD student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda.
 My interest covers statistics and operations research.
 My full publications can be accessed from [Publication](https://stardust-coder.github.io/myportfolio/page/publication/).
 Any collaboration, job offer, or discussion is welcome !
@@ -34,24 +34,34 @@ Any collaboration, job offer, or discussion is welcome !
 * [JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000) is the first Japanese medical LLM finetuned from Llama2. A work at UTokyo Hospital.
 * [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM) is the curation of the latest and competent LLMs, including medical domain adaptation. Personal work. 
 
-#### 🗒 Statistics Projects
+#### 🗒 Pure Statistics Projects
+
 * [Minimum information Markov model](https://github.com/stardust-coder/min-info-markov) is a brand new Markov model that models the marginal stationary distribution and the dependence function seperately. 
-* [Sparse Torus Graph Modeling × EEG](https://github.com/stardust-coder/torus_graph_modelling) introduces a high-dimensional circular model with regularization to estimate dependence structure behind EEG phase, i.e., phase-based connectivity.
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates the density function of minimum information copula, the most natural copula under predetermined constraints. 
 * [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index) is the Python implementation of [Sei (2016)](https://www.sciencedirect.com/science/article/pii/S0047259X16000269).
 
+#### 🧠 Statistics x Neuroscience Projects
+
+* A development of new methods for phase-amplitude coupling analysis is ongoing ...
+* [Sparse Torus Graph](https://github.com/stardust-coder/torus_graph_modelling) introduces a high-dimensional circular model with regularization to estimate dependence structure behind EEG phase, i.e., phase-based connectivity.
+
+
+#### 🤖 Other AI Projects
+* [Lineart interpolation](https://huggingface.co/EQUES/qwen-image-edit-2511-lineart-interpolation) is a LoRA weight for Qwen Image Edit.
+
+
 #### 💰 Fundings & Grants
 
-* RIKEN CBS Junior Research Associate [JPY 2.4M+0.5M per year]
-* JSPS DC2 (declined due to CTO)
-* IST-RA, funded by UTokyo. 
+* RIKEN CBS Junior Research Associate [JPY 7.8M + 1.5M]
+* JSPS DC2 (selected and declined due to CTO position)
+* IST-RA, funded by UTokyo IST. 
 * AIST KAKUSEI, funded by AIST [JPY 3M] 
-* JEES Softbank AI scholarship [JPY 1.2M]
+* JEES Softbank AI scholarship [JPY 1M]
 
 #### 🏆 Awards
 
 **2025**
-* 🛩 ICSDS 2025 Student Travel Award
+* 🛩 ICSDS 2025 Student Award
 * 🏆 KAKUSEI Award, AIST.
 
 **2024**
