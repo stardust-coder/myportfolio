@@ -43,8 +43,8 @@ Please see [Publication](https://stardust-coder.github.io/myportfolio/page/publi
 
 ##### これまでの獲得支援
 * 日本学術振興会DC2 （採用内定辞退）
-* 理化学研究所　[JPY 2.4M+0.5M per year]
-* 東京大学大学院情報理工学系研究科 博士学生特別リサーチアシスタント [JPY 1.2M per year]
+* 理化学研究所
+* 東京大学大学院情報理工学系研究科 博士学生特別リサーチアシスタント
 * JEES・ソフトバンクAI人材育成スカラーシップ 
 * ひよこ財団
 * キーエンス応援給付金

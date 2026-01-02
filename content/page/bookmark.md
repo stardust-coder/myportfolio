@@ -15,17 +15,16 @@ title = "Bookmark"
 <a id="anchor0"></a>
 ### コピュラ統計学
 
-#### 最初に読むべき教科書
-- Nelsen(2007)
-- Joe(2014)
+#### 教科書
+- [An introduction to copulas](https://mistis.inrialpes.fr/docs/Nelsen_2006.pdf), Nelsen(2007)
+- [Dependence Modeling with Copulas](https://www.taylorfrancis.com/books/mono/10.1201/b17116/dependence-modeling-copulas-harry-joe) Joe(2014)
 
 #### まず読むとよい文献
 - [Copulas: Tales and facts](https://www.uio.no/studier/emner/matnat/math/STK9200/h21/mikosch2006_article_copulastalesandfacts.pdf)
 - [Everything You Always Wanted to Know about Copula Modeling but Were Afraid to Ask](https://www.uni-muenster.de/Physik.TP/~lemm/seminarSS08/JHE-2007.pdf)(Genest, 2007)
-- [リスク解析における接合関数（塚原2021）](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_101/_pdf)
-- [Copulas for finance(Durrleman, Roncalli)](http://www.thierry-roncalli.com/download/copula-survey.pdf)
+- [Copulas for finance](http://www.thierry-roncalli.com/download/copula-survey.pdf) (Durrleman, Roncalli)
 
-#### 最小情報コピュラ・最小情報従属モデル
+#### 最小情報コピュラの近年の発展
 - [Bedford and Wilson, 2014](https://pure.strath.ac.uk/ws/portalfiles/portal/30982794/Preprint.pdf)
 - [清, 2021](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_75/_pdf)
 - [Samo,2021](http://proceedings.mlr.press/v130/kom-samo21a/kom-samo21a.pdf)
@@ -33,13 +32,10 @@ title = "Bookmark"
 - [Sukeda and Sei, 2023](https://arxiv.org/abs/2306.01604)
 - [Chen and Sei, 2024](https://www.sciencedirect.com/science/article/abs/pii/S0047259X23001173)
 - [Sei, 2024](https://arxiv.org/abs/2407.17682)
+- [Kojadinovic and Martini, 2025](https://arxiv.org/abs/2509.02829)
 
-
-#### 色々なコピュラモデル
-- [Joe-Claytonコピュラ](https://ftp1.economics.smu.edu/RePEc/smu/wpaper/2008/Hu/Hu-2008-09.pdf)
-- [コピュラマルコフモデル](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_41/_pdf)
-
-
+#### 理論
+- [リスク解析における接合関数（塚原2021）](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_101/_pdf)
 
 #### 裾従属性
 - [極値での従属性および非対称性と信用ポートフォリオリスク](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_157/_pdf)
@@ -54,7 +50,7 @@ title = "Bookmark"
 - [Cylcop](https://cylcop.shinyapps.io/cylcop-graphs/)
 
 
-#### 有用なデータソース
+### 有用なデータソース
 - [pandas datareader](https://pandas-datareader.readthedocs.io)
     - 使い方：[【Python】 経済指標・財務諸表データ取得完全攻略](https://oeconomicus.jp/2021/05/python-economicdata/)
 - Brain MINDS 2.0, 小松先生(RIKEN)らによるMarmosetのECoGデータセット
@@ -64,7 +60,8 @@ title = "Bookmark"
 
 <a id="anchor1"></a>
 ### 時系列モデル
-- [Brockwell and Davis]()
+- [Brockwell and Davis](https://link.springer.com/book/10.1007/978-3-319-29854-2)
+- [駒木先生の書評](https://www.jstage.jst.go.jp/article/bjsiam/4/1/4_KJ00005767856/_pdf/-char/ja)
 - [ARモデルの推定（北川先生）](http://www.mi.u-tokyo.ac.jp/mds-oudan/lecture_document_2019_math7/時系列解析（６）_2019.pdf)
 
 <a id="anchor2"></a>
@@ -78,7 +75,7 @@ title = "Bookmark"
 - [Zonal多項式（竹村先生）](https://www.jstage.jst.go.jp/article/sugaku1947/42/2/42_2_111/_pdf/-char/ja)
 
 <a id="anchor4"></a>
-### NeuroScience
+### 神経科学、特に脳波解析
 
 #### Cross-frequency coupling 
 - [Jirsa and Muller](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2013.00078/full)

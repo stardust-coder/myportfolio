@@ -31,6 +31,7 @@ weight = 3
     - Segment Anything Model
 - [OpenMed (Huggingface)](https://huggingface.co/OpenMed)
     - 大量の医療NERモデルがリリース
+    - SFTや抗体のデータセットもリリース
 
 # ツール
 - [AgentIQ（NVIDIA）](https://developer.nvidia.com/agent-intelligence-toolkit)
@@ -39,5 +40,6 @@ weight = 3
 
 # 個別タスクに対する取り組み
 - [EHR]()
+    - [Trustworthy EHR Agent](https://github.com/ldi-kyunghee/TrustEHRAgent)
 - [サマリ]()
 - [SOAPノート](https://aclanthology.org/2025.cl4health-1.4.pdf#page10)
