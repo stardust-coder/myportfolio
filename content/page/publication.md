@@ -35,8 +35,7 @@ title = "Publication"
 <br />
 
 1. Riku Takahashi, Rongzhi Li, Yuta Oshima, Sho Kuno, Ryugo Morita, Issey Sukeda:  
-<u>**AKITalk: Audio-Implicit Keypoints for Identity-Preserving Talking-Head Video Synthesis
-**</u>
+<u>**AKITalk: Audio-Implicit Keypoints for Identity-Preserving Talking-Head Video Synthesis**</u>
 , MMAsia'25 Workshops: Proceedings of the 7th ACM International Conference on Multimedia in Asia
 , 2025. 
 [✔︎proceeding](https://dl.acm.org/doi/10.1145/3769748.3773362)
@@ -44,12 +43,12 @@ title = "Publication"
 1.  Shinnosuke Ono, Issey Sukeda, Takuro Fujii, Kosei Buma, Shunsuke Sasaki:  
 <u>**A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP**</u>
 , IJCNLP-AACL Main Conference, 2025. 
-[✔︎proceeding]() [✔︎arxiv](http://arxiv.org/abs/2505.16661) 
+ [✔︎arxiv](http://arxiv.org/abs/2505.16661) 
 
 1. Hirohane Takagi, Gouki Minegishi, Shota Kizawa, Issey Sukeda, Hitomi Yanaka:  
 <u>**Interpreting Multi-Attribute Confounding through Numerical Attributes in Large Language Models**</u>
 , IJCNLP-AACL Main Conference, 2025. 
-[✔︎proceeding]() [✔︎arxiv](https://arxiv.org/abs/2511.04053)
+ [✔︎arxiv](https://arxiv.org/abs/2511.04053)
 
 
 1. Ryugo Morita, Sho Kuno, Ryunosuke Tanaka, Rongzhi Li, Hoang Dai Dinh, Issey Sukeda:  
@@ -92,7 +91,9 @@ title = "Publication"
 ##### Preprint （紀要）
 <br />
 
-
+1. Issey Sukeda and Tomonari Sei:  
+<u>**Minimum information Markov model**</u>
+[✔︎arxiv]()
 
 
 1. Issey Sukeda and Takeru Matsuda:  
@@ -111,10 +112,13 @@ title = "Publication"
 ##### Talks（研究発表）
 <br />
 
-1. [(heading) ICSDS 2025](), Sevilla, Spain, December 2025.
-    - Student Travel Award session 
+1. [(heading) IMS Asia Pacific Rim 2026](https://ims-aprm2026.sta.cuhk.edu.hk/program/invited-paper-sessions), HongKong, June 2026.
+    - Invited Paper Sessions: Recent Advances in Copula Theory and Applications
+    - Title: Dependence modeling for circular data in neuroscience
+1. [ICSDS 2025](https://sites.google.com/view/ims-icsds2025/travel-awards_1), Sevilla, Spain, December 2025.
+    - Student Award session 
     - Title: Phase-amplitude coupling analysis with cylindrical distributions
-1. [(heading) RIKEN CBS Retreat 2025](), Tokyo, Japan, November 2025.
+1. RIKEN CBS Retreat 2025, Tokyo, Japan, November 2025.
     - Poster session 
     - Title: Phase-amplitude coupling analysis with cylindrical distributions
 1. [65th ISI World Statistics Congress 2025](https://www.isi-next.org/conferences/isi-wsc2025/), Hague, Netherlands, October 2025.
@@ -133,7 +137,7 @@ title = "Publication"
     - Title: On the comparison between the minimum information copulas under fixed rank correlations
 1. [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/), Nice, France, December 2024.
     - Title: Torus graph modelling for EEG analysis  
-1. [RIKEN CBS Retreat 2024](https://cbs.riken.jp/jp/lifeatcbs/retreat.html), Gotenba, Japan, November 2024.
+1. [RIKEN CBS Retreat 2024](https://cbs.riken.jp/jp/lifeatcbs/retreat2024-poster.html), Gotenba, Japan, November 2024.
     - Poster session [Poster](https://drive.google.com/drive/folders/1qxN6J-EmSJ1wOCkfKTzu-h4EI-lGO20P) （1st place in Theory/Tech Award）
     - Title: Torus graph modelling for EEG analysis
 1. [Time Series, Random Fields and Beyond](https://www.uni-ulm.de/mawi/mawi-stochastik/allgemeines/aktuelles/fall-school-time-series-random-fields-and-beyond-2024/), Ulm, Germany, September 2024.

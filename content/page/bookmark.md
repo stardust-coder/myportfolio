@@ -29,10 +29,12 @@ title = "Bookmark"
 - [清, 2021](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_75/_pdf)
 - [Samo,2021](http://proceedings.mlr.press/v130/kom-samo21a/kom-samo21a.pdf)
 - [Sei and Yano, 2022](https://arxiv.org/abs/2206.06792)
-- [Sukeda and Sei, 2023](https://arxiv.org/abs/2306.01604)
 - [Chen and Sei, 2024](https://www.sciencedirect.com/science/article/abs/pii/S0047259X23001173)
 - [Sei, 2024](https://arxiv.org/abs/2407.17682)
+- [Sukeda and Sei, 2025](https://arxiv.org/abs/2306.01604)
+- [Sukeda and Sei, 2025](https://www.sciencedirect.com/science/article/pii/S016771522400258X)
 - [Kojadinovic and Martini, 2025](https://arxiv.org/abs/2509.02829)
+- [Sukeda and Sei, 2026](https://arxiv.org/abs/2601.06900)
 
 #### 理論
 - [リスク解析における接合関数（塚原2021）](https://www.jstage.jst.go.jp/article/jjssj/51/1/51_101/_pdf)
@@ -86,6 +88,9 @@ title = "Bookmark"
 <a id="anchor999"></a>
 ### その他
 
+- [ガウス過程とカーネル法@金川先生](https://arxiv.org/abs/1807.02582)
+- [PAC-Bayesとmutual information bounds](https://arxiv.org/pdf/2412.18539)
+- [SUREとスコアマッチング](https://arxiv.org/abs/2502.20123)
 - [日本の統計学者](https://sites.google.com/site/shoutoyonekura/国内の統計学者リスト)
 - [恩師の記事](https://www.u-tokyo.ac.jp/focus/ja/features/voices036.html)
 - [オックスフォード大学の関連組織](https://www.oxford-man.ox.ac.uk/research-overview/)
