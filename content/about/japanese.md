@@ -10,6 +10,7 @@ title = "About me"
 
 
 ##### お知らせ
+* 2026.2 論文がNeural Computation誌にacceptされました🎉
 * 2026.1 [プレプリント]()を公開しました！
 
 <details><summary>過去</summary>

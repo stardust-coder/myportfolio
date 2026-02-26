@@ -10,6 +10,10 @@ title = "Publication"
 ##### Reviewed Journal Papers （論文誌, 英文査読付のみ）
 <br />
 
+1. Issey Sukeda and Takeru Matsuda:  
+<u>**Sparse graphical modeling for electrophysiological phase-based connectivity using circular statistics**</u>
+    , Neural Computation, 2026. (In Press) [✔︎biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v2) [✔︎paper]()
+
 1. Issey Sukeda and Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
     , Statistical Papers, 2025. [✔︎arxiv](https://arxiv.org/abs/2306.01604) [✔︎paper](https://link.springer.com/article/10.1007/s00362-024-01648-9)
@@ -93,12 +97,7 @@ title = "Publication"
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Minimum information Markov model**</u>
-[✔︎arxiv]()
-
-
-1. Issey Sukeda and Takeru Matsuda:  
-<u>**Sparse graphical modeling for electrophysiological phase-based connectivity using circular statistics**</u>
-[✔︎biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v2)
+[✔︎arxiv](https://arxiv.org/abs/2601.06900)
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Relative local dependence of bivariate copulas**</u>
@@ -174,10 +173,10 @@ title = "Publication"
     - 一般セッション
     - Title: 周波数領域での最適輸送による心電図データ拡張 [Paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1N3GS1004/_pdf)
 1. [日本応用数理学会第19回研究部会連合発表会 第8回学生研究発表](http://wakate.jsiam.org/?p=128), Okayama, Japan, March 2023.
-    - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ
+    - Title: On the comparison on minimum information copulas under fixed Spearman's ρ and Kendall's τ
 1. [第17回 日本統計学会春季集会](https://jss2023spring.ywstat.jp), Tokyo, Japan,  March 2023.
     - 学生優秀発表賞受賞 [会報](https://www.jss.gr.jp/wp-content/uploads/K195.pdf) [報告書](https://www.jss.gr.jp/wp-content/uploads/17th-shunki-houkoku.pdf)
-    - Title: On the comparison on minimun information copulas under fixed Spearman's ρ and Kendall's τ
+    - Title: On the comparison on minimum information copulas under fixed Spearman's ρ and Kendall's τ
 1. [統計科学の開拓（科研費シンポジウム）](http://stat.w3.kanazawa-u.ac.jp/ksympo22.html), Kanazawa, Japan, Dec. 2022.
     - 科学研究費・基盤研究（A） 「大規模複雑データの理論と方法論の革新的展開」 （研究代表者：青嶋 誠（筑波大学）, 課題番号：20H00576）[報告書](https://www.math.tsukuba.ac.jp/~aoshima-lab/jp/report_kanazawa22.pdf)
     - Title: Kendallの順位相関係数を固定した下での最小情報コピュラ [Abstract](http://stat.w3.kanazawa-u.ac.jp/sympo22/sukeda_y.pdf) 

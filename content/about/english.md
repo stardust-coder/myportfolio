@@ -12,6 +12,7 @@ Any collaboration, job offer, or discussion is welcome !
 ![This is me][1]
 
 #### 🔥 News
+* Feb. 2026 🎉 Our paper was accepted in Neural Computation!
 * Dec. 2025 🎉 Our paper was accepted in [ACM Multimedia Asia 2025 Workshop](https://dl.acm.org/doi/10.1145/3769748.3773362)! 
 * Oct. 2025 🎉 Two papers were accepted in [IJCNLP-AACL 2025](https://2025.aaclnet.org/) Main conference!
 * Aug. 2025 🎉 Our paper was accepted in [SIGGRAPH 2025](https://s2025.siggraph.org/) Posters!
