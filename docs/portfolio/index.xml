@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on ISSEY SUKEDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate><atom:link href="https://stardust-coder.github.io/myportfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Juggling</title>
       <link>https://stardust-coder.github.io/myportfolio/portfolio/juggling/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://stardust-coder.github.io/myportfolio/portfolio/balloonart/</guid>
       <description>&lt;p&gt;風船をねじるだけ、でも奥が深いバルーンアート&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>医療AIエージェント構築に向けた材料</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/medical_ai_agent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/medical_ai_agent/</guid>
-      <description>&lt;p&gt;医療AIエージェントについて考察&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -100,33 +91,6 @@
       
       <guid>https://stardust-coder.github.io/myportfolio/portfolio/kehai/</guid>
       <description>&lt;p&gt;「気配」を起点にしたコミュニケーションとは&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>「新しい相関係数」をわかった気になるためのコピュラ入門</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/blog_6/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/blog_6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>コピュラ統計学について</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/blog_2/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/blog_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ヘルスケア領域におけるAI利活用</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/blog_1/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/blog_1/</guid>
-      <description>&lt;p&gt;ヘルスケア領域 (Healthcare)におけるAI、特に生成AIの近年の利活用事例について&lt;/p&gt;</description>
     </item>
     
   </channel>
