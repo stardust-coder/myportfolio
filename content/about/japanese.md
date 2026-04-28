@@ -11,7 +11,7 @@ title = "About me"
 
 ##### お知らせ
 * 2026.2 論文がNeural Computation誌にacceptされました🎉
-* 2026.1 [プレプリント]()を公開しました！
+* 2026.1 プレプリントを公開しました！
 
 <details><summary>過去</summary>
 
@@ -26,8 +26,7 @@ title = "About me"
 
 ##### 研究内容
 
-[コピュラ統計学](https://stardust-coder.github.io/myportfolio/portfolio/blog_2/)と[LLM関連](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)に取り組んでいます。
-Please see [Publication](https://stardust-coder.github.io/myportfolio/page/publication/).
+[コピュラ統計学](https://qiita.com/stardust_stats/items/14d5c1b8e186b06c6db7)と[LLM](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)の研究に取り組んでいます。
 
 ##### 主な職歴
 
