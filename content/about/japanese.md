@@ -6,6 +6,8 @@ title = "About me"
 ##### 東京大学 大学院情報理工学系研究科
 ##### [株式会社EQUES](https://www.eques.co.jp) Co-Founder & 取締役CTO  
 
+ex.) GENIAC / 覚醒プロジェクト / 松尾研 / 東大病院 / PFN
+
 ![This is me][1]
 
 
@@ -15,7 +17,7 @@ title = "About me"
 
 <details><summary>過去</summary>
 
-* 2025.10 [AACL2025]()に論文が２本採択されました🎉
+* 2025.10 [IJCNLP-AACL2025]()に論文が２本採択されました🎉
 * 2025.6 [共著論文](https://dl.acm.org/doi/10.1145/3721250.3743023)が[SIGGRAPH2025](https://s2025.siggraph.org/) Postersに採択されました！
 * 2025.5 共著論文がSLM4Health Workshopに採択されました！
 * 2025.5 [プレプリント](http://arxiv.org/abs/2505.16661)を公開しました。
@@ -36,22 +38,22 @@ title = "About me"
 
 
 ##### 競争的研究資金
-* 産総研 若手人材によるディープテック研究開発「覚醒プロジェクト」採択 [JPY 3M]
+* 産総研 若手人材によるディープテック研究開発「覚醒プロジェクト」採択 [JPY 3M] 
 * EQUES CTOとしてのNEDO事業統括
-    - [ANIMINS](https://www.nedo.go.jp/koubo/IT3_100323.html) [再委託先, JPY Tens of M]
-    - [GENIAC](https://www.nedo.go.jp/koubo/IT3_100331.html) [実施事業者, JPY Tens of M]
+    - [ANIMINS](https://www.nedo.go.jp/koubo/IT3_100323.html) [再委託先, JPY Tens of M] [詳細](https://stardust-coder.github.io/myportfolio/portfolio/kakusei/)
+    - [GENIAC](https://www.nedo.go.jp/koubo/IT3_100331.html) [実施事業者, JPY Tens of M] [詳細](https://stardust-coder.github.io/myportfolio/portfolio/geniac/)
 
 ##### これまでの獲得支援
-* 日本学術振興会DC2 （採用内定辞退）
+* 学振 （採用内定辞退）
 * 理化学研究所
-* 東京大学大学院情報理工学系研究科 博士学生特別リサーチアシスタント
+* 博士学生特別リサーチアシスタント
 * JEES・ソフトバンクAI人材育成スカラーシップ 
 * ひよこ財団
 * キーエンス応援給付金
 
 
 ##### 受賞（個人）
-* ✈️ ICSDS2025 Student Award [link](https://sites.google.com/view/ims-icsds2025/travel-awards_1)
+* ✈️ ICSDS 2025 Student Award [link](https://sites.google.com/view/ims-icsds2025/travel-awards_1)
 * 🏆 覚醒プロジェクト「破」
 * 🥇 CBS Retreat 2024 - Poster Theory/Tech Award 1st Place [link](https://cbs.riken.jp/jp/lifeatcbs/retreat2024-poster.html)
 * 🥇 統計関連連合大会 最優秀報告賞(2024) [link](http://www.jfssa.jp/meeting/page-922/) [会報](https://pub-files.atlas.jp/cer-r/jfssa2024/pdf/2025announcement_250120_ja_20250120165157768.pdf)

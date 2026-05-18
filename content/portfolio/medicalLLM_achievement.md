@@ -24,9 +24,6 @@ description = "医療×LLMでドメイン特化AIを開発する取り組みの�
 1. [東大病院 | LLMの日本語医療ドメイン適応 | NeurIPS WS 2023採択](#anchor2)  
 1. [東大病院 | 心電図から心疾患や年齢予測を行うAIモデル | NeurIPS WS 2022採択](#anchor1)  
 ---
-[記事]
-1. [医療LLMとは](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm/)
----
 
 <a id="anchor0"></a>
 #### 医療LLMやデータセットの一覧作成（随時更新）

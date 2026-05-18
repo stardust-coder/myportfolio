@@ -4,15 +4,16 @@ title = "About me"
 +++
 
 
-This is Issey Sukeda. Currently, I am a PhD student under the supervision of Prof. Tomonari Sei and Prof. Takeru Matsuda.
+I am a PhD student at UTokyo, supervised by Prof. Tomonari Sei and Prof. Takeru Matsuda.
 My interest covers statistics and operations research.
-My full publications can be accessed from [Publication](https://stardust-coder.github.io/myportfolio/page/publication/).
-Any collaboration, job offer, or discussion is welcome !
+
+I was previously a research associate at UTokyo Hospital, where I developed the first Japanese medical LLM. 
+
 
 ![This is me][1]
 
 #### 🔥 News
-* Feb. 2026 🎉 Our paper was accepted in Neural Computation!
+* Feb. 2026 🎉 Our paper was accepted in [Neural Computation]()!
 * Dec. 2025 🎉 Our paper was accepted in [ACM Multimedia Asia 2025 Workshop](https://dl.acm.org/doi/10.1145/3769748.3773362)! 
 * Oct. 2025 🎉 Two papers were accepted in [IJCNLP-AACL 2025](https://2025.aaclnet.org/) Main conference!
 * Aug. 2025 🎉 Our paper was accepted in [SIGGRAPH 2025](https://s2025.siggraph.org/) Posters!
@@ -27,32 +28,31 @@ Any collaboration, job offer, or discussion is welcome !
 * Nov. 2022 🎉 Our paper was accepted in [ACM SenSys 2022](https://dl.acm.org/doi/10.1145/3560905.3568097) ! 
 * Feb. 2022 💪 Founded [EQUES Inc.](https://www.eques.co.jp) as CTO ! 
 
-#### 💊 Medical/Pharma LLM Projects
-* [Foundation models × Healthcare network data](https://prtimes.jp/main/html/rd/p/000000012.000101360.html) is a collaborative research with Kyoto Univ. and EQUES Inc. 
+
+
+#### 💊 Medical LLM Projects
+
 * [JPharmatron-7B](https://huggingface.co/collections/EQUES/jpharmatron-680a330b4dfce3ac43009984) is the first Japanese pharmaceutical domain specific LLM, developed along with new benchamrks [JPharmaBench](https://huggingface.co/collections/EQUES/jpharmabench-680a34acfe96870e41d050d8). Accepted at IJCNLP-AACL 2025 Main. A work at EQUES Inc.
 * [Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness) is the evaluation codes and leaderboard for medical LLMs. A work at AIST KAKUSEI.
 * [MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b) is the second Japanese medical LLM finetuned from Swallow-70b-instruct-hf. A work at UTokyo Hospital.
 * [JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000) is the first Japanese medical LLM finetuned from Llama2. A work at UTokyo Hospital.
-* [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM) is the curation of the latest and competent LLMs, including medical domain adaptation. Personal work. 
 
-#### 🗒 Pure Statistics Projects
 
-* [Minimum information Markov model](https://github.com/stardust-coder/min-info-markov) is a brand new Markov model that models the marginal stationary distribution and the dependence function seperately. 
+#### 🗒 Statistics Projects
+
+* [Minimum information Markov model](https://github.com/stardust-coder/min-info-markov) is a brand new Markov model that models the marginal (stationary) distribution and the dependence function seperately. 
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates the density function of minimum information copula, the most natural copula under predetermined constraints. 
-* [OGI (objective general index) implementation in Python](https://github.com/stardust-coder/objective-general-index) is the Python implementation of [Sei (2016)](https://www.sciencedirect.com/science/article/pii/S0047259X16000269).
-
-#### 🧠 Statistics x Neuroscience Projects
-
-* A development of new methods for phase-amplitude coupling analysis is ongoing ...
 * [Sparse Torus Graph](https://github.com/stardust-coder/torus_graph_modelling) introduces a high-dimensional circular model with regularization to estimate dependence structure behind EEG phase, i.e., phase-based connectivity.
 
 
 #### 🤖 Other AI Projects
+
 * [Lineart interpolation](https://huggingface.co/EQUES/qwen-image-edit-2511-lineart-interpolation) is a LoRA weight for Qwen Image Edit.
 
 
 #### 💰 Fundings & Grants
 
+* GENIAC（as CTO of EQUES Inc., 2024）
 * RIKEN CBS Junior Research Associate [JPY 7.8M + 1.5M]
 * JSPS DC2 (selected and declined due to CTO position)
 * IST-RA, funded by UTokyo IST. 

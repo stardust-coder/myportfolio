@@ -14,3 +14,11 @@ GENIAC「薬学分野・製薬業務に特化したLLM開発」
 <!--more-->
 
 [もっと見る](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/#anchor8)
+
+![登壇][1]
+
+![登壇][2]
+
+[1] /img/geniac2.png
+
+[2] /img/geniac.png
