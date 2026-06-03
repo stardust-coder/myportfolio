@@ -111,6 +111,12 @@ title = "Publication"
 ##### Talks（研究発表）
 <br />
 
+1. [(heading) 統計関連連合大会 2026](), Japan, September 2026.
+    - 口頭発表
+    - Title: 最小情報マルコフモデルの理論と脳波解析への応用
+1. [(heading) コピュラ理論の新展開](), Japan, June 2026.
+    - 口頭発表
+    - Title: 双曲リウビユコピュラの検討
 1. [(heading) IMS Asia Pacific Rim 2026](https://ims-aprm2026.sta.cuhk.edu.hk/program/invited-paper-sessions), HongKong, June 2026.
     - Invited Paper Sessions: Recent Advances in Copula Theory and Applications
     - Title: Dependence modeling for circular data in neuroscience

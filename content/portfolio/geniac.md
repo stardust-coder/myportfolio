@@ -19,6 +19,6 @@ GENIAC「薬学分野・製薬業務に特化したLLM開発」
 
 ![登壇][2]
 
-[1] /img/geniac2.png
+[1]: /img/geniac2.png
 
-[2] /img/geniac.png
+[2]: /img/geniac.png

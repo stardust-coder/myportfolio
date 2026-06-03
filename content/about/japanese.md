@@ -73,6 +73,8 @@ ex.) GENIAC / 覚醒プロジェクト / 松尾研 / 東大病院 / PFN
 
 
 ##### 掲載・登壇
+- 2026.3.19 [外務省　グローバル・サウスAI政策関係者一行招へいの実施　スタートアップとのピッチ・交流会（経産省GENIAC企業）](https://www.mofa.go.jp/mofaj/ecm/eds/pagew_000001_02518.html)
+- 2026.2.25 [外務省　令和7年度「中央アジア＋日本」対話・実務者会合（AI）　AI関連スタートアップ企業交流会](https://www.mofa.go.jp/mofaj/erp/ca_c/pagew_000001_02401.html)
 - 2025.11.19 [DCEXPO TV](https://m.youtube.com/watch?v=OjJG8yeBsoo)
 - 2025.10.27 [GENIAC開発事業者と利活用企業との第5回マッチングイベントを開催しました！](https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/matchingevents_5.html)
 - 2025.9.26 [第23回久留米大学バイオ統計学フォーラム 招待講演](http://www.biostat-kurume-u.jp/uploads/information/0000000125.pdf?1756386716)
