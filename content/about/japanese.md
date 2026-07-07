@@ -12,7 +12,7 @@ ex.) GENIAC / 覚醒プロジェクト / 松尾研 / 東大病院 / PFN / Sony C
 
 
 ##### お知らせ
-* 特になし
+* 2026.7 Google Scholar上の被引用数が100を超えました。これからもがんばります。
 
 <details><summary>過去</summary>
 
