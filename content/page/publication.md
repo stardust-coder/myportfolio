@@ -12,7 +12,7 @@ title = "Publication"
 
 1. Issey Sukeda and Takeru Matsuda:  
 <u>**Sparse graphical modeling for electrophysiological phase-based connectivity using circular statistics**</u>
-    , Neural Computation, 2026. (In Press) [✔︎biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v2) [✔︎paper]()
+    , Neural Computation. 38(7), 2026. [✔︎biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v2) [✔︎paper](https://direct.mit.edu/neco/issue/38/7)
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**On the minimum information checkerboard copulas under fixed Kendall's rank correlation**</u>
@@ -47,12 +47,12 @@ title = "Publication"
 1.  Shinnosuke Ono, Issey Sukeda, Takuro Fujii, Kosei Buma, Shunsuke Sasaki:  
 <u>**A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP**</u>
 , IJCNLP-AACL Main Conference, 2025. 
- [✔︎arxiv](http://arxiv.org/abs/2505.16661) 
+ [✔︎arxiv](http://arxiv.org/abs/2505.16661) [✔︎proceeding](https://aclanthology.org/2025.ijcnlp-long.72/)
 
 1. Hirohane Takagi, Gouki Minegishi, Shota Kizawa, Issey Sukeda, Hitomi Yanaka:  
 <u>**Interpreting Multi-Attribute Confounding through Numerical Attributes in Large Language Models**</u>
 , IJCNLP-AACL Main Conference, 2025. 
- [✔︎arxiv](https://arxiv.org/abs/2511.04053)
+ [✔︎arxiv](https://arxiv.org/abs/2511.04053) [✔︎proceeding](https://aclanthology.org/2025.ijcnlp-long.60/)
 
 
 1. Ryugo Morita, Sho Kuno, Ryunosuke Tanaka, Rongzhi Li, Hoang Dai Dinh, Issey Sukeda:  
@@ -111,13 +111,13 @@ title = "Publication"
 ##### Talks（研究発表）
 <br />
 
-1. [(heading) 統計関連連合大会 2026](), Japan, September 2026.
+1. [(heading) 統計関連連合大会 2026](https://pub.confit.atlas.jp/ja/event/jfssa2026), Japan, September 2026.
     - 口頭発表
     - Title: 最小情報マルコフモデルの理論と脳波解析への応用
-1. [(heading) コピュラ理論の新展開](), Japan, June 2026.
+1. [コピュラ理論の新展開](https://sites.google.com/view/statistician-takeshi/%E3%82%B3%E3%83%94%E3%83%A5%E3%83%A9%E7%A0%94%E7%A9%B6%E9%9B%86%E4%BC%9A), Japan, June 2026.
     - 口頭発表
     - Title: 双曲リウビユコピュラの検討
-1. [(heading) IMS Asia Pacific Rim 2026](https://ims-aprm2026.sta.cuhk.edu.hk/program/invited-paper-sessions), HongKong, June 2026.
+1. [IMS Asia Pacific Rim 2026](https://ims-aprm2026.sta.cuhk.edu.hk/program/invited-paper-sessions), HongKong, June 2026.
     - Invited Paper Sessions: Recent Advances in Copula Theory and Applications
     - Title: Dependence modeling for circular data in neuroscience
 1. [ICSDS 2025](https://sites.google.com/view/ims-icsds2025/travel-awards_1), Sevilla, Spain, December 2025.

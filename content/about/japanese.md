@@ -6,18 +6,19 @@ title = "About me"
 ##### 東京大学 大学院情報理工学系研究科
 ##### [株式会社EQUES](https://www.eques.co.jp) Co-Founder & 取締役CTO  
 
-ex.) GENIAC / 覚醒プロジェクト / 松尾研 / 東大病院 / PFN
+ex.) GENIAC / 覚醒プロジェクト / 松尾研 / 東大病院 / PFN / Sony CSL
 
 ![This is me][1]
 
 
 ##### お知らせ
-* 2026.2 論文がNeural Computation誌にacceptされました🎉
-* 2026.1 プレプリントを公開しました！
+* 特になし
 
 <details><summary>過去</summary>
 
-* 2025.10 [IJCNLP-AACL2025]()に論文が２本採択されました🎉
+* 2026.2 論文がNeural Computation誌にacceptされました🎉
+* 2026.1 プレプリントを公開しました！
+* 2025.10 [IJCNLP-AACL2025](https://2025.aaclnet.org/)に論文が２本採択されました🎉
 * 2025.6 [共著論文](https://dl.acm.org/doi/10.1145/3721250.3743023)が[SIGGRAPH2025](https://s2025.siggraph.org/) Postersに採択されました！
 * 2025.5 共著論文がSLM4Health Workshopに採択されました！
 * 2025.5 [プレプリント](http://arxiv.org/abs/2505.16661)を公開しました。
@@ -28,7 +29,9 @@ ex.) GENIAC / 覚醒プロジェクト / 松尾研 / 東大病院 / PFN
 
 ##### 研究内容
 
-[コピュラ統計学](https://qiita.com/stardust_stats/items/14d5c1b8e186b06c6db7)と[LLM](https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/)の研究に取り組んでいます。
+- コピュラ統計学、多変量解析、時系列解析
+- 数理最適化
+- ヘルスケア×AI（心電図、医療LLM、脳波解析）
 
 ##### 主な職歴
 
@@ -45,7 +48,7 @@ ex.) GENIAC / 覚醒プロジェクト / 松尾研 / 東大病院 / PFN
 
 ##### これまでの獲得支援
 * 学振 （採用内定辞退）
-* 理化学研究所
+* 理化学研究所リサーチアソシエイト
 * 博士学生特別リサーチアシスタント
 * JEES・ソフトバンクAI人材育成スカラーシップ 
 * ひよこ財団
