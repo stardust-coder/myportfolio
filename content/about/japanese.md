@@ -16,7 +16,7 @@ ex.) GENIAC / 覚醒プロジェクト / 松尾研 / 東大病院 / PFN / Sony C
 
 <details><summary>過去</summary>
 
-* 2026.2 論文がNeural Computation誌にacceptされました🎉
+* 2026.2 論文が[Neural Computation](https://direct.mit.edu/neco/issue/38/7)にacceptされました🎉
 * 2026.1 プレプリントを公開しました！
 * 2025.10 [IJCNLP-AACL2025](https://2025.aaclnet.org/)に論文が２本採択されました🎉
 * 2025.6 [共著論文](https://dl.acm.org/doi/10.1145/3721250.3743023)が[SIGGRAPH2025](https://s2025.siggraph.org/) Postersに採択されました！

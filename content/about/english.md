@@ -4,8 +4,12 @@ title = "About me"
 +++
 
 
-I am a PhD student at UTokyo, supervised by Prof. Tomonari Sei and Prof. Takeru Matsuda.
-My interest covers statistics and operations research.
+I am an applied math PhD candidate at the University of Tokyo, supervised by Professor Tomonari Sei and Professor Takeru Matsuda. 
+My research interests include statistics, LLMs, neuroscience, and AI for healthcare.
+
+My work explores *how dependence structure in data and worlds should be modeled* and incorporated into AI systems. 
+In my doctoral research, I have developed dependence modeling methods based on the minimum information principle, extending from bivariate copulas to Markov models and graphical models.
+
 
 I was previously a research associate at UTokyo Hospital, where I developed the first Japanese medical LLM. 
 
@@ -13,7 +17,8 @@ I was previously a research associate at UTokyo Hospital, where I developed the 
 ![This is me][1]
 
 #### 🔥 News
-* Feb. 2026 🎉 Our paper was accepted in [Neural Computation]()!
+* Aug. 2026 🎉 Our paper was accepted in Journal of Multivariate Analysis!
+* Feb. 2026 🎉 Our paper was accepted in [Neural Computation](https://direct.mit.edu/neco/issue/38/7)!
 * Dec. 2025 🎉 Our paper was accepted in [ACM Multimedia Asia 2025 Workshop](https://dl.acm.org/doi/10.1145/3769748.3773362)! 
 * Oct. 2025 🎉 Two papers were accepted in [IJCNLP-AACL 2025](https://2025.aaclnet.org/) Main conference!
 * Aug. 2025 🎉 Our paper was accepted in [SIGGRAPH 2025](https://s2025.siggraph.org/) Posters!
@@ -43,11 +48,6 @@ I was previously a research associate at UTokyo Hospital, where I developed the 
 * [Minimum information Markov model](https://github.com/stardust-coder/min-info-markov) is a brand new Markov model that models the marginal (stationary) distribution and the dependence function seperately. 
 * [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates the density function of minimum information copula, the most natural copula under predetermined constraints. 
 * [Sparse Torus Graph](https://github.com/stardust-coder/torus_graph_modelling) introduces a high-dimensional circular model with regularization to estimate dependence structure behind EEG phase, i.e., phase-based connectivity.
-
-
-#### 🤖 Other AI Projects
-
-* [Lineart interpolation](https://huggingface.co/EQUES/qwen-image-edit-2511-lineart-interpolation) is a LoRA weight for Qwen Image Edit.
 
 
 #### 💰 Fundings & Grants

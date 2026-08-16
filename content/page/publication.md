@@ -10,6 +10,11 @@ title = "Publication"
 ##### Reviewed Journal Papers （論文誌, 英文査読付のみ）
 <br />
 
+
+1. Issey Sukeda and Tomonari Sei:  
+<u>**Minimum information Markov model**</u>
+    , Journal of Multivariate analysis, 2026 (in press). [✔︎arxiv](https://arxiv.org/abs/2601.06900)
+
 1. Issey Sukeda and Takeru Matsuda:  
 <u>**Sparse graphical modeling for electrophysiological phase-based connectivity using circular statistics**</u>
     , Neural Computation. 38(7), 2026. [✔︎biorxiv](https://www.biorxiv.org/content/10.1101/2025.03.04.641567v2) [✔︎paper](https://direct.mit.edu/neco/issue/38/7)
@@ -94,10 +99,6 @@ title = "Publication"
 
 ##### Preprint （紀要）
 <br />
-
-1. Issey Sukeda and Tomonari Sei:  
-<u>**Minimum information Markov model**</u>
-[✔︎arxiv](https://arxiv.org/abs/2601.06900)
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Relative local dependence of bivariate copulas**</u>
