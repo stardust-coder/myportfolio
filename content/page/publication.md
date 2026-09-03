@@ -13,7 +13,7 @@ title = "Publication"
 
 1. Issey Sukeda and Tomonari Sei:  
 <u>**Minimum information Markov model**</u>
-    , Journal of Multivariate analysis, 2026 (in press). [✔︎arxiv](https://arxiv.org/abs/2601.06900)
+    , Journal of Multivariate Analysis, 2026 (in press). [✔︎arxiv](https://arxiv.org/abs/2601.06900)
 
 1. Issey Sukeda and Takeru Matsuda:  
 <u>**Sparse graphical modeling for electrophysiological phase-based connectivity using circular statistics**</u>

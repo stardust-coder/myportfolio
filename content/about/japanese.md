@@ -6,12 +6,15 @@ title = "About me"
 ##### 東京大学 大学院情報理工学系研究科
 ##### [株式会社EQUES](https://www.eques.co.jp) Co-Founder & 取締役CTO  
 
-ex.) GENIAC / 覚醒プロジェクト / 松尾研 / 東大病院 / PFN / Sony CSL
+ex.) GENIAC ← AIST覚醒 
+
+ex.-intern) 松尾研・東大病院 ← PFN ← Sony CSL
 
 ![This is me][1]
 
 
 ##### お知らせ
+* 2026.8 論文が[Journal of Multivariate Analysis]()にacceptされました🎉
 * 2026.7 Google Scholar上の被引用数が100を超えました。これからもがんばります。
 
 <details><summary>過去</summary>
@@ -29,9 +32,9 @@ ex.) GENIAC / 覚醒プロジェクト / 松尾研 / 東大病院 / PFN / Sony C
 
 ##### 研究内容
 
-- コピュラ統計学、多変量解析、時系列解析
-- 数理最適化
-- ヘルスケア×AI（心電図、医療LLM、脳波解析）
+- **統計的依存構造**：コピュラモデル、情報理論的統計モデリング
+- **グラフ・ネットワーク**：統計的グラフィカルモデル、ネットワーク解析、方向統計
+- **医療AI・大規模言語モデル**：医療LLM、生成AIの医療応用、生体信号解析（EEG, ECGなど）
 
 ##### 主な職歴
 

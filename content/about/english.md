@@ -5,13 +5,10 @@ title = "About me"
 
 
 I am an applied math PhD candidate at the University of Tokyo, supervised by Professor Tomonari Sei and Professor Takeru Matsuda. 
-My research interests include statistics, LLMs, neuroscience, and AI for healthcare.
+My research interests include statistics, copulas, LLMs, neuroscience, and AI for healthcare.
 
 My work explores *how dependence structure in data and worlds should be modeled* and incorporated into AI systems. 
 In my doctoral research, I have developed dependence modeling methods based on the minimum information principle, extending from bivariate copulas to Markov models and graphical models.
-
-
-I was previously a research associate at UTokyo Hospital, where I developed the first Japanese medical LLM. 
 
 
 ![This is me][1]
@@ -33,21 +30,26 @@ I was previously a research associate at UTokyo Hospital, where I developed the 
 * Nov. 2022 🎉 Our paper was accepted in [ACM SenSys 2022](https://dl.acm.org/doi/10.1145/3560905.3568097) ! 
 * Feb. 2022 💪 Founded [EQUES Inc.](https://www.eques.co.jp) as CTO ! 
 
+#### Research Interests
+
+- **Dependence modeling**: copula theory; information-theoretic statistical models
+- **Graph network**: statistical graphical models; network analysis; circular data
+- **AI for healthcare**: biomedical data analysis; clinical AI applications
 
 
-#### 💊 Medical LLM Projects
+#### 💊 Medical/Pharma LLM Projects
 
-* [JPharmatron-7B](https://huggingface.co/collections/EQUES/jpharmatron-680a330b4dfce3ac43009984) is the first Japanese pharmaceutical domain specific LLM, developed along with new benchamrks [JPharmaBench](https://huggingface.co/collections/EQUES/jpharmabench-680a34acfe96870e41d050d8). Accepted at IJCNLP-AACL 2025 Main. A work at EQUES Inc.
-* [Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness) is the evaluation codes and leaderboard for medical LLMs. A work at AIST KAKUSEI.
-* [MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b) is the second Japanese medical LLM finetuned from Swallow-70b-instruct-hf. A work at UTokyo Hospital.
 * [JMedLoRA](https://huggingface.co/AIgroup-CVM-utokyohospital/llama2-jmedlora-3000) is the first Japanese medical LLM finetuned from Llama2. A work at UTokyo Hospital.
+* [MedSwallow](https://huggingface.co/AIgroup-CVM-utokyohospital/MedSwallow-70b) is the second Japanese medical LLM finetuned from Swallow-70b-instruct-hf. (work at UTokyo Hospital).
+* [Japanese Medical Language Model Evaluation Harness](https://github.com/stardust-coder/japanese-lm-med-harness) is the evaluation codes and leaderboard for medical LLMs. (work at AIST KAKUSEI)
+* [JPharmatron-7B](https://huggingface.co/collections/EQUES/jpharmatron-680a330b4dfce3ac43009984) is the first Japanese pharmaceutical domain specific LLM, developed along with new benchamrks [JPharmaBench](https://huggingface.co/collections/EQUES/jpharmabench-680a34acfe96870e41d050d8). Accepted at IJCNLP-AACL 2025 Main. (work at EQUES Inc.)
 
 
 #### 🗒 Statistics Projects
 
-* [Minimum information Markov model](https://github.com/stardust-coder/min-info-markov) is a brand new Markov model that models the marginal (stationary) distribution and the dependence function seperately. 
-* [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates the density function of minimum information copula, the most natural copula under predetermined constraints. 
-* [Sparse Torus Graph](https://github.com/stardust-coder/torus_graph_modelling) introduces a high-dimensional circular model with regularization to estimate dependence structure behind EEG phase, i.e., phase-based connectivity.
+* [Minimum Information Copula](https://github.com/stardust-coder/minimum-information-copula) is the library that numerically calculates density function of minimum information copulas, defined as the most natural copula under predetermined constraints. 
+* [Minimum information Markov model](https://github.com/stardust-coder/min-info-markov) is a brand new Markov model that models the marginal (stationary) distribution and the dependence function seperately. Accepted in JMA.
+* [Sparse Torus Graph](https://github.com/stardust-coder/torus_graph_modelling) introduces a high-dimensional circular model with regularization to estimate dependence structure behind EEG phase, i.e., phase-based connectivity. Accepted in Neural Computation.
 
 
 #### 💰 Fundings & Grants
