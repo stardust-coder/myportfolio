@@ -2,27 +2,22 @@
 image = "img/geniac.JPG"
 showonlyimage = true
 date = "24-10-12T17:00:00+00:00"
-title = "GENIAC"
+title = "GENIACなど"
 draft = false
 weight = 5
 +++
 
-GENIAC「薬学分野・製薬業務に特化したLLM開発」
+経産省/NEDOによるGENIAC「薬学分野・製薬業務に特化したLLM開発」
 
 など
 
 <!--more-->
 
-![登壇][1]
-
 ![登壇][2]
 
-[1]: /img/geniac2.png
-
-[2]: /img/geniac.png
+[2]: /img/geniac.JPG
 
 ---
-[実績] 新しい順.
 1. [久留米大学バイオ統計学フォーラム | 招待講演](#anchor9)
 1. [EQUES | 経産省NEDO　GENIAC「薬学分野・製薬業務に特化したLLMの開発」| IJCNLP-AACL2025 Main採択](#anchor8)
 1. [岡山大学AI研究会 | 招待講演](#anchor7)  
@@ -149,3 +144,4 @@ GENIAC「薬学分野・製薬業務に特化したLLM開発」
 
 1. [Masked Autoencoder-Based Self-Supervised Learning for Electrocardiograms to Detect Left Ventricular Systolic Dysfunction](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60064.png?t=1669681561.7912426)
 1. [Age prediction from coronary angiography using a deep neural network: Age as a potential label to extract prognosis-related imaging features](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276928)
+
