@@ -198,16 +198,16 @@ title = "Publication"
 
 <br />
 
-##### Misc.
+##### Misc.（その他）
 <br />
 
-* 峰岸剛基, 高木洋羽, 木澤翔太, 助田一晟, 谷中 瞳  
+1. 峰岸剛基, 高木洋羽, 木澤翔太, 助田一晟, 谷中 瞳  
 <u>**大規模言語モデルにおいて数値属性間で共有されるスケーリングベクトルの解析とその応用**</u>
 [言語処理学会 第31回年次大会発表論文集](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A6-2.pdf)
 
-* [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/).  
+1. [Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/数値シミュレーションデータの低次元潜在空間に/).  
 「数値シミュレーションデータの低次元潜在空間における時間発展ダイナミクスの学習」
 
-* 助田一晟.
+1. 助田一晟.
 <u>**周波数領域での最適輸送による心電図データ拡張**</u>
  [人工知能学会全国大会論文集 第３７回(2023)](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_1N3GS1004/_article/-char/ja/)

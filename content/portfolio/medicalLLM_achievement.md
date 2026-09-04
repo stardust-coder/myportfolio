@@ -3,7 +3,7 @@ image = "img/medicalllm.png"
 showonlyimage = true
 date = "224-04-09T19:44:32+05:30"
 title = "医療LLM"
-draft = false
+draft = true
 weight = 3
 description = "医療×LLMでドメイン特化AIを開発する取り組みの成果を紹介します。"
 +++

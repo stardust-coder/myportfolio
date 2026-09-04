@@ -6,9 +6,7 @@ title = "About me"
 ##### 東京大学 大学院情報理工学系研究科
 ##### [株式会社EQUES](https://www.eques.co.jp) Co-Founder & 取締役CTO  
 
-ex.) GENIAC ← AIST覚醒 
-
-ex.-intern) 松尾研・東大病院 ← PFN ← Sony CSL
+経産省 GENIAC / AIST 覚醒 / 統計数理・生成AIを研究
 
 ![This is me][1]
 
@@ -101,7 +99,6 @@ ex.-intern) 松尾研・東大病院 ← PFN ← Sony CSL
 
 ##### その他職歴
 
-- 東京大学情報理工学系研究科 数理情報学専攻 TA
 - [東京大学データサイエンスコモンズ](http://www.mi.u-tokyo.ac.jp/dscommons/) TA
 - [東京大学エクステンション](https://www.utokyo-ext.co.jp/dss/teacher-list) TA
 - [インクルーシブ工学連携機構（RIISE）](https://www.riise.u-tokyo.ac.jp/research_programs/sdc/members) RA 

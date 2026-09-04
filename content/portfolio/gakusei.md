@@ -3,7 +3,7 @@ image = "img/school.png"
 showonlyimage = true
 date = "24-10-12T17:00:00+00:00"
 title = "学生時代の活動"
-draft = false
+draft = true
 weight = 5
 +++
 

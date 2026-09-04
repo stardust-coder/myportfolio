@@ -26,27 +26,6 @@
     </item>
     
     <item>
-      <title>医療LLM</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/medicalllm_achievement/</guid>
-      <description>&lt;p&gt;医療AI・医療×LLMの研究開発：これまでの自身の取り組み&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;医療に関連する自然言語処理分野において, ドメイン特化AIを開発する取り組みの成果を紹介します。&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>App</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/app/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/app/</guid>
-      <description>&lt;p&gt;東大生と考えるフェルミ推定&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>産総研『覚醒』プロジェクト</title>
       <link>https://stardust-coder.github.io/myportfolio/portfolio/kakusei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -63,25 +42,7 @@
       
       <guid>https://stardust-coder.github.io/myportfolio/portfolio/geniac/</guid>
       <description>&lt;p&gt;GENIAC「薬学分野・製薬業務に特化したLLM開発」&lt;/p&gt;
-&lt;p&gt;株式会社EQUESの製薬特化LLM開発プロジェクト.  CTOとして事業統括を務めました.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>学生時代の活動</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/gakusei/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/gakusei/</guid>
-      <description>&lt;p&gt;博士進学前の課外活動&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>kehai</title>
-      <link>https://stardust-coder.github.io/myportfolio/portfolio/kehai/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://stardust-coder.github.io/myportfolio/portfolio/kehai/</guid>
-      <description>&lt;p&gt;「気配」を起点にしたコミュニケーションとは&lt;/p&gt;</description>
+&lt;p&gt;など&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -100,8 +61,7 @@ My work explores how dependence structure in data and worlds should be modeled a
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://stardust-coder.github.io/myportfolio/about/japanese/</guid>
-      <description>東京大学 大学院情報理工学系研究科 株式会社EQUES Co-Founder &amp;amp; 取締役CTO ex.) GENIAC ← AIST覚醒
-ex.-intern) 松尾研・東大病院 ← PFN ← Sony CSL
+      <description>東京大学 大学院情報理工学系研究科 株式会社EQUES Co-Founder &amp;amp; 取締役CTO 経産省 GENIAC / AIST 覚醒 / 統計数理・生成AIを研究
 お知らせ 2026.8 論文がJournal of Multivariate Analysisにacceptされました🎉 2026.7 Google Scholar上の被引用数が100を超えました。これからもがんばります。 過去 2026.2 論文がNeural Computationにacceptされました🎉 2026.1 プレプリントを公開しました！ 2025.10 IJCNLP-AACL2025に論文が２本採択されました🎉 2025.6 共著論文がSIGGRAPH2025 Postersに採択されました！ 2025.5 共著論文がSLM4Health Workshopに採択されました！ 2025.5 プレプリントを公開しました。 2025.3 覚醒プロジェクト「破」を受賞しました. 2025.3 プレプリントを公開しました。 研究内容 統計的依存構造：コピュラモデル、情報理論的統計モデリング グラフ・ネットワーク：統計的グラフィカルモデル、ネットワーク解析、方向統計 医療AI・大規模言語モデル：医療LLM、生成AIの医療応用、生体信号解析（EEG, ECGなど） 主な職歴 東京大学松尾・岩澤研究室 大規模言語モデルDeepLearning応用講座 2024 講師 株式会社松尾研究所 プロジェクトマネジャー 東京大学医学部附属病院 学術専門職員（AIリサーチャー） 競争的研究資金 産総研 若手人材によるディープテック研究開発「覚醒プロジェクト」採択 [JPY 3M] EQUES CTOとしてのNEDO事業統括 ANIMINS [再委託先, JPY Tens of M] 詳細 GENIAC [実施事業者, JPY Tens of M] 詳細 これまでの獲得支援 学振 （採用内定辞退） 理化学研究所リサーチアソシエイト 博士学生特別リサーチアシスタント JEES・ソフトバンクAI人材育成スカラーシップ ひよこ財団 キーエンス応援給付金 受賞（個人） ✈️ ICSDS 2025 Student Award link 🏆 覚醒プロジェクト「破」 🥇 CBS Retreat 2024 - Poster Theory/Tech Award 1st Place link 🥇 統計関連連合大会 最優秀報告賞(2024) link 会報 🥇 2023年度スポーツデータサイエンスコンペティション MLB部門 優秀賞 link 🏆 ISI東京大会記念奨励賞(2023) link 会報 🏆 統計質保証推進協会 統計検定センター長賞（第17回日本統計学会春季集会,2023） 🏆 日本統計学会 学生優秀発表賞（第17回日本統計学会春季集会,2023） link 🥈 優秀賞&amp;amp;学生投票賞, 東京大学数理・データサイエンスコンソーシアム 第３回データサイエンスコンテスト(2020) link 🥉 銅賞, 化学グランプリ(2016) link 🥉 3位, All Japan Diabolo Competition(2015) 受賞（チーム） 🥉3位, 松尾研究所内部AIコンペティション(2022) 🏆ファイナリスト, FinSUM 全国ビジネスコンテスト(2021) link 🏆ヤフー賞, CivicTech Challenge Cup (2021) link 🥇最優秀賞, AI/SUM 全国ビジネスコンテスト(2020) link 掲載・登壇 2026.</description>
     </item>
     

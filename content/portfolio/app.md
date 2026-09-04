@@ -3,7 +3,7 @@ image = "img/app.png"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "App"
-draft = false
+draft = true
 weight = 4
 +++
 

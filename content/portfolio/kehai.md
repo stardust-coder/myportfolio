@@ -3,7 +3,7 @@ image = "img/kehailogo.png"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "kehai"
-draft = false
+draft = true
 weight = 6
 +++
 
